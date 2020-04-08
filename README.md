@@ -1,2 +1,2 @@
 # GoVi-EPG
-Guía EPG Tdt España
+Guía EPG España
