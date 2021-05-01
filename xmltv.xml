@@ -1443,7 +1443,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210503054331 +0200" stop="20210503071853 +0200" channel="XTRM">
+  <programme start="20210503054331 +0200" stop="20210503064114 +0200" channel="XTRM">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
     <credits>
@@ -1473,7 +1473,37 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210503071853 +0200" stop="20210503080210 +0200" channel="XTRM">
+  <programme start="20210503064114 +0200" stop="20210503072325 +0200" channel="XTRM">
+    <title lang="es">19-2</title>
+    <desc lang="es">Tras arrestar a un sintecho incomprendido y atrapar a un fugitivo, Nick y Ben se dan cuenta de que no pueden salvar a todo el mundo.</desc>
+    <credits>
+      <director>Louis Choquette</director>
+      <director>Choquette Louis</director>
+      <actor>Adrian Holmes</actor>
+      <actor>Jared Keeso</actor>
+      <actor>Dan Petronijevic</actor>
+      <actor>Benz Antoine</actor>
+      <actor>Mylène Dinh-Robic</actor>
+      <actor>Bruce Ramsay</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Tattiawna Jones</actor>
+      <actor>Jones Tattiawna</actor>
+      <writer>Lynne Kamm</writer>
+      <writer>Jesse McKeown</writer>
+      <producer>Saralo MacGregor</producer>
+      <producer>Luc Châtelain</producer>
+      <composer>Reinhold Hoffmann</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2602065.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20210503072325 +0200" stop="20210503080721 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Nick y Ben llevan al equipo al pie de guerra con un escuadrón de bomberos. Pequeños errores tendrán consecuencias permanentes.</desc>
     <credits>
@@ -1502,7 +1532,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210503080210 +0200" stop="20210503084224 +0200" channel="XTRM">
+  <programme start="20210503080721 +0200" stop="20210503084813 +0200" channel="XTRM">
     <title lang="es">Sucesor designado</title>
     <desc lang="es">Cuando una bomba en el Capitolio mata al presidente de los Estados Unidos y a todos los altos cargos políticos, el sucesor designado, Tom Kirkman, Secretario de Urbanismo, toma las riendas del país.</desc>
     <credits>
@@ -1531,7 +1561,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210503084224 +0200" stop="20210503092500 +0200" channel="XTRM">
+  <programme start="20210503084813 +0200" stop="20210503093126 +0200" channel="XTRM">
     <title lang="es">Sucesor designado</title>
     <desc lang="es">El día después del atentado, el presidente Kirkman se enfrenta a un gobernador rebelde y nace una conspiración. El FBI emprende la caza de los culpables.</desc>
     <credits>
@@ -1560,7 +1590,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210503092500 +0200" stop="20210503110630 +0200" channel="XTRM">
+  <programme start="20210503093126 +0200" stop="20210503111043 +0200" channel="XTRM">
     <title lang="es">Código de honor</title>
     <desc lang="es">Un excoronel de las Fuerzas Especiales vuelve a casa después de haber abandonado su carrera con ansias de tranquilidad y descanso, pero cuando un grupo de mafiosos amenaza a los de su alrededor no puede mantenerse al margen.</desc>
     <credits>
@@ -1588,7 +1618,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210503110630 +0200" stop="20210503123709 +0200" channel="XTRM">
+  <programme start="20210503111043 +0200" stop="20210503123931 +0200" channel="XTRM">
     <title lang="es">The Asian Connection</title>
     <desc lang="es">Dos norteamericanos roban un banco en Camboya sin saber que el dinero pertenece a un peligroso narcotraficante que querrá recuperar lo que es suyo a toda costa.</desc>
     <credits>
@@ -1615,7 +1645,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210503123709 +0200" stop="20210503144144 +0200" channel="XTRM">
+  <programme start="20210503123931 +0200" stop="20210503144436 +0200" channel="XTRM">
     <title lang="es">Delta Force</title>
     <desc lang="es">Un avión en ruta de Atenas y Roma hacia Nueva York es secuestrado por un grupo terrorista palestino y desviado a Beirut. Los pasajeros, en su mayoría norteamericanos, se convierten en rehenes.</desc>
     <credits>
@@ -1642,7 +1672,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210503144144 +0200" stop="20210503163431 +0200" channel="XTRM">
+  <programme start="20210503144436 +0200" stop="20210503163724 +0200" channel="XTRM">
     <title lang="es">La leyenda de Ben Hall</title>
     <desc lang="es">Tras años oculto, Ben Hall retoma su vida de forajido junto a su viejo amigo John Gilbert. Pronto se convertirán en los hombres más buscados de la historia de Australia.</desc>
     <credits>
@@ -1668,7 +1698,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210503163431 +0200" stop="20210503182640 +0200" channel="XTRM">
+  <programme start="20210503163724 +0200" stop="20210503183003 +0200" channel="XTRM">
     <title lang="es">El hombre sin pasado</title>
     <desc lang="es">Cuando la mafia secuestra a su vecina y a su hija, Taek-shik, un prestamista taciturno, se ve obligado a hacer una entrega de droga para ellos.</desc>
     <credits>
@@ -1693,7 +1723,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210503182640 +0200" stop="20210503200635 +0200" channel="XTRM">
+  <programme start="20210503183003 +0200" stop="20210503200928 +0200" channel="XTRM">
     <title lang="es">Abierto hasta el amanecer</title>
     <desc lang="es">Dos criminales, perseguidos por la policía de Texas y el FBI, raptan a los propietarios de una autocaravana, cruzan con ellos la frontera y buscan refugio en un siniestro local que resulta estar infestado de vampiros.</desc>
     <credits>
@@ -1720,7 +1750,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210503200635 +0200" stop="20210503220000 +0200" channel="XTRM">
+  <programme start="20210503200928 +0200" stop="20210503220205 +0200" channel="XTRM">
     <title lang="es">Sobibor: Campo De Exterminio</title>
     <desc lang="es">El 14 de octubre de 1943, más de 400 prisioneros dirigidos por el oficial judío soviético Alexánder Pecherski llevaron a cabo un alzamiento en el campo de exterminio de Sobibor.</desc>
     <credits>
@@ -1738,7 +1768,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210503220000 +0200" stop="20210503232633 +0200" channel="XTRM">
+  <programme start="20210503220205 +0200" stop="20210503232917 +0200" channel="XTRM">
     <title lang="es">Tell</title>
     <desc lang="es">Ethan Tell, un ladrón de poca monta, da el golpe de su vida al robar un millón de dólares junto a su banda. Capturado por la policía y condenado a prisión, tres años después sale de la cárcel.</desc>
     <credits>
@@ -2409,7 +2439,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210502231834 +0200" stop="20210503004541 +0200" channel="Somos">
+  <programme start="20210502231834 +0200" stop="20210503004534 +0200" channel="Somos">
     <title lang="es">Aquí llega Condemor, el pecador de la pradera</title>
     <desc lang="es">Condemor es nombrado sheriff y cumple con el trabajo que se le va acumulando. Pero su objetivo es volver a su patria, Francia.</desc>
     <credits>
@@ -2436,7 +2466,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210503004541 +0200" stop="20210503014012 +0200" channel="Somos">
+  <programme start="20210503004534 +0200" stop="20210503020742 +0200" channel="Somos">
     <title lang="es">El hijo del cura</title>
     <desc lang="es">En un pueblo de Levante español vive Justo, el cura, muy querido por todos los vecinos por su forma de ayudar a los demás. Agapito, el alcalde comunista, tiene una hija, que al quedar embarazada de su novio...</desc>
     <credits>
@@ -2459,30 +2489,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210503014012 +0200" stop="20210503030101 +0200" channel="Somos">
-    <title lang="es">El hijo del cura</title>
-    <desc lang="es">En un pueblo de Levante español vive Justo, el cura, muy querido por todos los vecinos por su forma de ayudar a los demás. Agapito, el alcalde comunista, tiene una hija, que al quedar embarazada de su novio...</desc>
-    <credits>
-      <director>Mariano Ozores</director>
-      <actor>Fernando Esteso</actor>
-      <actor>Mari Carmen Prendes</actor>
-      <actor>Adriana Ozores</actor>
-      <actor>Juanito Navarro</actor>
-      <actor>Nadine Rochex</actor>
-      <actor>Beatriz Escudero</actor>
-      <actor>Antonio Ozores</actor>
-      <actor>Alonso del Real</actor>
-      <composer>Gregorio García Segura</composer>
-    </credits>
-    <date>1982</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6377.jpg" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20210503030101 +0200" stop="20210503082536 +0200" channel="Somos">
+  <programme start="20210503020742 +0200" stop="20210503071220 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -2492,7 +2499,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210503082536 +0200" stop="20210503094625 +0200" channel="Somos">
+  <programme start="20210503071220 +0200" stop="20210503083429 +0200" channel="Somos">
     <title lang="es">Furtivos</title>
     <desc lang="es">Un joven cazador furtivo vive aislado en el bosque con su madre violenta y posesiva. Un día, conoce a Milagros, una chica escapada de un convento de monjas. Pero los celos de la madre provocarán una dramática reacción.</desc>
     <credits>
@@ -2517,7 +2524,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210503094625 +0200" stop="20210503110153 +0200" channel="Somos">
+  <programme start="20210503083429 +0200" stop="20210503095118 +0200" channel="Somos">
     <title lang="es">Nunca es demasiado tarde</title>
     <desc lang="es">Jorge está implicado en un robo en el que un hombre resulta muerto. Para escapar, decide irse a vivir al lugar donde nación, donde también están dos hermanos suyos. Pero los viejos rencores familiares no tardan en aparecer.</desc>
     <credits>
@@ -2541,7 +2548,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210503110153 +0200" stop="20210503124630 +0200" channel="Somos">
+  <programme start="20210503095118 +0200" stop="20210503113649 +0200" channel="Somos">
     <title lang="es">Tengo 17 años</title>
     <desc lang="es">Rocío, una joven provista de una gran imaginación, se escapa de casa, porque se siente incomprendida por su madrastra y responsable de que su fiel mayordomo haya sido injustamente acusado de robo.</desc>
     <credits>
@@ -2565,7 +2572,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210503124630 +0200" stop="20210503130300 +0200" channel="Somos">
+  <programme start="20210503113649 +0200" stop="20210503115513 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Lina Morgan</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Lina Morgan.</desc>
     <credits>
@@ -2580,25 +2587,30 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210503130300 +0200" stop="20210503145427 +0200" channel="Somos">
-    <title lang="es">¿Dónde vas Alfonso XII?</title>
-    <desc lang="es">A pesar de la mala relación entre sus familias, Alfonso de Borbón y Maria de las Mercedes se enamoran y se casan cuando Alfonso se convierte en rey.</desc>
+  <programme start="20210503115513 +0200" stop="20210503134758 +0200" channel="Somos">
+    <title lang="es">¿Dónde vas, Alfonso XII?</title>
+    <desc lang="es">Recreación histórica de la llegada al trono de Alfonso XII y de su matrimonio con su prima María de las Mercedes de Orleans, pese a las posiciones encontradas de las familias. La esposa muere a los pocos meses.</desc>
     <credits>
-      <director>Amadori Luis Cesar</director>
-      <actor>Davó Vicente Parra</actor>
+      <director>Luis César Amadori</director>
       <actor>Paquita Rico</actor>
+      <actor>Vicente Parra</actor>
       <actor>Mercedes Vecino</actor>
       <actor>Tomás Blanco</actor>
+      <actor>José Marco Davó</actor>
+      <actor>Jesús Tordesillas</actor>
+      <writer>Luis César Amadori</writer>
+      <writer>Luis Marquina</writer>
+      <composer>Guillermo Cases</composer>
     </credits>
     <date>1958</date>
-    <category lang="es">Histórico</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4847479.jpg" />
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/17247.jpg" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210503145427 +0200" stop="20210503163407 +0200" channel="Somos">
+  <programme start="20210503134758 +0200" stop="20210503152845 +0200" channel="Somos">
     <title lang="es">¿Dónde vas, triste de ti?</title>
     <desc lang="es">Recreación de los años posteriores a la muerte de la reina Mercedes, esposa de Alfonso XII. El monarca contrae matrimonio con María Cristina de Habsburgo-Lorena, sin embargo el rey no está enamorado.</desc>
     <credits>
@@ -2624,7 +2636,7 @@
       <value>1958</value>
     </rating>
   </programme>
-  <programme start="20210503163407 +0200" stop="20210503175602 +0200" channel="Somos">
+  <programme start="20210503152845 +0200" stop="20210503165152 +0200" channel="Somos">
     <title lang="es">El señor está servido</title>
     <desc lang="es">Martina, Basilia y Lali son tres empleadas del hogar con personalidades y modos de trabajo diferentes. Martina sirve a Gloria y Juan; Basilia tiene dificultades laborales y Lali causa problemas con su belleza.</desc>
     <credits>
@@ -2649,7 +2661,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210503175602 +0200" stop="20210503192426 +0200" channel="Somos">
+  <programme start="20210503165152 +0200" stop="20210503182205 +0200" channel="Somos">
     <title lang="es">Los pistoleros de Casa Grande</title>
     <desc lang="es">Unos pistoleros acuden a la frontera con México con el objetivo de dividir su botín, pero el jefe del grupo tiene otros planes: quiere hacerse con un rancho y robar el ganado de los vecinos para exportarlo.</desc>
     <credits>
@@ -2674,7 +2686,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210503192426 +0200" stop="20210503205348 +0200" channel="Somos">
+  <programme start="20210503182205 +0200" stop="20210503195254 +0200" channel="Somos">
     <title lang="es">Busco tonta para fin de semana</title>
     <desc lang="es">El protagonista mantiene engañada a su acaudalada tía. Mientras ella cree que el joven se dedica a ayudar a los demás, él aprovecha para buscar chicas para los fines de semana. Pronto las cosas se complican para el.</desc>
     <credits>
@@ -2701,7 +2713,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210503205348 +0200" stop="20210503223000 +0200" channel="Somos">
+  <programme start="20210503195254 +0200" stop="20210503213001 +0200" channel="Somos">
     <title lang="es">La querida</title>
     <desc lang="es">Una ambiciosa cantante hace todo lo posible para lograr la gloria y el éxito, aunque tenga que abandonar a su verdadero amor.</desc>
     <credits>
@@ -2724,7 +2736,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210503223000 +0200" stop="20210503235945 +0200" channel="Somos">
+  <programme start="20210503213001 +0200" stop="20210503230120 +0200" channel="Somos">
     <title lang="es">Tres suecas para tres Rodríguez</title>
     <desc lang="es">Adela se va de viaje para descanser por recomendación de su médico, dejando sólo en Madrid a su marido Paco. Por suerte no estará solo de Rodríguez, otros dos compañeros de oficina están en su misma situación.</desc>
     <credits>
