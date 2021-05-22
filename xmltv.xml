@@ -1469,7 +1469,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210524062858 +0200" stop="20210524071710 +0200" channel="XTRM">
+  <programme start="20210524062858 +0200" stop="20210524071449 +0200" channel="XTRM">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
     <credits>
@@ -1499,7 +1499,11 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210524071710 +0200" stop="20210524080401 +0200" channel="XTRM">
+  <programme start="20210524071449 +0200" stop="20210524075856 +0200" channel="XTRM">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20210524075856 +0200" stop="20210524084603 +0200" channel="XTRM">
     <title lang="es">Alerta Cobra</title>
     <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
     <credits>
@@ -1529,7 +1533,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210524080401 +0200" stop="20210524084642 +0200" channel="XTRM">
+  <programme start="20210524084603 +0200" stop="20210524092844 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Nick ha de soportar a su némesis J.M. cuando los obligan a patrullar juntos. Beatrice se embarca en un nuevo romance.</desc>
     <credits>
@@ -1555,7 +1559,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210524084642 +0200" stop="20210524092959 +0200" channel="XTRM">
+  <programme start="20210524092844 +0200" stop="20210524101222 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Un encubrimiento regresa para acosar a Nick y Ben, enfrentándolos a Gendron. La frustración de Nick aumenta cuando Ben se mete en su vida personal.</desc>
     <credits>
@@ -1581,7 +1585,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210524092959 +0200" stop="20210524101014 +0200" channel="XTRM">
+  <programme start="20210524101222 +0200" stop="20210524105315 +0200" channel="XTRM">
     <title lang="es">Sucesor designado</title>
     <desc lang="es">Las creencias religiosas enfrentan a un grupo de fanáticos con la Casa Blanca. La agente Wells está decidida a averiguar quién es el responsable de una traición.</desc>
     <credits>
@@ -1609,7 +1613,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210524101014 +0200" stop="20210524105225 +0200" channel="XTRM">
+  <programme start="20210524105315 +0200" stop="20210524113638 +0200" channel="XTRM">
     <title lang="es">Sucesor designado</title>
     <desc lang="es">Mientras Kirkman afronta una gran pérdida, rebeldes cubanos utilizan a Wells y a una delegación comercial como moneda de cambio.</desc>
     <credits>
@@ -1637,7 +1641,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210524105225 +0200" stop="20210524121509 +0200" channel="XTRM">
+  <programme start="20210524113638 +0200" stop="20210524125909 +0200" channel="XTRM">
     <title lang="es">Geo-Disaster</title>
     <desc lang="es">En la ciudad de Los Ángeles, una familia es separada al converger los mayores desastres de la historia: un súper volcán, un mega terremoto y un tornado masivo.</desc>
     <credits>
@@ -1664,7 +1668,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210524121509 +0200" stop="20210524134609 +0200" channel="XTRM">
+  <programme start="20210524125909 +0200" stop="20210524143045 +0200" channel="XTRM">
     <title lang="es">68 Kill</title>
     <desc lang="es">Chip y Liza son una pareja peculiar: él es un romántico empedernido, ella aspira a metas más sustanciosas. Cuando Liza sugiere que le quiten 68 mil de dólares a su ruin benefactor, Chip empieza a ver el lado oscuro de Liza.</desc>
     <credits>
@@ -1682,7 +1686,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210524134609 +0200" stop="20210524151156 +0200" channel="XTRM">
+  <programme start="20210524143045 +0200" stop="20210524155632 +0200" channel="XTRM">
     <title lang="es">Código nuclear</title>
     <desc lang="es">Mike vuelve a Vietnam para rescatar a un amigo capturado pero él también es hecho prisionero. En su ayuda, acudirán su hermana y tres amigos.</desc>
     <credits>
@@ -1706,7 +1710,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210524151156 +0200" stop="20210524163606 +0200" channel="XTRM">
+  <programme start="20210524155632 +0200" stop="20210524172108 +0200" channel="XTRM">
     <title lang="es">Escuadrón de élite</title>
     <desc lang="es">Serge Buren es un veterano policía que comanda el escuadrón de élite de métodos más expeditivos. Se emplearán a fondo para acabar con una brutal banda.</desc>
     <credits>
@@ -1733,7 +1737,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210524163606 +0200" stop="20210524185536 +0200" channel="XTRM">
+  <programme start="20210524172108 +0200" stop="20210524185631 +0200" channel="XTRM">
     <title lang="es">Rescate suicida</title>
     <desc lang="es">Durante un vuelo a Asia, un joven piloto y su tripulación reciben una señal S.O.S. de una isla volcánica. Intentará una misión rescate, ¿lo logrará?</desc>
     <credits>
@@ -1761,7 +1765,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210524185536 +0200" stop="20210524203214 +0200" channel="XTRM">
+  <programme start="20210524185631 +0200" stop="20210524203323 +0200" channel="XTRM">
     <title lang="es">Código Gerónimo: La caza de Bin Laden</title>
     <desc lang="es">Crónica de una de las operaciones militares más importantes, la caza de Osama Bin Laden, conocida con el nombre clave de "Operación Gerónimo".</desc>
     <credits>
@@ -1787,7 +1791,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210524203214 +0200" stop="20210524220000 +0200" channel="XTRM">
+  <programme start="20210524203323 +0200" stop="20210524220149 +0200" channel="XTRM">
     <title lang="es">El guerrero rojo</title>
     <desc lang="es">Un guerrero y una mujer tendrán que enfrentarse a las fuerzas malignas de la princesa Gerden, y a los poderes de un maléfico talismán, en un mundo de barbarie y maldad.</desc>
     <credits>
@@ -1811,7 +1815,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210524220000 +0200" stop="20210524234728 +0200" channel="XTRM">
+  <programme start="20210524220149 +0200" stop="20210524235013 +0200" channel="XTRM">
     <title lang="es">Push</title>
     <desc lang="es">Un grupo de jóvenes con habilidades telekinéticas son ocultados por una agencia del gobierno americano en Hong Kong y tendrán que usar sus poderes para escapar.</desc>
     <credits>
