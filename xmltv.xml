@@ -702,7 +702,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210702110434 +0200" stop="20210702124822 +0200" channel="XTRM">
+  <programme start="20210702110434 +0200" stop="20210702124856 +0200" channel="XTRM">
     <title lang="es">Desaparecidos sin rastro (La última profecía)</title>
     <desc lang="es">Como si de una hecatombe bíblica se tratase, de pronto empiezan a desaparecer millones de personas en la Tierra, dejando tan solo sus ropas y pertenencias.</desc>
     <credits>
@@ -726,7 +726,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210702124822 +0200" stop="20210702142445 +0200" channel="XTRM">
+  <programme start="20210702124856 +0200" stop="20210702142553 +0200" channel="XTRM">
     <title lang="es">Rescate suicida</title>
     <desc lang="es">Durante un vuelo a Asia, un joven piloto y su tripulación reciben una señal S.O.S. de una isla volcánica. Intentará una misión rescate, ¿lo logrará?</desc>
     <credits>
@@ -754,7 +754,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210702142445 +0200" stop="20210702160307 +0200" channel="XTRM">
+  <programme start="20210702142553 +0200" stop="20210702160345 +0200" channel="XTRM">
     <title lang="es">Dragon Blade</title>
     <desc lang="es">Un decurión de una Legión romana y un antiguo oficial chino condenado a muerte unen fuerzas para combatir a un enemigo aún mayor que amenaza al mundo.</desc>
     <credits>
@@ -780,7 +780,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210702160307 +0200" stop="20210702173519 +0200" channel="XTRM">
+  <programme start="20210702160345 +0200" stop="20210702173557 +0200" channel="XTRM">
     <title lang="es">Otra clase de justicia</title>
     <desc lang="es">John es un excombatiente de la Guerra de Irak que trata de superar las secuelas psicológicas que le ha dejado su experiencia. Pero su paz se altera cuando se ve implicado en el rescate de una chica.</desc>
     <credits>
@@ -803,7 +803,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210702173519 +0200" stop="20210702185941 +0200" channel="XTRM">
+  <programme start="20210702173557 +0200" stop="20210702190019 +0200" channel="XTRM">
     <title lang="es">El guerrero rojo</title>
     <desc lang="es">Un guerrero y una mujer tendrán que enfrentarse a las fuerzas malignas de la princesa Gerden, y a los poderes de un maléfico talismán, en un mundo de barbarie y maldad.</desc>
     <credits>
@@ -827,7 +827,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210702185941 +0200" stop="20210702203313 +0200" channel="XTRM">
+  <programme start="20210702190019 +0200" stop="20210702203351 +0200" channel="XTRM">
     <title lang="es">Ejecución extrema</title>
     <desc lang="es">Thomas Douglas, un respetado gángster cuyo negocio ha sido arrebatado por un sanguinario narcotraficante, luchará por recuperar su posición a la fuerza, cuando el nuevo líder ataque su punto débil: su familia.</desc>
     <credits>
@@ -854,10 +854,10 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210702203313 +0200" stop="20210702210649 +0200" channel="XTRM">
+  <programme start="20210702203351 +0200" stop="20210702210944 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Turquía podría ser la gran atracción de la Eurocopa. Eslovaquia fue uno de los últimos equipos en llegar a la fase final. Raphaël Varane será uno de los defensas más completos que se presenten.</desc>
-    <date>2020</date>
+    <date>2021</date>
     <category lang="es">Otros</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
     <country lang="es">Reino Unido</country>
@@ -866,7 +866,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210702210649 +0200" stop="20210702225020 +0200" channel="XTRM">
+  <programme start="20210702210944 +0200" stop="20210702225016 +0200" channel="XTRM">
     <title lang="es">El jaguar</title>
     <desc lang="es">Perrin es un seductor, gracioso, siempre dispuesto a cometer alguna estafa. Pero una noche conoce a Campana, intérprete del indio Wanú y su vida cambia a partir de entonces.</desc>
     <credits>
@@ -891,7 +891,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210702225020 +0200" stop="20210703001701 +0200" channel="XTRM">
+  <programme start="20210702225016 +0200" stop="20210703001657 +0200" channel="XTRM">
     <title lang="es">A ciegas</title>
     <desc lang="es">Comienza con el descubrimiento de un cadáver. Un solitario policía (Jacques Gamblin) sospecha rápidamente de un hombre ciego (Lambert Wilson), cuya minusvalía le resulta una ventaja.</desc>
     <credits>
@@ -909,15 +909,59 @@
       <value>Lambert Wilson</value>
     </rating>
   </programme>
-  <programme start="20210703001701 +0200" stop="20210703014720 +0200" channel="XTRM">
+  <programme start="20210703001657 +0200" stop="20210703014716 +0200" channel="XTRM">
     <title lang="es">Un hombre peligroso</title>
     <desc lang="es">Shane Daniels es liberado después de seis años en prisión por un crimen que no cometió. El ex combatiente de las fuerzas especiales no tardará en verse de nuevo metido en problemas.</desc>
+    <credits>
+      <director>Keoni Waxman</director>
+      <actor>Steven Seagal</actor>
+      <actor>Marliana Mah</actor>
+      <actor>Jesse Hutch</actor>
+      <actor>Vitaly Kravchenko</actor>
+      <actor>Mike Dopud</actor>
+      <actor>Terry Chen</actor>
+      <actor>Byron Mann</actor>
+      <actor>Byron Lawson</actor>
+      <writer>Keoni Waxman</writer>
+      <producer>Deboragh Gabler</producer>
+      <producer>Doran Chandler</producer>
+      <composer>Michael Richard Plowman</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3595572.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210703014720 +0200" stop="20210703035903 +0200" channel="XTRM">
+  <programme start="20210703014716 +0200" stop="20210703035859 +0200" channel="XTRM">
     <title lang="es">Kenshin: El guerrero samurái</title>
     <desc lang="es">Kenshin Himura es un famoso samurái. Tras terminar la guerra, jura no volver a matar y viaja por el país como un vagabundo.</desc>
+    <credits>
+      <director>Keishi Ohtomo</director>
+      <actor>Emi Takei</actor>
+      <actor>Takeru Satô</actor>
+      <actor>Yu Aoi</actor>
+      <actor>Teruyuki Kagawa</actor>
+      <actor>Munetaka Aoki</actor>
+      <actor>Yôsuke Eguchi</actor>
+      <actor>Kôji Kikkawa</actor>
+      <actor>Yû Aoi</actor>
+      <writer>Kiyomi Fujii</writer>
+      <writer>Keishi Ohtomo</writer>
+      <producer>Shinzô Matsuhashi</producer>
+      <composer>Naoki Sato</composer>
+    </credits>
+    <date>2012</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/13344.jpg" />
+    <country lang="es">Japón</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20210703035903 +0200" stop="20210703050224 +0200" channel="XTRM">
+  <programme start="20210703035859 +0200" stop="20210703050220 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Igor investiga la muerte de una criada que trabajaba para una familia adinerada y descubre información sobre su propia madre, que falleció cuando él era niño.</desc>
     <credits>
@@ -944,7 +988,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210703050224 +0200" stop="20210703064618 +0200" channel="XTRM">
+  <programme start="20210703050220 +0200" stop="20210703063320 +0200" channel="XTRM">
     <title lang="es">Código nuclear</title>
     <desc lang="es">Mike vuelve a Vietnam para rescatar a un amigo capturado pero él también es hecho prisionero. En su ayuda, acudirán su hermana y tres amigos.</desc>
     <credits>
@@ -968,7 +1012,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210703064618 +0200" stop="20210703081108 +0200" channel="XTRM">
+  <programme start="20210703063320 +0200" stop="20210703075845 +0200" channel="XTRM">
     <title lang="es">La leyenda de la tumba del dragón</title>
     <desc lang="es">Travis es un reconocido paleontólogo que pretende demostrar la existencia de una criatura prehistórica en una zona remota donde varios trabajadores han sido atacados.</desc>
     <credits>
@@ -991,31 +1035,121 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210703081108 +0200" stop="20210703085255 +0200" channel="XTRM">
+  <programme start="20210703075845 +0200" stop="20210703084032 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Un enfrentamiento entre bandas callejeras rivales pone en peligro la vida de Ben. La brigada del 19 celebra una fiesta en honor al sargento.</desc>
+    <credits>
+      <director>Louis Choquette</director>
+      <director>Choquette Louis</director>
+      <actor>Adrian Holmes</actor>
+      <actor>Jared Keeso</actor>
+      <actor>Benz Antoine</actor>
+      <actor>Mylène Dinh-Robic</actor>
+      <actor>Bruce Ramsay</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Holmes Adrian</actor>
+      <actor>Keeso Jared</actor>
+      <producer>Saralo MacGregor</producer>
+      <composer>Reinhold Hoffmann</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2265399.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210703085255 +0200" stop="20210703093406 +0200" channel="XTRM">
+  <programme start="20210703084032 +0200" stop="20210703092143 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Es día de pago en el 19. Nick y Ben han de tratar con una serie de civiles agresivos; el día llega a su fin con un altercado doméstico catastrófico.</desc>
+    <credits>
+      <director>Louis Choquette</director>
+      <director>Choquette Louis</director>
+      <actor>Adrian Holmes</actor>
+      <actor>Jared Keeso</actor>
+      <actor>Benz Antoine</actor>
+      <actor>Mylène Dinh-Robic</actor>
+      <actor>Bruce Ramsay</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Holmes Adrian</actor>
+      <actor>Keeso Jared</actor>
+      <producer>Saralo MacGregor</producer>
+      <composer>Reinhold Hoffmann</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2265399.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210703093406 +0200" stop="20210703101544 +0200" channel="XTRM">
+  <programme start="20210703092143 +0200" stop="20210703100443 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Tyler mete la pata en un asalto a una banda, poniendo en peligro la vida de Nick y haciendo que Ben cuestione la aptitud de Tyler para el trabajo.</desc>
+    <credits>
+      <director>Louis Choquette</director>
+      <director>Choquette Louis</director>
+      <actor>Adrian Holmes</actor>
+      <actor>Jared Keeso</actor>
+      <actor>Benz Antoine</actor>
+      <actor>Mylène Dinh-Robic</actor>
+      <actor>Bruce Ramsay</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Holmes Adrian</actor>
+      <actor>Keeso Jared</actor>
+      <producer>Saralo MacGregor</producer>
+      <composer>Reinhold Hoffmann</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2265399.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210703101544 +0200" stop="20210703103944 +0200" channel="XTRM">
+  <programme start="20210703100443 +0200" stop="20210703102830 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Holanda tiene el equilibrio entre juventud y experiencia para repetir su éxito en la Eurocopa de 1988. Giorgio Chiellini está listo para dejar atrás una década de decepciones con la Azzurra.</desc>
+    <date>2021</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703103944 +0200" stop="20210703110344 +0200" channel="XTRM">
+  <programme start="20210703102830 +0200" stop="20210703105217 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Dinamarca ha sido uno de los países europeos más difíciles de batir en las últimas temporadas. Sergio Busquets mantiene el vínculo de España con su pasado de oro.</desc>
+    <date>2021</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703110344 +0200" stop="20210703112914 +0200" channel="XTRM">
+  <programme start="20210703105217 +0200" stop="20210703111830 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Suecia se ha reforzado con la segunda incorporación de Zlatan Ibrahimovic. Romelu Lukaku tiene en mente los goles y la gloria. Y Kasper Schmeichel está ansioso por seguir los pasos de su padre.</desc>
+    <date>2021</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703112914 +0200" stop="20210703125920 +0200" channel="XTRM">
+  <programme start="20210703111830 +0200" stop="20210703125055 +0200" channel="XTRM">
     <title lang="es">Officer Downe</title>
     <desc lang="es">Un policía fallecido es resucitado una y otra vez  para volver al servicio activo y luchar contra los villanos que aterrorizan a la ciudad.</desc>
     <credits>
@@ -1037,11 +1171,34 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210703125920 +0200" stop="20210703142937 +0200" channel="XTRM">
+  <programme start="20210703125055 +0200" stop="20210703142146 +0200" channel="XTRM">
     <title lang="es">Ong Bak 3</title>
     <desc lang="es">Después de que Lord Ratchasena ordene su tortura hasta la muerte, Tien casi pierde la vida. Gracias a los aldeanos de Khone Kana y al apoyo de Pim y Mhen consigue recuperar sus habilidades de lucha para el combate final.\r\n.</desc>
+    <credits>
+      <director>Tony Jaa</director>
+      <director>Panna Rittikrai</director>
+      <actor>Tony Jaa</actor>
+      <actor>Primorata Dejudom</actor>
+      <actor>Dan Chupong</actor>
+      <actor>Nirut Sirichanya</actor>
+      <actor>Petchtai Wongkamlao</actor>
+      <actor>Sarunyu Wongkrachang</actor>
+      <actor>Sarunyu Wongkrajang</actor>
+      <writer>Tony Jaa</writer>
+      <writer>Panna Rittikrai</writer>
+      <producer>Tech Akarapol</producer>
+      <producer>Tony Jaa</producer>
+      <composer>Terdsak Janpan</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/17413.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20210703142937 +0200" stop="20210703155832 +0200" channel="XTRM">
+  <programme start="20210703142146 +0200" stop="20210703155251 +0200" channel="XTRM">
     <title lang="es">El ángel de la muerte</title>
     <desc lang="es">Jack Caine, un detective de Houston, investiga a una banda de traficantes. Poco después, algunos de sus miembros mueren en extrañas circunstancias.</desc>
     <credits>
@@ -1068,7 +1225,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210703155832 +0200" stop="20210703172754 +0200" channel="XTRM">
+  <programme start="20210703155251 +0200" stop="20210703172319 +0200" channel="XTRM">
     <title lang="es">Estambul: Unidad de Homicidios</title>
     <desc lang="es">Un marchante de arte aparece asesinado en su galería y un relieve de valor incalculable yace destrozado detrás del edificio. Las sospechas recaen sobre la viuda de la víctima, Leyla.</desc>
     <credits>
@@ -1090,11 +1247,32 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210703172754 +0200" stop="20210703185941 +0200" channel="XTRM">
+  <programme start="20210703172319 +0200" stop="20210703185621 +0200" channel="XTRM">
     <title lang="es">Dos duros sobre ruedas</title>
     <desc lang="es">Harley Davidson y Marlboro son dos colegas moteros que se enteran de que un viejo amigo suyo va a perder su bar porque un banco pretende cobrarle un alquiler desmesurado para vender sus terrenos.</desc>
+    <credits>
+      <director>Simon Wincer</director>
+      <actor>Mickey Rourke</actor>
+      <actor>Don Johnson</actor>
+      <actor>Chelsea Field</actor>
+      <actor>Daniel Baldwin</actor>
+      <actor>Giancarlo Esposito</actor>
+      <actor>Vanessa Williams</actor>
+      <actor>Robert Ginty</actor>
+      <actor>Tia Carrere</actor>
+      <writer>Don Michael Paul</writer>
+      <producer>Jere Henshaw</producer>
+      <composer>Basil Poledouris</composer>
+    </credits>
+    <date>1991</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3638295.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20210703185941 +0200" stop="20210703203500 +0200" channel="XTRM">
+  <programme start="20210703185621 +0200" stop="20210703203244 +0200" channel="XTRM">
     <title lang="es">Furia y honor</title>
     <desc lang="es">Una ola de asesinatos sacude Hong Kong. El joven detective Wang Bu Er está seguro que son obra de un asesino en serie y, junto a su compañero Huang Fei Hong, maestro de kung emprenderán una trepidante aventura para investigar el caso.</desc>
     <credits>
@@ -1116,15 +1294,40 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210703203500 +0200" stop="20210703211000 +0200" channel="XTRM">
+  <programme start="20210703203244 +0200" stop="20210703211055 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Con Robert Lewandowski en su equipo, Polonia es una fuerza a tener en cuenta. Thiago Alcántara tiene la clase necesaria para controlar los partidos de España.</desc>
+    <date>2020</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703211000 +0200" stop="20210703225155 +0200" channel="XTRM">
+  <programme start="20210703211055 +0200" stop="20210703225042 +0200" channel="XTRM">
     <title lang="es">Subway. En busca de Freddy</title>
     <desc lang="es">Fred sobrevive dentro de los túneles del metro de París alimentándose de lo que puede encontrar o robar de los viajeros.</desc>
+    <credits>
+      <director>Besson Luc</director>
+      <actor>Lambert Christopher</actor>
+      <actor>Adjani Isabelle</actor>
+      <actor>Bohringer Richard</actor>
+      <actor>Galabru Michel</actor>
+      <actor>Anglade Jean-Hugues</actor>
+      <actor>Bacri Jean-Pierre</actor>
+      <actor>Reno Jean</actor>
+    </credits>
+    <date>1985</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2711834.jpg" />
+    <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210703225155 +0200" stop="20210704002833 +0200" channel="XTRM">
+  <programme start="20210703225042 +0200" stop="20210704002855 +0200" channel="XTRM">
     <title lang="es">Código Gerónimo: La caza de Bin Laden</title>
     <desc lang="es">Crónica de una de las operaciones militares más importantes, la caza de Osama Bin Laden, conocida con el nombre clave de "Operación Gerónimo".</desc>
     <credits>
@@ -1150,11 +1353,31 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210704002833 +0200" stop="20210704021553 +0200" channel="XTRM">
+  <programme start="20210704002855 +0200" stop="20210704021725 +0200" channel="XTRM">
     <title lang="es">Ulysses: A Dark Odyssey</title>
     <desc lang="es">Abandonado durante siete años en un lugar olvidado por todos, un soldado, llamado Ulises, logra escapar y volver a casa donde descubre que su esposa Penélope ha desaparecido.</desc>
+    <credits>
+      <director>Federico Alotto</director>
+      <actor>Danny Glover</actor>
+      <actor>Udo Kier</actor>
+      <actor>Anamaria Marinca</actor>
+      <actor>Gianni Capaldi</actor>
+      <actor>Andrea Zirio</actor>
+      <actor>Charlotte Kirk</actor>
+      <actor>Drew Kenney</actor>
+      <actor>Glover Danny</actor>
+      <writer>Federico Alotto</writer>
+      <producer>Cassandra Gava</producer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2707692.jpg" />
+    <country lang="es">Italia</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210704021553 +0200" stop="20210704033610 +0200" channel="XTRM">
+  <programme start="20210704021725 +0200" stop="20210704033832 +0200" channel="XTRM">
     <title lang="es">Cyborg</title>
     <desc lang="es">En un futuro apocalíptico donde la hambruna y la enfermedad asedian a la población, un cyborg posee el secreto para acabar con estas plagas. Un asesino será el encargado de escoltarlo y protegerlo.</desc>
     <credits>
@@ -1179,7 +1402,7 @@
       <value>soldado Universal</value>
     </rating>
   </programme>
-  <programme start="20210704033610 +0200" stop="20210704052335 +0200" channel="XTRM">
+  <programme start="20210704033832 +0200" stop="20210704052637 +0200" channel="XTRM">
     <title lang="es">De profesión duro</title>
     <desc lang="es">Un doctor en Filosofía prefiere pasar la vida como "gorila\.</desc>
     <credits>
@@ -1203,13 +1426,32 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210704052335 +0200" stop="20210704065949 +0200" channel="XTRM">
+  <programme start="20210704052637 +0200" stop="20210704081646 +0200" channel="XTRM">
     <title lang="es">El último asalto</title>
     <desc lang="es">Champ es un boxeador acabado que se ha convertido en un indigente. En su camino se cruza un periodista deportivo en busca del artículo que le catapulte a la fama.</desc>
-  </programme>
-  <programme start="20210704065949 +0200" stop="20210704081646 +0200" channel="XTRM">
-    <title lang="es">Cazador de demonios</title>
-    <desc lang="es">En un pequeño pueblo de la Norteamérica profunda hace aparición un vetusto demonio, provocando una serie de muertes terribles. La agente del FBI Evelyn Pierce y el cazador de demonios Jebediah Woodley se alían para detenerlo.</desc>
+    <credits>
+      <director>Rod Lurie</director>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Josh Hartnett</actor>
+      <actor>Harry Lennix</actor>
+      <actor>Kathryn Morris</actor>
+      <actor>Dakota Goyo</actor>
+      <actor>Kristen Shaw</actor>
+      <actor>Nick Sandow</actor>
+      <actor>David Paymer</actor>
+      <writer>Michael Bortman</writer>
+      <writer>Allison Burnett</writer>
+      <producer>Marc Frydman</producer>
+      <producer>Rod Lurie</producer>
+      <composer>Larry Groupé</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6617.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
   <programme start="20210704081646 +0200" stop="20210704085927 +0200" channel="XTRM">
     <title lang="es">19-2</title>
@@ -1372,7 +1614,7 @@
     <title lang="es">Thai Dragón 2: El protector</title>
     <desc lang="es">Kham rechaza vender su elefante a Suchart, un comerciante de Khon que planea revendérselo a uno de los secuaces de un peligroso gánster. Así que cuando Suchart aparece muerto, todos creen que Kham es el culpable.</desc>
   </programme>
-  <programme start="20210702005755 +0200" stop="20210702023934 +0200" channel="Somos">
+  <programme start="20210702005755 +0200" stop="20210702024133 +0200" channel="Somos">
     <title lang="es">París bien vale una moza</title>
     <desc lang="es">Un humilde aldeano aragonés recibe un encargo del cacique del pueblo: ir a París a buscar a su hija, a la que había echado de casa al quedarse embarazada.</desc>
     <credits>
@@ -1397,7 +1639,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210702023934 +0200" stop="20210702071016 +0200" channel="Somos">
+  <programme start="20210702024133 +0200" stop="20210702071002 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -1407,7 +1649,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210702071016 +0200" stop="20210702085156 +0200" channel="Somos">
+  <programme start="20210702071002 +0200" stop="20210702085340 +0200" channel="Somos">
     <title lang="es">Los desafíos</title>
     <desc lang="es">Tres historias independientes que hablan de la violencia como recurso habitual en las relaciones humanas.</desc>
     <credits>
@@ -1432,7 +1674,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210702085156 +0200" stop="20210702101524 +0200" channel="Somos">
+  <programme start="20210702085340 +0200" stop="20210702101911 +0200" channel="Somos">
     <title lang="es">Posición avanzada</title>
     <desc lang="es">Guerra en España. Al anochecer, un comando llega a una posición avanzada, casi cercada por el enemigo, que protege el vado de un río.</desc>
     <credits>
@@ -1455,7 +1697,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210702101524 +0200" stop="20210702115624 +0200" channel="Somos">
+  <programme start="20210702101911 +0200" stop="20210702120127 +0200" channel="Somos">
     <title lang="es">El corazón de la tierra</title>
     <desc lang="es">A finales del s.XIX una compañía inglesa compró las minas de Riotinto, en Huelva, sometiendo a los trabajadores a unas míseras condiciones de vida, que acaban en una revuelta pacífica.</desc>
     <credits>
@@ -1479,7 +1721,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210702115624 +0200" stop="20210702133900 +0200" channel="Somos">
+  <programme start="20210702120127 +0200" stop="20210702134622 +0200" channel="Somos">
     <title lang="es">Perder es cuestión de método</title>
     <desc lang="es">La policía descubre un cuerpo empalado cerca de un lago en Bogotá. Un periodista y una prostituta se adentrarán en el caso descubriendo una complicada trama de corrupción inmobiliaria.</desc>
     <credits>
@@ -1501,7 +1743,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210702133900 +0200" stop="20210702145830 +0200" channel="Somos">
+  <programme start="20210702134622 +0200" stop="20210702150728 +0200" channel="Somos">
     <title lang="es">El pisito</title>
     <desc lang="es">Rodolfo y Petrita forman una pareja que no puede casarse por que no encuentran un piso. Por eso esperan que doña Martina muera y les ceda el suyo.</desc>
     <credits>
@@ -1527,7 +1769,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210702145830 +0200" stop="20210702151500 +0200" channel="Somos">
+  <programme start="20210702150728 +0200" stop="20210702152537 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Rafael Alonso</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Rafael Alonso.</desc>
     <credits>
@@ -1535,14 +1777,14 @@
       <actor>Alonso Rafael</actor>
     </credits>
     <date>2021</date>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6727.jpg" />
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6838247.jpg" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210702151500 +0200" stop="20210702165211 +0200" channel="Somos">
+  <programme start="20210702152537 +0200" stop="20210702170337 +0200" channel="Somos">
     <title lang="es">La chica del trébol</title>
     <desc lang="es">Rocío es una bella joven que trabaja repartiendo a domicilio los vestidos de una casa de modas de Madrid. Un día, se le presenta la oportunidad de sustituir a una modelo, lo que supondrá el comienzo de una exitosa carrera.</desc>
     <credits>
@@ -1565,7 +1807,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210702165211 +0200" stop="20210702181159 +0200" channel="Somos">
+  <programme start="20210702170337 +0200" stop="20210702182527 +0200" channel="Somos">
     <title lang="es">El zorro justiciero</title>
     <desc lang="es">El joven Flem Mascaslim resulta ser un estorbo para Bill Warner y, al igual que hizo con su padre, intentará deshacerse de él para apoderarse de su rancho.</desc>
     <credits>
@@ -1590,7 +1832,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210702181159 +0200" stop="20210702194125 +0200" channel="Somos">
+  <programme start="20210702182527 +0200" stop="20210702195557 +0200" channel="Somos">
     <title lang="es">Los despiadados</title>
     <desc lang="es">La Guerra de Secesión ha terminado, pero Jonas, un coronel sudista, pretende seguir combatiendo por principios.</desc>
     <credits>
@@ -1616,7 +1858,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210702194125 +0200" stop="20210702213000 +0200" channel="Somos">
+  <programme start="20210702195557 +0200" stop="20210702213038 +0200" channel="Somos">
     <title lang="es">¡No firmes más letras, cielo!</title>
     <desc lang="es">Sabino Gurupe es un hombre feliz. Trabaja en una importante compañía francesa de seguros y los domingos se va a la Sierra a pescar. Pero un buen día conoce a Elisa, una chica muy guapa.</desc>
     <credits>
@@ -1642,25 +1884,31 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210702213000 +0200" stop="20210702231250 +0200" channel="Somos">
+  <programme start="20210702213038 +0200" stop="20210702231605 +0200" channel="Somos">
     <title lang="es">Delirios de grandeza</title>
     <desc lang="es">España, siglo XVII. Un ministro del rey que también hace las veces de recaudador de impuestos, intenta quedarse con parte del dinero que va recaudando y al ser descubierto es utilizado como bufón.</desc>
     <credits>
-      <director>Oury Gérard</director>
-      <actor>Aragón Louis de Funès</actor>
+      <director>Gérard Oury</director>
+      <actor>Louis de Funès</actor>
       <actor>Yves Montand</actor>
       <actor>Alice Sapritch</actor>
       <actor>Karin Schubert</actor>
+      <actor>Alberto de Mendoza</actor>
+      <actor>Jaime de Mora y Aragón</actor>
+      <writer>Gérard Oury</writer>
+      <writer>Danièle Thompson</writer>
+      <producer>Alain Poiré</producer>
+      <composer>Michel Polnareff</composer>
     </credits>
     <date>1971</date>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6727.jpg" />
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6856727.jpg" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210702231250 +0200" stop="20210703005645 +0200" channel="Somos">
+  <programme start="20210702231605 +0200" stop="20210703010002 +0200" channel="Somos">
     <title lang="es">El milagro de P. Tinto</title>
     <desc lang="es">El viejo P. Tinto, que anhela una gran familia desde niño, ve su sueño cumplido cuando llegan a la puerta de la casa que comparte con su mujer ciega un par de marcianitos perdidos tras averiarse su ovni.</desc>
     <credits>
@@ -1688,11 +1936,34 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210703005645 +0200" stop="20210703031030 +0200" channel="Somos">
+  <programme start="20210703010002 +0200" stop="20210703031546 +0200" channel="Somos">
     <title lang="es">La boutique</title>
     <desc lang="es">El matrimonio de Carmen y Ricardo pasa por una crisis y la madre de ella le dice a él que su hija está muy enferma para que le preste más atención. Él le monta una boutique, pero las cosas se tuercen y termina planeando un asesinato.</desc>
+    <credits>
+      <director>Luis García Berlanga</director>
+      <actor>Sonia Bruno</actor>
+      <actor>Rodolfo Bebán</actor>
+      <actor>Ana María Campoy</actor>
+      <actor>Osvaldo Miranda</actor>
+      <actor>Marilina Ross</actor>
+      <actor>Juan Carlos Altavista</actor>
+      <actor>Rodolfo Beban</actor>
+      <actor>Ana Maria Campoy</actor>
+      <writer>Rafael Azcona</writer>
+      <writer>Luis García Berlanga</writer>
+      <producer>Cesáreo González</producer>
+      <producer>Atilio Mentasti</producer>
+      <composer>Astor Piazzolla</composer>
+    </credits>
+    <date>1967</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2769656.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20210703031030 +0200" stop="20210703073142 +0200" channel="Somos">
+  <programme start="20210703031546 +0200" stop="20210703071018 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -1702,51 +1973,250 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210703073142 +0200" stop="20210703094527 +0200" channel="Somos">
+  <programme start="20210703071018 +0200" stop="20210703092602 +0200" channel="Somos">
     <title lang="es">Don Quijote de la Mancha</title>
     <desc lang="es">El viejo hidalgo Alonso Quijano enloquece a causa de los libros de caballerías. Junto a su escudero Sancho Panza, no duda en dejar todo para lanzarse en busca de aventuras y de su amor, Dulcinea del Toboso.</desc>
+    <credits>
+      <director>Rafael Gil</director>
+      <director>Gil Rafael</director>
+      <actor>Rafael Rivelles</actor>
+      <actor>Juan Calvo</actor>
+      <actor>Fernando Rey</actor>
+      <actor>Manolo Morán</actor>
+      <actor>Sara Montiel</actor>
+      <actor>Juan Espantaleón</actor>
+      <actor>Rafel Rivelles</actor>
+      <actor>Espantaleón Rafael Rivelles</actor>
+      <writer>Rafael Gil</writer>
+      <producer>Juan Manuel de Rada</producer>
+      <composer>Ernesto Halffter</composer>
+    </credits>
+    <date>1948</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5087884.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703094527 +0200" stop="20210703112539 +0200" channel="Somos">
+  <programme start="20210703092602 +0200" stop="20210703110949 +0200" channel="Somos">
     <title lang="es">Mambrú se fue a la guerra</title>
     <desc lang="es">El día de la muerte de Franco, una familia media española descubre que el abuelo al que creían muerto, vivía escondido.</desc>
+    <credits>
+      <director>Fernando Fernán Gómez</director>
+      <actor>Fernando Fernán Gómez</actor>
+      <actor>María Asquerino</actor>
+      <actor>Agustín González</actor>
+      <actor>Emma Cohen</actor>
+      <actor>Nuria Gallardo</actor>
+      <actor>Jorge Sanz</actor>
+      <writer>Pedro Beltrán</writer>
+      <composer>Carmelo A. Bernaola</composer>
+    </credits>
+    <date>1986</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/8175.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703112539 +0200" stop="20210703133049 +0200" channel="Somos">
+  <programme start="20210703110949 +0200" stop="20210703131818 +0200" channel="Somos">
     <title lang="es">Las 13 rosas</title>
-    <desc lang="es">Historia de unas jóvenes condenadas a muerte cuando acabó la guerra civil. Condenadas sin pruebas, fueron fusiladas el 5 de Agosto de 1939.</desc>
+    <desc lang="es">Con el fin de la Guerra Civil, Franco promete que sólo serán castigados los que tengan las manos manchadas de sangre. Pero al mes de acabar el conflicto, 13 mujeres inocentes son detenidas y acusadas de ayudar a la rebelión.</desc>
+    <credits>
+      <director>Emilio Martínez-Lázaro</director>
+      <actor>Nadia de Santiago</actor>
+      <actor>Pilar López de Ayala</actor>
+      <actor>Marta Etura</actor>
+      <actor>Verónica Sánchez</actor>
+      <actor>Alba Alonso</actor>
+      <actor>Celia Pastor</actor>
+      <producer>Enrique Cerezo</producer>
+      <composer>Roque Baños</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/9445.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>''Los hombres de Paco''</value>
+    </rating>
   </programme>
-  <programme start="20210703133049 +0200" stop="20210703150539 +0200" channel="Somos">
+  <programme start="20210703131818 +0200" stop="20210703145525 +0200" channel="Somos">
     <title lang="es">Camino del Rocío</title>
     <desc lang="es">Tras morir su padre, Esperanza y Mª Jesús quedan huérfanas y casi en la ruina por culpa de la que era su socia, Martina. Esperanza mantiene una tormentosa relación con el hijo de ésta pero José Antonio, un capataz, también la ama.</desc>
+    <credits>
+      <director>Rafael Gil</director>
+      <actor>Carmen Sevilla</actor>
+      <actor>Arturo Fernández</actor>
+      <actor>Francisco Rabal</actor>
+      <actor>María Luisa Ponte</actor>
+      <actor>Luis de Diego</actor>
+      <actor>Guillermo Marín</actor>
+      <writer>Rafael Gil</writer>
+      <writer>José López Rubio</writer>
+      <composer>Augusto Algueró</composer>
+    </credits>
+    <date>1966</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4530695.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703150539 +0200" stop="20210703152210 +0200" channel="Somos">
+  <programme start="20210703145525 +0200" stop="20210703151345 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Rafaela Aparicio</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Rafaela Aparicio.</desc>
+    <credits>
+      <director>Ramón Verdet</director>
+      <actor>Rafaela Aparicio</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4847539.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703152210 +0200" stop="20210703165030 +0200" channel="Somos">
+  <programme start="20210703151345 +0200" stop="20210703164404 +0200" channel="Somos">
     <title lang="es">Duerme, duerme, mi amor</title>
     <desc lang="es">Una pareja sufre una crisis conyugal durante la mudanza al nuevo piso. Él, harto de discutir, le suministra un somnífero para dormirla para siempre.</desc>
+    <credits>
+      <director>Francisco Regueiro</director>
+      <director>Regueiro Francisco</director>
+      <actor>José Luis López Vázquez</actor>
+      <actor>María José Alfonso</actor>
+      <actor>Rafaela Aparicio</actor>
+      <actor>Laly Soldevila</actor>
+      <actor>Lali Soldevila</actor>
+      <actor>Canalejas José Luis López Vázquez</actor>
+      <writer>Esmeralda Adam García</writer>
+      <writer>Francisco Regueiro</writer>
+    </credits>
+    <date>1975</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/414662.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20210703165030 +0200" stop="20210703181515 +0200" channel="Somos">
+  <programme start="20210703164404 +0200" stop="20210703181037 +0200" channel="Somos">
     <title lang="es">El padre de la criatura</title>
     <desc lang="es">Eduardo y Antonina esperan ansiosos el nacimiento de su primer nieto. Pero los análisis clínicos se han etiquetado erróneamente y la que espera un hijo es Antonina y no su hija Pili.</desc>
+    <credits>
+      <director>Pedro Lazaga</director>
+      <actor>Antonio Ferrandis</actor>
+      <actor>Florinda Chico</actor>
+      <actor>Paco Martínez Soria</actor>
+      <actor>Rafaela Aparicio</actor>
+      <actor>José Sacristán</actor>
+      <actor>Manuel Zarzo</actor>
+      <writer>Vicente Coello</writer>
+      <writer>Mariano Ozores</writer>
+      <composer>Antón García Abril</composer>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2184.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703181515 +0200" stop="20210703195506 +0200" channel="Somos">
+  <programme start="20210703181037 +0200" stop="20210703195221 +0200" channel="Somos">
     <title lang="es">¡Ay, Carmela!</title>
     <desc lang="es">Durante la Guerra Civil española, un grupo de cómicos entretienen a los soldados republicanos. Pero cuando se dirigen a Valencia, caen prisioneros. La única forma de salvarse es representar un espectáculo ante sus enemigos.</desc>
+    <credits>
+      <director>Carlos Saura</director>
+      <director>Saura Carlos</director>
+      <actor>Carmen Maura</actor>
+      <actor>Andrés Pajares</actor>
+      <actor>Gabino Diego</actor>
+      <actor>Maurizio De Razza</actor>
+      <actor>José Sancho</actor>
+      <actor>Mario De Candia</actor>
+      <actor>Carmen Més Pajares</actor>
+      <actor>Andres Pajares</actor>
+      <writer>Rafael Azcona</writer>
+      <writer>José Sanchís Sinisterra</writer>
+      <producer>Andrés Vicente Gómez</producer>
+      <composer>Alejandro Massó</composer>
+    </credits>
+    <date>1990</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/14523.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703195506 +0200" stop="20210703213000 +0200" channel="Somos">
+  <programme start="20210703195221 +0200" stop="20210703213027 +0200" channel="Somos">
     <title lang="es">Yo hice a Roque III</title>
     <desc lang="es">Federico acoge en su casa a su amigo Roque, un vago que está pasando una mala racha y que encima se lleva fatal con la mujer y la suegra de su benefactor.</desc>
+    <credits>
+      <director>Mariano Ozores</director>
+      <actor>Fernando Esteso</actor>
+      <actor>Andrés Pajares</actor>
+      <actor>Antonio Ozores</actor>
+      <actor>Florinda Chico</actor>
+      <actor>Rafael Hernández</actor>
+      <actor>Mirta Miller</actor>
+      <writer>Mariano Ozores</writer>
+    </credits>
+    <date>1980</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/19628.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210703213000 +0200" stop="20210703230337 +0200" channel="Somos">
+  <programme start="20210703213027 +0200" stop="20210703230607 +0200" channel="Somos">
     <title lang="es">Crucero de verano</title>
     <desc lang="es">Patricia es una joven que trabaja en una agencia de viajes en Madrid. Una noche tiene que acompañar a los turistas en la visita por la ciudad de noche, y así conoce a Carlos, un extranjero muy agradable.</desc>
+    <credits>
+      <director>Luis Lucía</director>
+      <actor>Carmen Sevilla</actor>
+      <actor>Gabriele Ferzetti</actor>
+      <actor>Manuel Alexandre</actor>
+      <actor>Margot Cottens</actor>
+      <actor>Elena Duque</actor>
+      <actor>Marisa Merlini</actor>
+      <writer>Luis Marquina</writer>
+      <writer>José Vicente Puente</writer>
+      <composer>Augusto Algueró</composer>
+      <composer>Antonio Guijarro</composer>
+    </credits>
+    <date>1964</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4752996.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703230337 +0200" stop="20210703232007 +0200" channel="Somos">
+  <programme start="20210703230607 +0200" stop="20210703232426 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Fernando Esteso</title>
     <desc lang="es">Fernando Esteso encarna el perfil del artista de entretenimiento total: actor, director, cómico, bailarín, cantante, monologuista...</desc>
+    <credits>
+      <director>Ramón Verdet</director>
+      <director>Verdet Ramón</director>
+      <actor>Fernando Esteso</actor>
+      <actor>Esteso Fernando</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Programa</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4399904.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210703232007 +0200" stop="20210704004459 +0200" channel="Somos">
+  <programme start="20210703232426 +0200" stop="20210704005117 +0200" channel="Somos">
     <title lang="es">Aquí llega Condemor, el pecador de la pradera</title>
     <desc lang="es">Condemor es nombrado sheriff y cumple con el trabajo que se le va acumulando. Pero su objetivo es volver a su patria, Francia.</desc>
     <credits>
@@ -1773,7 +2243,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210704004459 +0200" stop="20210704020858 +0200" channel="Somos">
+  <programme start="20210704005117 +0200" stop="20210704020858 +0200" channel="Somos">
     <title lang="es">¡Por fin solos!</title>
     <desc lang="es">Arturo y Elena tienen cuatro hijos maravillosos pero que aún viven en casa. Buscando un poco de tranquilidad para su hogar deciden tratar de convencerlos de que se independicen.</desc>
     <credits>
