@@ -968,7 +968,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725052750 +0200" stop="20210725062602 +0200" channel="XTRM">
+  <programme start="20210725052750 +0200" stop="20210725061310 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">La persecución del topo da un giro drástico cuando impiden patrullar a Nick.</desc>
     <credits>
@@ -997,7 +997,15 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210725062602 +0200" stop="20210725080438 +0200" channel="XTRM">
+  <programme start="20210725061310 +0200" stop="20210725063657 +0200" channel="XTRM">
+    <title lang="es">Contenders Eurocopa</title>
+    <desc lang="es">Bélgica quiere demostrar por qué es el número 1 del mundo, Bernardo Silva está listo para salir de la sombra de Cristiano Ronaldo con Portugal, y David Alaba puede ser la estrella de Austria.</desc>
+  </programme>
+  <programme start="20210725063657 +0200" stop="20210725070249 +0200" channel="XTRM">
+    <title lang="es">Contenders Eurocopa</title>
+    <desc lang="es">Rusia quiere seguir con su impresionante trayectoria en el Mundial, Leonardo Bonucci está llevando a Italia de vuelta a la tierra prometida, y Hakan Çalhanoglu está listo para lucirse con Turquía.</desc>
+  </programme>
+  <programme start="20210725070249 +0200" stop="20210725084200 +0200" channel="XTRM">
     <title lang="es">El gancho fantasma</title>
     <desc lang="es">La película cuenta la historia del boxeador Sonny Liston, campeón mundial  de los pesos pesados. Fue derribado por un golpe de Muhammad Ali, el cual siempre será recordado como 'El gancho fantasma'.</desc>
     <credits>
@@ -1025,7 +1033,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725080438 +0200" stop="20210725084624 +0200" channel="XTRM">
+  <programme start="20210725084200 +0200" stop="20210725092425 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Unos desahucios ponen al 19 en contra de una comunidad en crisis.</desc>
     <credits>
@@ -1054,7 +1062,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210725084624 +0200" stop="20210725093011 +0200" channel="XTRM">
+  <programme start="20210725092425 +0200" stop="20210725100927 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Tras una muerte accidental, unos manifestantes violentos ocupan un edificio abandonado y el escuadrón tiene que desalojarlos.</desc>
     <credits>
@@ -1083,7 +1091,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210725093011 +0200" stop="20210725095411 +0200" channel="XTRM">
+  <programme start="20210725100927 +0200" stop="20210725103314 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Dinamarca ha sido uno de los países europeos más difíciles de batir en las últimas temporadas. Sergio Busquets mantiene el vínculo de España con su pasado de oro.</desc>
     <date>2021</date>
@@ -1095,7 +1103,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725095411 +0200" stop="20210725101811 +0200" channel="XTRM">
+  <programme start="20210725103314 +0200" stop="20210725105702 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Suecia se ha reforzado con la segunda incorporación de Zlatan Ibrahimovic. Romelu Lukaku tiene en mente los goles y la gloria. Y Kasper Schmeichel está ansioso por seguir los pasos de su padre.</desc>
     <date>2021</date>
@@ -1107,7 +1115,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725101811 +0200" stop="20210725104341 +0200" channel="XTRM">
+  <programme start="20210725105702 +0200" stop="20210725112254 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">La selección de Portugal de Cristiano Ronaldo está ansiosa por defender su corona. Toni Kroos quiere completar el único hueco en su palmarés. E Ivan Periic tiene en mente la gloria con Croacia.</desc>
     <date>2021</date>
@@ -1119,7 +1127,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725104341 +0200" stop="20210725121532 +0200" channel="XTRM">
+  <programme start="20210725112254 +0200" stop="20210725125526 +0200" channel="XTRM">
     <title lang="es">El guerrero americano</title>
     <desc lang="es">Un militar estadounidense experto en operaciones militares y muy hábil en el combate cuerpo a cuerpo descubre una trama conspirativa en Filipinas que implica al mismo ejército.</desc>
     <credits>
@@ -1143,7 +1151,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210725121532 +0200" stop="20210725143236 +0200" channel="XTRM">
+  <programme start="20210725125526 +0200" stop="20210725151237 +0200" channel="XTRM">
     <title lang="es">Kenshin, el guerrero samurái 2: Infierno en Kioto</title>
     <desc lang="es">Aunque Kenshin busca llevar una vida tranquila, una nueva amenaza al gobierno de Japón lo lleva a luchar contra el sanguinario asesino Makoto Shishio.</desc>
     <credits>
@@ -1168,7 +1176,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725143236 +0200" stop="20210725161956 +0200" channel="XTRM">
+  <programme start="20210725151237 +0200" stop="20210725170023 +0200" channel="XTRM">
     <title lang="es">Ulysses: A Dark Odyssey</title>
     <desc lang="es">Abandonado durante siete años en un lugar olvidado por todos, un soldado, llamado Ulises, logra escapar y volver a casa donde descubre que su esposa Penélope ha desaparecido.</desc>
     <credits>
@@ -1192,32 +1200,35 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210725161956 +0200" stop="20210725175143 +0200" channel="XTRM">
-    <title lang="es">Dos duros sobre ruedas</title>
-    <desc lang="es">Harley Davidson y Marlboro son dos colegas moteros que se enteran de que un viejo amigo suyo va a perder su bar porque un banco pretende cobrarle un alquiler desmesurado para vender sus terrenos.</desc>
+  <programme start="20210725170023 +0200" stop="20210725175305 +0200" channel="XTRM">
+    <title lang="es">Rocco</title>
+    <desc lang="es">Tras el asesinato de Adele, Costa y Baldi interrogan a Rocco para averiguar por qué Enzo Baiocchi intentó matarlo. Rocco les cuenta la historia que arruinó su vida.</desc>
     <credits>
-      <director>Simon Wincer</director>
-      <actor>Mickey Rourke</actor>
-      <actor>Don Johnson</actor>
-      <actor>Chelsea Field</actor>
-      <actor>Daniel Baldwin</actor>
-      <actor>Giancarlo Esposito</actor>
-      <actor>Vanessa Williams</actor>
-      <actor>Robert Ginty</actor>
-      <actor>Tia Carrere</actor>
-      <writer>Don Michael Paul</writer>
-      <producer>Jere Henshaw</producer>
-      <composer>Basil Poledouris</composer>
+      <director>Giulio Manfredonia</director>
+      <actor>Marco Giallini</actor>
+      <actor>Claudia Vismara</actor>
+      <actor>Ernesto D''Argenio</actor>
+      <actor>Francesco Acquaroli</actor>
+      <actor>Ernesto D'Argenio</actor>
+      <actor>Isabella Ragonese</actor>
+      <actor>Christian Ginepro</actor>
+      <actor>Massimiliano Caprara</actor>
+      <writer>Maurizio Careddu</writer>
+      <writer>Antonio Manzini</writer>
+      <producer>Marco Mastrogiacomo</producer>
+      <composer>Corrado Carosio</composer>
+      <composer>Pierangelo Fornaro</composer>
     </credits>
-    <date>1991</date>
-    <category lang="es">Acción</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3638295.jpg" />
-    <country lang="es">EE.UU.</country>
+    <date>2018</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5088290.jpg" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
     <rating system="ES">
-      <value>18</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725175143 +0200" stop="20210725192338 +0200" channel="XTRM">
+  <programme start="20210725175305 +0200" stop="20210725192505 +0200" channel="XTRM">
     <title lang="es">Ruslan: la venganza del asesino</title>
     <desc lang="es">La hija de un gangster ruso retirado, que en la actualidad se dedica a escribir novelas de crimen, va a casarse con el hijo de su mayor enemigo. Cuando Ruslan se entera, decide volver de nuevo a la carrera criminal.</desc>
     <credits>
@@ -1240,7 +1251,7 @@
       <value>\"Soldado universal\", \"Máximo riesgo\"</value>
     </rating>
   </programme>
-  <programme start="20210725192338 +0200" stop="20210725211214 +0200" channel="XTRM">
+  <programme start="20210725192505 +0200" stop="20210725211350 +0200" channel="XTRM">
     <title lang="es">El reto del samurái</title>
     <desc lang="es">Un boxeador es contratado para devolver una katana a Japón y se ve involucrado en la lucha entre dos hermanos por el control de dos espadas gemelas.</desc>
     <credits>
@@ -1258,7 +1269,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210725211214 +0200" stop="20210725225000 +0200" channel="XTRM">
+  <programme start="20210725211350 +0200" stop="20210725225055 +0200" channel="XTRM">
     <title lang="es">Paradox</title>
     <desc lang="es">La hija de un policía de Hong Kong desaparece en Tailandia. El policía viaja hasta allí para intentar encontrarla con ayuda de un oficial tailandés. Juntos se enfrentarán a una organización criminal.</desc>
     <credits>
@@ -1286,7 +1297,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210725225000 +0200" stop="20210726001910 +0200" channel="XTRM">
+  <programme start="20210725225055 +0200" stop="20210726002101 +0200" channel="XTRM">
     <title lang="es">Estambul: Unidad de Homicidios</title>
     <desc lang="es">Los padres de un niño de siete años son asesinados y el niño ha desaparecido. El investigador Mehmet Özakin sospecha que el niño fue testigo del crimen y que ahora está en peligro de muerte.</desc>
     <credits>
@@ -1308,7 +1319,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210726001910 +0200" stop="20210726014219 +0200" channel="XTRM">
+  <programme start="20210726002101 +0200" stop="20210726014450 +0200" channel="XTRM">
     <title lang="es">Gamer</title>
     <desc lang="es">Kable es el héroe del superviolento videojuego 'Slayers'. Apartado de su familia, encarcelado y obligado a luchar contra su voluntad, es un moderno gladiador que debe sobrevivir lo suficiente para escapar del juego y liberar a su familia.</desc>
     <credits>
@@ -1334,7 +1345,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210726014219 +0200" stop="20210726030536 +0200" channel="XTRM">
+  <programme start="20210726014450 +0200" stop="20210726030847 +0200" channel="XTRM">
     <title lang="es">Código nuclear</title>
     <desc lang="es">Mike vuelve a Vietnam para rescatar a un amigo capturado pero él también es hecho prisionero. En su ayuda, acudirán su hermana y tres amigos.</desc>
     <credits>
@@ -1358,7 +1369,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210726030536 +0200" stop="20210726042847 +0200" channel="XTRM">
+  <programme start="20210726030847 +0200" stop="20210726043238 +0200" channel="XTRM">
     <title lang="es">Llamarada Solar</title>
     <desc lang="es">Gracias a su nuevo sistema para predecir llamaradas solares, un experto en Astrofísica descubre que una tormenta solar está a punto de llegar a la Tierra y dañar la atmósfera.</desc>
     <credits>
@@ -1383,7 +1394,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210726042847 +0200" stop="20210726055437 +0200" channel="XTRM">
+  <programme start="20210726043238 +0200" stop="20210726055837 +0200" channel="XTRM">
     <title lang="es">Independents' Day</title>
     <desc lang="es">Los alienígenas invaden la Tierra con un ultimatum. El futuro de la raza humana pende de un hilo cuando el presidente y los ciudadanos estadounidenses tienen que decidir si hay que confiar en ellos o temerlos.</desc>
     <credits>
@@ -1409,7 +1420,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210726055437 +0200" stop="20210726064712 +0200" channel="XTRM">
+  <programme start="20210726055837 +0200" stop="20210726064055 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Tras una muerte accidental, unos manifestantes violentos ocupan un edificio abandonado y el escuadrón tiene que desalojarlos.</desc>
     <credits>
@@ -1438,7 +1449,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726064712 +0200" stop="20210726072859 +0200" channel="XTRM">
+  <programme start="20210726064055 +0200" stop="20210726072321 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Con el 19 completamente fragmentado, la verdadera identidad el topo es revelada.</desc>
     <credits>
@@ -1467,7 +1478,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726072859 +0200" stop="20210726081229 +0200" channel="XTRM">
+  <programme start="20210726072321 +0200" stop="20210726080746 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">El topo se ha fugado y en el 19 se vuelven los unos contra los otros y contra sí mismos.</desc>
     <credits>
@@ -1496,7 +1507,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726081229 +0200" stop="20210726090529 +0200" channel="XTRM">
+  <programme start="20210726080746 +0200" stop="20210726090121 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">La policía investiga a un hombre de negocios que volvió de viaje y encontró a una mujer muerta en su coche. Zhenia conoce a los padres de Nina, e Igor, a los de Katia.</desc>
     <credits>
@@ -1524,7 +1535,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726090529 +0200" stop="20210726105424 +0200" channel="XTRM">
+  <programme start="20210726090121 +0200" stop="20210726105034 +0200" channel="XTRM">
     <title lang="es">De profesión duro</title>
     <desc lang="es">Un doctor en Filosofía prefiere pasar la vida como "gorila\.</desc>
     <credits>
@@ -1548,7 +1559,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210726105424 +0200" stop="20210726121736 +0200" channel="XTRM">
+  <programme start="20210726105034 +0200" stop="20210726121450 +0200" channel="XTRM">
     <title lang="es">Misfortune</title>
     <desc lang="es">Al salir de prisión, Mallick busca al hijo de su socio porque cree que lo puede guiar al lugar donde están escondidos unos diamantes robados.</desc>
     <credits>
@@ -1572,7 +1583,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726121736 +0200" stop="20210726140157 +0200" channel="XTRM">
+  <programme start="20210726121450 +0200" stop="20210726135939 +0200" channel="XTRM">
     <title lang="es">Thai Dragón 2: El protector</title>
     <desc lang="es">Kham rechaza vender su elefante a Suchart, un comerciante de Khon que planea revendérselo a uno de los secuaces de un peligroso gánster. Así que cuando Suchart aparece muerto, todos creen que Kham es el culpable.</desc>
     <credits>
@@ -1593,7 +1604,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726140157 +0200" stop="20210726161229 +0200" channel="XTRM">
+  <programme start="20210726135939 +0200" stop="20210726161046 +0200" channel="XTRM">
     <title lang="es">Kenshin, el guerrero samurái 3: El fin de la leyenda</title>
     <desc lang="es">Tras los acontecimientos ocurridos en la ciudad de Kioto, Kenshin se ve obligado a replantearse lo que sabe y pedirá ayuda a su antiguo maestro.</desc>
     <credits>
@@ -1618,7 +1629,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210726161229 +0200" stop="20210726181514 +0200" channel="XTRM">
+  <programme start="20210726161046 +0200" stop="20210726181406 +0200" channel="XTRM">
     <title lang="es">Death Note: La película</title>
     <desc lang="es">Un estudiante encuentra un cuaderno llamado 'Death Note' con poderes sobrenaturales que matan a todo aquel cuyo nombre sea escrito en él.</desc>
     <credits>
@@ -1646,7 +1657,7 @@
       <value>Dios de la Muerte</value>
     </rating>
   </programme>
-  <programme start="20210726181514 +0200" stop="20210726193910 +0200" channel="XTRM">
+  <programme start="20210726181406 +0200" stop="20210726193858 +0200" channel="XTRM">
     <title lang="es">El hombre del presidente</title>
     <desc lang="es">Joshua McCord es un agente especializado en misiones altamente peligrosas que trabaja en la Casa Blanca y que tiene que rescatar a la Primera Dama de los Estados Unidos que ha sido secuestrada.</desc>
     <credits>
@@ -1670,7 +1681,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726193910 +0200" stop="20210726210651 +0200" channel="XTRM">
+  <programme start="20210726193858 +0200" stop="20210726210713 +0200" channel="XTRM">
     <title lang="es">Message Man</title>
     <desc lang="es">Cuando su pasado lo alcanza, un asesino a sueldo retirado tiene que dejar atrás la tranquila vida que se había construido para volver a matar.</desc>
     <credits>
@@ -1694,7 +1705,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726210651 +0200" stop="20210726225000 +0200" channel="XTRM">
+  <programme start="20210726210713 +0200" stop="20210726225049 +0200" channel="XTRM">
     <title lang="es">The Assassin</title>
     <desc lang="es">La hija de un general es criada por una monja que le enseña artes marciales. De adulta se convierte en una asesina implacable de gobernadores corruptos.</desc>
     <credits>
@@ -2050,7 +2061,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725004114 +0200" stop="20210725015813 +0200" channel="Somos">
+  <programme start="20210725004114 +0200" stop="20210725020346 +0200" channel="Somos">
     <title lang="es">Estoy hecho un chaval</title>
     <desc lang="es">Juan es contable, tiene 65 años y en su empresa le comunican que van a jubilarle, a su vez su mujer le comunica que está embarazada y que van a ser padres otra vez.</desc>
     <credits>
@@ -2075,7 +2086,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725015813 +0200" stop="20210725073248 +0200" channel="Somos">
+  <programme start="20210725020346 +0200" stop="20210725071536 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -2085,7 +2096,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725073248 +0200" stop="20210725085332 +0200" channel="Somos">
+  <programme start="20210725071536 +0200" stop="20210725083809 +0200" channel="Somos">
     <title lang="es">Requiebro</title>
     <desc lang="es">Paloma Reyes, una cantaora andaluza, debuta en Argentina dedicando su espectáculo a una vieja actriz del lugar, Isabel Mendoza.</desc>
     <credits>
@@ -2112,7 +2123,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725085332 +0200" stop="20210725102250 +0200" channel="Somos">
+  <programme start="20210725083809 +0200" stop="20210725101030 +0200" channel="Somos">
     <title lang="es">La noche más larga</title>
     <desc lang="es">La trama se centra en los recuerdos de un abogado y un fiscal sobre los últimos fusilamientos decretados por el Generalísimo en 1975, antes de su muerte.</desc>
     <credits>
@@ -2138,7 +2149,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725102250 +0200" stop="20210725115258 +0200" channel="Somos">
+  <programme start="20210725101030 +0200" stop="20210725114126 +0200" channel="Somos">
     <title lang="es">Un millón en la basura</title>
     <desc lang="es">Mientras realiza su trabajo, un barrendero encuentra un millón de pesetas en un cubo de basura.</desc>
     <credits>
@@ -2160,7 +2171,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725115258 +0200" stop="20210725133230 +0200" channel="Somos">
+  <programme start="20210725114126 +0200" stop="20210725132317 +0200" channel="Somos">
     <title lang="es">La batalla del domingo</title>
     <desc lang="es">Biografía de uno de los mejores jugadores de la historia del fútbol, Alfredo Di Stéfano. En un principio se le propone un guión un tanto falseado de su vida en busca del éxito comercial, al leerlo se niega a que se filme así.</desc>
     <credits>
@@ -2185,7 +2196,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725133230 +0200" stop="20210725150821 +0200" channel="Somos">
+  <programme start="20210725132317 +0200" stop="20210725150032 +0200" channel="Somos">
     <title lang="es">Alcalde por elección</title>
     <desc lang="es">Durante uno de sus viajes a Madrid, el futuro alcalde de una pequeña ciudad, es visto por sus conciudadanos en televisión junto a una bella mujer.</desc>
     <credits>
@@ -2206,7 +2217,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210725150821 +0200" stop="20210725152452 +0200" channel="Somos">
+  <programme start="20210725150032 +0200" stop="20210725151841 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Tony Leblanc</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Tony Leblanc.</desc>
     <credits>
@@ -2221,7 +2232,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210725152452 +0200" stop="20210725165034 +0200" channel="Somos">
+  <programme start="20210725151841 +0200" stop="20210725164606 +0200" channel="Somos">
     <title lang="es">El portero</title>
     <desc lang="es">En 1948, mientras los maquis continúan en las montañas luchando contra Franco, Ramiro Forteza llega a un pueblo asturiano. El exguardameta del Real Madrid se gana la vida viajando por pueblos y retando a que le tiren penaltis.</desc>
     <credits>
@@ -2247,22 +2258,11 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725165034 +0200" stop="20210725183226 +0200" channel="Somos">
+  <programme start="20210725164606 +0200" stop="20210725182957 +0200" channel="Somos">
     <title lang="es">Las siete magníficas</title>
-    <desc lang="es">Unos colonos que pretenden atravesar el desierto de Arizona en caravana son atacados por los indios y solo siete mujeres sobreviven a la matanza.</desc>
-    <credits>
-      <director>Parolini Gianfranco</director>
-      <actor>Rojo Anne Baxter</actor>
-      <actor>Maria Perschy</actor>
-      <actor>María Mahor</actor>
-      <actor>Perla Cristal</actor>
-    </credits>
-    <date>1966</date>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6727.jpg" />
-    <country lang="es">España</country>
+    <desc lang="es">Una caravana de colonos es atacada y saqueada por los indios. Las únicas supervivientes son siete mujeres que se esconden en una cueva. Ahora tendrán que elegir si quedarse allí sin comida o arriesgarse a cruzar el territorio.</desc>
   </programme>
-  <programme start="20210725183226 +0200" stop="20210725195145 +0200" channel="Somos">
+  <programme start="20210725182957 +0200" stop="20210725195104 +0200" channel="Somos">
     <title lang="es">Pistoleros de Arizona</title>
     <desc lang="es">Jeff es un jugador de póker que gana un rancho en una partida de cartas. Cuando llega para tomar posesión descubre que solo tiene una parte y que va a tener que luchar contra una banda de forajidos para poder conservarla.</desc>
     <credits>
@@ -2289,7 +2289,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725195145 +0200" stop="20210725213000 +0200" channel="Somos">
+  <programme start="20210725195104 +0200" stop="20210725213024 +0200" channel="Somos">
     <title lang="es">Sex o no sex</title>
     <desc lang="es">Paco, sexualmente reprimido, trata de recuperar el tiempo perdido poniendo en práctica todo lo que hasta entonces había considerado aberrante.</desc>
     <credits>
@@ -2313,7 +2313,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210725213000 +0200" stop="20210725231046 +0200" channel="Somos">
+  <programme start="20210725213024 +0200" stop="20210725231237 +0200" channel="Somos">
     <title lang="es">¡Qué cosas tiene el amor!</title>
     <desc lang="es">Tres hermanos delincuentes se enteran que el cantante Peret viaja a la Costa del Sol con su colección de joyas y deciden preparar un gran golpe.</desc>
     <credits>
@@ -2339,7 +2339,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210725231046 +0200" stop="20210725232716 +0200" channel="Somos">
+  <programme start="20210725231237 +0200" stop="20210725233049 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Fernando Sancho</title>
     <desc lang="es">Fernando Sancho rodó más de 300 películas en toda su carrera. Fue una figura imprescindible en el spaghetti western y triunfó como estrella en España, Italia, Grecia o Tailandia.</desc>
     <credits>
@@ -2354,7 +2354,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210725232716 +0200" stop="20210726005339 +0200" channel="Somos">
+  <programme start="20210725233049 +0200" stop="20210726005851 +0200" channel="Somos">
     <title lang="es">Jenaro el de los 14</title>
     <desc lang="es">Jenaro es el pregonero de un pueblo. Tras el acierto de una quiniela de catorce resultados, premiada con muchos millones, su vida cambia por completo. De la noche a la mañana, todas las mujeres querrán casarse con él.</desc>
     <credits>
@@ -2377,7 +2377,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210726005339 +0200" stop="20210726021231 +0200" channel="Somos">
+  <programme start="20210726005851 +0200" stop="20210726021832 +0200" channel="Somos">
     <title lang="es">Digan lo que digan</title>
     <desc lang="es">Rafael es un cantante famoso que trabaja en un crucero y aprovecha un viaje para ir a Buenos Aires a visitar a su hermano Miguel, que vive allí hace varios años.</desc>
     <credits>
@@ -2400,7 +2400,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210726021231 +0200" stop="20210726070546 +0200" channel="Somos">
+  <programme start="20210726021832 +0200" stop="20210726070956 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -2410,7 +2410,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210726070546 +0200" stop="20210726082438 +0200" channel="Somos">
+  <programme start="20210726070956 +0200" stop="20210726082937 +0200" channel="Somos">
     <title lang="es">El vengador del sur</title>
     <desc lang="es">Brian y su mujer son atacados por una banda de excombatientes de la Guerra de Secesión, pero ella no logra sobrevivir, mientras que él se salva gracias a los cuidados de Daniel.</desc>
     <credits>
@@ -2436,7 +2436,7 @@
       <value>descubrió a una de las primeras estrellas del porno italianas</value>
     </rating>
   </programme>
-  <programme start="20210726082438 +0200" stop="20210726095441 +0200" channel="Somos">
+  <programme start="20210726082937 +0200" stop="20210726100122 +0200" channel="Somos">
     <title lang="es">Secretaria para todo</title>
     <desc lang="es">Cristina es la secretaria de Sergio Romero, el jefe de una empresa de exportación. Cuando un importante cliente holandés visita Madrid, Romero le pide que se haga pasar por su esposa pero el importador se enamora de ella.</desc>
     <credits>
@@ -2459,7 +2459,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210726095441 +0200" stop="20210726113958 +0200" channel="Somos">
+  <programme start="20210726100122 +0200" stop="20210726114713 +0200" channel="Somos">
     <title lang="es">Historia de un beso</title>
     <desc lang="es">Invierno de 1949. En el pequeño pueblo asturiano de Cerralbos de Sella acaba de morir su vecino más ilustre, el gran escritor Blas Otamendi. Su sobrino Julio, hoy profesor en Francia, acude al entierro.</desc>
     <credits>
@@ -2485,7 +2485,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210726113958 +0200" stop="20210726132304 +0200" channel="Somos">
+  <programme start="20210726114713 +0200" stop="20210726133259 +0200" channel="Somos">
     <title lang="es">La carta esférica</title>
     <desc lang="es">Coy, un marinero en tierra, conoce en una subasta naval a Tánger, una fascinante mujer que acaba de hacerse con el Atlas Marítimo de Urrutia. El mapa lleva a un tesoro que otros matarían por conseguir, así que Coy decide cuidarla.</desc>
     <credits>
@@ -2513,7 +2513,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210726132304 +0200" stop="20210726145830 +0200" channel="Somos">
+  <programme start="20210726133259 +0200" stop="20210726150928 +0200" channel="Somos">
     <title lang="es">Señora doctor</title>
     <desc lang="es">Elvira, una joven recién licenciada, acepta la plaza de médico en un pequeño pueblo de mentalidad machista que no ve con buenos ojos su llegada.</desc>
     <credits>
@@ -2539,7 +2539,7 @@
       <value>Lina Morgan</value>
     </rating>
   </programme>
-  <programme start="20210726145830 +0200" stop="20210726151500 +0200" channel="Somos">
+  <programme start="20210726150928 +0200" stop="20210726152737 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Rafael Alonso</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Rafael Alonso.</desc>
     <credits>
@@ -2554,7 +2554,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210726151500 +0200" stop="20210726163630 +0200" channel="Somos">
+  <programme start="20210726152737 +0200" stop="20210726165110 +0200" channel="Somos">
     <title lang="es">Un lujo a su alcance</title>
     <desc lang="es">Un matrimonio regenta un instituto de belleza de gran éxito entre el sector femenino. La visión para los negocios de ella y el trabajo de él como masajista, además de su atractivo para las mujeres, son la clave de su éxito.</desc>
     <credits>
@@ -2578,7 +2578,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210726163630 +0200" stop="20210726180213 +0200" channel="Somos">
+  <programme start="20210726165110 +0200" stop="20210726181724 +0200" channel="Somos">
     <title lang="es">Doc, manos de plata</title>
     <desc lang="es">En una partida de cartas, Doc "manos de plata" mata a un hombre en defensa propia y se da a la fuga. Slade, un cazador de forajidos, irá tras él.</desc>
     <credits>
@@ -2604,7 +2604,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210726180213 +0200" stop="20210726193933 +0200" channel="Somos">
+  <programme start="20210726181724 +0200" stop="20210726195634 +0200" channel="Somos">
     <title lang="es">Winchester, uno entre mil</title>
     <desc lang="es">Jess regresa a su pueblo años después de vengar a sus padres. Ayudando al sheriff, investiga el caso de un asesino que utiliza un rifle Winchester.</desc>
     <credits>
@@ -2625,7 +2625,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210726193933 +0200" stop="20210726213000 +0200" channel="Somos">
+  <programme start="20210726195634 +0200" stop="20210726213008 +0200" channel="Somos">
     <title lang="es">Dormir y ligar: todo es empezar</title>
     <desc lang="es">Saturnino es un joven que trabaja mucho y por que por la noche solo quiere dormir, para desesperación de su mujer. Un día va a Madrid por trabajo y, por una casualidad, sale en televisión por la noche con Miss España.</desc>
     <credits>
@@ -2648,7 +2648,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210726213000 +0200" stop="20210726231154 +0200" channel="Somos">
+  <programme start="20210726213008 +0200" stop="20210726231306 +0200" channel="Somos">
     <title lang="es">Pídele cuentas al rey</title>
     <desc lang="es">Fidel, un minero asturiano en paro tras el cierre de la mina en la que trabaja, decide ir caminando hasta Madrid con su familia, para pedirle al Rey un trabajo digno.</desc>
     <credits>
