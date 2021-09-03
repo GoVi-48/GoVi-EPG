@@ -665,7 +665,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210903101629 +0200" stop="20210903114033 +0200" channel="XTRM">
+  <programme start="20210903101629 +0200" stop="20210903114136 +0200" channel="XTRM">
     <title lang="es">Megapitón contra Megacaimán</title>
     <desc lang="es">Una fanática defensora de los derechos animales libera serpientes exóticas que son importadas ilícitamente. Comienzan a adquirir mega-proporciones.</desc>
     <credits>
@@ -689,7 +689,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210903114033 +0200" stop="20210903131622 +0200" channel="XTRM">
+  <programme start="20210903114136 +0200" stop="20210903131422 +0200" channel="XTRM">
     <title lang="es">Ruslan: la venganza del asesino</title>
     <desc lang="es">La hija de un gangster ruso retirado, que en la actualidad se dedica a escribir novelas de crimen, va a casarse con el hijo de su mayor enemigo. Cuando Ruslan se entera, decide volver de nuevo a la carrera criminal.</desc>
     <credits>
@@ -712,7 +712,7 @@
       <value>\"Soldado universal\", \"Máximo riesgo\"</value>
     </rating>
   </programme>
-  <programme start="20210903131622 +0200" stop="20210903144640 +0200" channel="XTRM">
+  <programme start="20210903131422 +0200" stop="20210903144726 +0200" channel="XTRM">
     <title lang="es">Agenda oculta</title>
     <desc lang="es">Jason Price se gana la vida haciendo desaparecer a las personas. Sin embargo, cuando un mafioso le pide que le ayude a quitarse de en medio, la situación toma un giro inesperado.</desc>
     <credits>
@@ -734,7 +734,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210903144640 +0200" stop="20210903162419 +0200" channel="XTRM">
+  <programme start="20210903144726 +0200" stop="20210903162436 +0200" channel="XTRM">
     <title lang="es">Mañana, cuando la guerra empiece</title>
     <desc lang="es">Un grupo de amigos decide vivir una última aventura antes de que acaben las vacaciones. El resto del mundo parece un recuerdo lejano, hasta que una noche aparecen en el cielo varias escuadrillas de aviones.</desc>
     <credits>
@@ -761,7 +761,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210903162419 +0200" stop="20210903175056 +0200" channel="XTRM">
+  <programme start="20210903162436 +0200" stop="20210903175113 +0200" channel="XTRM">
     <title lang="es">XIII - La conspiración</title>
     <desc lang="es">Tres meses después del asesinato de la presidenta de los EEUU, un hombre es rescatado en la costa pero sufre de amnesia. Su único rasgo identificativo es el tatuaje de un 13 en números romanos.</desc>
     <credits>
@@ -788,7 +788,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210903175056 +0200" stop="20210903191918 +0200" channel="XTRM">
+  <programme start="20210903175113 +0200" stop="20210903191940 +0200" channel="XTRM">
     <title lang="es">XIII - La conspiración</title>
     <desc lang="es">Tres meses después del asesinato de la presidenta de los EEUU, un hombre es rescatado en la costa pero sufre de amnesia. Su único rasgo identificativo es el tatuaje de un 13 en números romanos.</desc>
     <credits>
@@ -815,11 +815,33 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210903191918 +0200" stop="20210903205528 +0200" channel="XTRM">
+  <programme start="20210903191940 +0200" stop="20210903205603 +0200" channel="XTRM">
     <title lang="es">El cuervo (The Crow)</title>
     <desc lang="es">La noche antes de celebrar su matrimonio, los dos jóvenes Eric Draven y Shelly Webster son asesinados. Eric regresará para hacer justicia transformado en un cuervo.</desc>
+    <credits>
+      <director>Alex Proyas</director>
+      <actor>Brandon Lee</actor>
+      <actor>Rochelle Davis</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Michael Wincott</actor>
+      <actor>Sofia Shinas</actor>
+      <actor>Anna Levine</actor>
+      <actor>David Patrick Kelly</actor>
+      <actor>Laurence Mason</actor>
+      <writer>James O'Barr</writer>
+      <writer>David J. Schow</writer>
+      <producer>Jeff Most</producer>
+      <composer>Graeme Revell</composer>
+    </credits>
+    <date>1994</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1502434.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20210903205528 +0200" stop="20210903225129 +0200" channel="XTRM">
+  <programme start="20210903205603 +0200" stop="20210903225214 +0200" channel="XTRM">
     <title lang="es">Sicario</title>
     <desc lang="es">Kate Macer, una idealista agente del FBI, es reclutada para trabajar con una fuerza de élite especializada en la lucha contra el narcotráfico.</desc>
     <credits>
@@ -845,7 +867,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210903225129 +0200" stop="20210904005047 +0200" channel="XTRM">
+  <programme start="20210903225214 +0200" stop="20210904005132 +0200" channel="XTRM">
     <title lang="es">Mongol</title>
     <desc lang="es">La película narra la historia del temido guerrero y fundador del Imperio mongol Genghis Khan, desde su etapa como esclavo hasta que conquistó el mundo.</desc>
     <credits>
@@ -872,27 +894,128 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210904005047 +0200" stop="20210904021535 +0200" channel="XTRM">
+  <programme start="20210904005132 +0200" stop="20210904021620 +0200" channel="XTRM">
     <title lang="es">Hush Money</title>
     <desc lang="es">Los planes de un profesor de arte se complican cuando secuestra a la hija de un jugador de béisbol para pagar una deuda a un despiadado jefe de la mafia.</desc>
+    <credits>
+      <director>Terrell Lamont</director>
+      <actor>Kennedy Waite</actor>
+      <actor>Joshua Ray</actor>
+      <actor>Rodney Grier</actor>
+      <actor>J. Plumb Matthew</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/8609442.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210904021535 +0200" stop="20210904035718 +0200" channel="XTRM">
+  <programme start="20210904021620 +0200" stop="20210904035803 +0200" channel="XTRM">
     <title lang="es">El daño</title>
     <desc lang="es">John Brickner sale de prisión tras cumplir condena por asesinar a un hombre. Ahora está dispuesto a iniciar una nueva vida alejado de la violencia.</desc>
+    <credits>
+      <director>Jeff King</director>
+      <actor>Steve Austin</actor>
+      <actor>Walton Goggins</actor>
+      <actor>Laura Vandervoort</actor>
+      <actor>Donnelly Rhodes</actor>
+      <actor>Lynda Boyd</actor>
+      <actor>Scott McNeil</actor>
+      <actor>Clifton MaCabe Murray</actor>
+      <actor>Giles Panton</actor>
+      <writer>Frank Hannah</writer>
+      <producer>Jack Nasser</producer>
+      <composer>Peter Allen</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2041.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210904035718 +0200" stop="20210904052450 +0200" channel="XTRM">
+  <programme start="20210904035803 +0200" stop="20210904052505 +0200" channel="XTRM">
     <title lang="es">Alien Attack</title>
     <desc lang="es">En el Oeste americano de 1892, un ladrón de trenes espera en la cárcel su ejecución. Pronto la horca se convertirá en el menor de sus problemas, cuando un extraño bicho ataque el pequeño pueblo.</desc>
+    <credits>
+      <director>Kristoffer Tabori</director>
+      <director>K.T.Donaldson</director>
+      <actor>Cindy Sampson</actor>
+      <actor>James Marsters</actor>
+      <actor>Sebastian Knapp</actor>
+      <actor>Sanny Van Heteren</actor>
+      <actor>Constantin Barbulescu</actor>
+      <actor>Dan Bordeianu</actor>
+      <writer>Richard Beattie</writer>
+      <producer>Ric Nish</producer>
+      <composer>James Gelfand</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/8321.jpg" />
+    <country lang="es">Canadá</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210904052450 +0200" stop="20210904054835 +0200" channel="XTRM">
+  <programme start="20210904052505 +0200" stop="20210904054850 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">El inglés Raheem Sterling quiere triunfar en casa, Croacia quiere mejorar su resultado en el Mundial y Emil Forsberg es el líder de Suecia en la era post-Zlatan.</desc>
+    <credits>
+      <director>Varios</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210904054835 +0200" stop="20210904074321 +0200" channel="XTRM">
+  <programme start="20210904054850 +0200" stop="20210904061420 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Una cantera de talentos puede ayudar a Francia a revalidar su gloria en el Mundial, Trent Alexander-Arnold está listo para brillar con Inglaterra, y Polonia deposita sus esperanzas en Lewandowski.</desc>
+    <credits>
+      <director>Varios</director>
+    </credits>
+    <date>2020</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210904074321 +0200" stop="20210904090624 +0200" channel="XTRM">
+  <programme start="20210904061420 +0200" stop="20210904074357 +0200" channel="XTRM">
+    <title lang="es">Street Fighter: La leyenda</title>
+    <desc lang="es">Chun-Li, una pequeña promesa del piano, sufrió el secuestro de su padre cuando era una niña. Años más tarde, cuando se convirtió en una mujer adulta, Chun-Li descubrió que su padre seguía vivo y quiso encontrarlo.</desc>
+    <credits>
+      <director>Andrzej Bartkowiak</director>
+      <actor>Kristin Kreuk</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Chris Klein</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Robin Shou</actor>
+      <actor>Moon Bloodgood</actor>
+      <actor>Kristin Kreuc</actor>
+      <writer>Justin Marks</writer>
+      <producer>Patrick Aiello</producer>
+      <composer>Stephen Endelman</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/7066554.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20210904074357 +0200" stop="20210904090701 +0200" channel="XTRM">
     <title lang="es">Bajo amenaza</title>
     <desc lang="es">Un matrimonio bien avenido y colmado de dinero pasa la peor noche de sus vidas cuando un grupo de encapuchados interrumpe en su casa con la intención de llevarse dinero y diamantes de la caja fuerte.</desc>
     <credits>
@@ -918,19 +1041,85 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210904090624 +0200" stop="20210904094807 +0200" channel="XTRM">
+  <programme start="20210904090701 +0200" stop="20210904094844 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Nick Barron regresa al trabajo consumido por la culpa y es obligado a formar equipo con Ben Chartier, un policía que sigue las normas.</desc>
+    <credits>
+      <director>Louis Choquette</director>
+      <director>Podz</director>
+      <actor>Adrian Holmes</actor>
+      <actor>Jared Keeso</actor>
+      <actor>Benz Antoine</actor>
+      <actor>Mylène Dinh-Robic</actor>
+      <actor>Bruce Ramsay</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Holmes Adrian</actor>
+      <actor>Keeso Jared</actor>
+      <producer>Saralo MacGregor</producer>
+      <composer>Reinhold Hoffmann</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2265399.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210904094807 +0200" stop="20210904103124 +0200" channel="XTRM">
+  <programme start="20210904094844 +0200" stop="20210904103303 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Un enfrentamiento entre bandas callejeras rivales pone en peligro la vida de Ben. La brigada del 19 celebra una fiesta en honor al sargento.</desc>
+    <credits>
+      <director>Louis Choquette</director>
+      <director>Choquette Louis</director>
+      <actor>Adrian Holmes</actor>
+      <actor>Jared Keeso</actor>
+      <actor>Benz Antoine</actor>
+      <actor>Mylène Dinh-Robic</actor>
+      <actor>Bruce Ramsay</actor>
+      <actor>Laurence Leboeuf</actor>
+      <actor>Holmes Adrian</actor>
+      <actor>Keeso Jared</actor>
+      <producer>Saralo MacGregor</producer>
+      <composer>Reinhold Hoffmann</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2265399.jpg" />
+    <country lang="es">Canadá</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210904103124 +0200" stop="20210904120434 +0200" channel="XTRM">
+  <programme start="20210904103303 +0200" stop="20210904120652 +0200" channel="XTRM">
     <title lang="es">Jugando con la muerte</title>
     <desc lang="es">El agente de operaciones secretas Marcus es enviado a Detroit para atrapar a un traficante de armas y a su proveedor. Pero el refuerzo de la CIA tiene otros planes para él.</desc>
+    <credits>
+      <director>Giorgio Serafini</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Zoe Bell</actor>
+      <actor>Ernie Hudson</actor>
+      <actor>Robert Davi</actor>
+      <actor>Aunjanue Ellis</actor>
+      <actor>Gary Daniels</actor>
+      <actor>Robert Davis</actor>
+      <writer>Jim Agnew</writer>
+      <writer>Megan Brown</writer>
+      <producer>Billy Dietrich</producer>
+      <producer>Philippe Martinez</producer>
+      <composer>Jesse Voccia</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5890.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20210904120434 +0200" stop="20210904132850 +0200" channel="XTRM">
+  <programme start="20210904120652 +0200" stop="20210904133204 +0200" channel="XTRM">
     <title lang="es">El guerrero rojo</title>
     <desc lang="es">Un guerrero y una mujer tendrán que enfrentarse a las fuerzas malignas de la princesa Gerden, y a los poderes de un maléfico talismán, en un mundo de barbarie y maldad.</desc>
     <credits>
@@ -954,7 +1143,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210904132850 +0200" stop="20210904151846 +0200" channel="XTRM">
+  <programme start="20210904133204 +0200" stop="20210904152259 +0200" channel="XTRM">
     <title lang="es">De profesión duro</title>
     <desc lang="es">Un doctor en Filosofía prefiere pasar la vida como "gorila\.</desc>
     <credits>
@@ -978,11 +1167,35 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210904151846 +0200" stop="20210904164535 +0200" channel="XTRM">
+  <programme start="20210904152259 +0200" stop="20210904164654 +0200" channel="XTRM">
     <title lang="es">Sharknado 5: Aletamiento global</title>
     <desc lang="es">Fin Shepard y su mujer biónica tienen una nueva misión: rescatar a su hijo que ha quedado atrapado en un 'viajenado' y es transportado por todo el mundo.</desc>
+    <credits>
+      <director>Anthony C. Ferrante</director>
+      <actor>Ian Ziering</actor>
+      <actor>Tara Reid</actor>
+      <actor>Cassandra Scerbo</actor>
+      <actor>Billy Barratt</actor>
+      <actor>Porsha Williams</actor>
+      <actor>Chris Kattan</actor>
+      <actor>Doug Censor Martin</actor>
+      <actor>Clay Aiken</actor>
+      <writer>Thunder Levin</writer>
+      <writer>Scotty Mullen</writer>
+      <producer>David Michael Latt</producer>
+      <producer>Paul Bales</producer>
+      <composer>Christopher Cano</composer>
+      <composer>Chris Ridenhour</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1570202.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210904164535 +0200" stop="20210904181409 +0200" channel="XTRM">
+  <programme start="20210904164654 +0200" stop="20210904181530 +0200" channel="XTRM">
     <title lang="es">Estambul: Unidad de Homicidios</title>
     <desc lang="es">La estudiante Dilek acusa a Birol, su ex de violación. Su familia le reprocha su estilo de vida inmoral y su hermano la golpea.</desc>
     <credits>
@@ -1004,7 +1217,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210904181409 +0200" stop="20210904194556 +0200" channel="XTRM">
+  <programme start="20210904181530 +0200" stop="20210904194813 +0200" channel="XTRM">
     <title lang="es">Dos duros sobre ruedas</title>
     <desc lang="es">Harley Davidson y Marlboro son dos colegas moteros que se enteran de que un viejo amigo suyo va a perder su bar porque un banco pretende cobrarle un alquiler desmesurado para vender sus terrenos.</desc>
     <credits>
@@ -1029,15 +1242,57 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210904194556 +0200" stop="20210904210702 +0200" channel="XTRM">
+  <programme start="20210904194813 +0200" stop="20210904210644 +0200" channel="XTRM">
     <title lang="es">Hell ride</title>
     <desc lang="es">Un grupo de moteros comienza a ser perseguidos por los 666ers, un viejo grupo de motoristas rivales, hasta que prácticamente consiguen erradicar la banda. El origen de esta caza podría ser una vieja rencilla por un tesoro escondido.</desc>
+    <credits>
+      <director>Larry Bishop</director>
+      <actor>Julia Jones</actor>
+      <actor>Larry Bishop</actor>
+      <actor>Leonor Varela</actor>
+      <actor>Austin Galuppo</actor>
+      <actor>Pete Randall</actor>
+      <actor>Vinnie Jones</actor>
+      <actor>David Carradine</actor>
+      <actor>Michael Madsen</actor>
+      <writer>Larry Bishop</writer>
+      <producer>Larry Bishop</producer>
+      <producer>Shana Stein</producer>
+      <composer>Daniele Luppi</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/261004.jpg" />
+    <country lang="es">EE.UU.</country>
   </programme>
-  <programme start="20210904210702 +0200" stop="20210904225000 +0200" channel="XTRM">
+  <programme start="20210904210644 +0200" stop="20210904225048 +0200" channel="XTRM">
     <title lang="es">Venganza (In the Blood)</title>
     <desc lang="es">Durante su idílica luna de miel, el marido de Ava desaparece en extrañas circunstancias. La joven hará todo lo posible por descubrir la verdad.</desc>
+    <credits>
+      <director>John Stockwell</director>
+      <actor>Gina Carano</actor>
+      <actor>Cam Gigandet</actor>
+      <actor>Danny Trejo</actor>
+      <actor>Luis Guzmán</actor>
+      <actor>Amaury Nolasco</actor>
+      <actor>Stephen Lang</actor>
+      <actor>Ismael Cruz Cordova</actor>
+      <actor>Treat Williams</actor>
+      <writer>James Robert Johnston</writer>
+      <writer>Bennett Yellin</writer>
+      <producer>Marina Grasic</producer>
+      <producer>Raymond Mansfield</producer>
+      <composer>Paul Haslinger</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/452960.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20210904225000 +0200" stop="20210905002430 +0200" channel="XTRM">
+  <programme start="20210904225048 +0200" stop="20210905002416 +0200" channel="XTRM">
     <title lang="es">Johnny Mnemonic</title>
     <desc lang="es">Jhonny Mnemonic es un 'correo', pues tiene un paquete de datos insertado en su cabeza que debe entregar antes de que su tiempo se termine.</desc>
     <credits>
@@ -1061,7 +1316,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210905002430 +0200" stop="20210905015600 +0200" channel="XTRM">
+  <programme start="20210905002416 +0200" stop="20210905014823 +0200" channel="XTRM">
     <title lang="es">12 balas</title>
     <desc lang="es">Shaw, un detective que vuelve al servicio después de la muerte de su compañero, descubre que policías corruptos están relacionados con un asesinato. Después de ser acusado injustamente de homicidio, intentará limpir su nombre.</desc>
     <credits>
@@ -1085,7 +1340,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210905015600 +0200" stop="20210905032004 +0200" channel="XTRM">
+  <programme start="20210905014823 +0200" stop="20210905031303 +0200" channel="XTRM">
     <title lang="es">Caza bajo el sol</title>
     <desc lang="es">Madec, un tiburón de las finanzas y Ben, su joven guía, juegan al juego más peligroso durante un viaje de caza en el desierto de Mojave.</desc>
     <credits>
@@ -1107,7 +1362,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210905032004 +0200" stop="20210905050206 +0200" channel="XTRM">
+  <programme start="20210905031303 +0200" stop="20210905051655 +0200" channel="XTRM">
     <title lang="es">Desaparecidos sin rastro (La última profecía)</title>
     <desc lang="es">Como si de una hecatombe bíblica se tratase, de pronto empiezan a desaparecer millones de personas en la Tierra, dejando tan solo sus ropas y pertenencias.</desc>
     <credits>
@@ -1131,7 +1386,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210905050206 +0200" stop="20210905064417 +0200" channel="XTRM">
+  <programme start="20210905051655 +0200" stop="20210905064417 +0200" channel="XTRM">
     <title lang="es">Mad World</title>
     <desc lang="es">En el año 2037 la humanidad está a punto de extinguirse, un virus ha hecho infertil a las personas y la población va muriendo sin que haya nuevos nacimientos.</desc>
     <credits>
@@ -1463,7 +1718,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210903003431 +0200" stop="20210903021612 +0200" channel="Somos">
+  <programme start="20210903003431 +0200" stop="20210903021801 +0200" channel="Somos">
     <title lang="es">Horas de luz</title>
     <desc lang="es">Juan José es un preso condenado a más de 100 años de cárcel por el asesinato de tres personas, dos de ellas agentes de la ley. En la cárcel del Dueso conoce a Marimar, una enfermera de la que se enamora.</desc>
     <credits>
@@ -1489,7 +1744,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210903021612 +0200" stop="20210903070529 +0200" channel="Somos">
+  <programme start="20210903021801 +0200" stop="20210903070431 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -1499,7 +1754,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210903070529 +0200" stop="20210903084710 +0200" channel="Somos">
+  <programme start="20210903070431 +0200" stop="20210903084801 +0200" channel="Somos">
     <title lang="es">Piedra de toque</title>
     <desc lang="es">Carlos, un joven racista, viaja a Guinea para visitar las propiedades de su padre para alejarse de una mujer.</desc>
     <credits>
@@ -1523,7 +1778,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210903084710 +0200" stop="20210903101615 +0200" channel="Somos">
+  <programme start="20210903084801 +0200" stop="20210903101909 +0200" channel="Somos">
     <title lang="es">El día de los enamorados</title>
     <desc lang="es">Cuatro parejas se enfrentan a diferentes problemas en el amor, pero todos ellos se verán relacionados por una presencia divina a la vez que misteriosa.</desc>
     <credits>
@@ -1549,7 +1804,7 @@
       <value>Concha Velasco y Tony Leblanc</value>
     </rating>
   </programme>
-  <programme start="20210903101615 +0200" stop="20210903114605 +0200" channel="Somos">
+  <programme start="20210903101909 +0200" stop="20210903115104 +0200" channel="Somos">
     <title lang="es">Duerme, duerme, mi amor</title>
     <desc lang="es">Una pareja sufre una crisis conyugal durante la mudanza al nuevo piso. Él, harto de discutir, le suministra un somnífero para dormirla para siempre.</desc>
     <credits>
@@ -1572,7 +1827,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210903114605 +0200" stop="20210903133000 +0200" channel="Somos">
+  <programme start="20210903115104 +0200" stop="20210903132957 +0200" channel="Somos">
     <title lang="es">Amor a todo gas</title>
     <desc lang="es">Peret es un taxista madrileño y aficionado al cante que conoce a Laura Montes, una cantante que ha estado fuera de España durante varios años. La artista quiere esconder su verdadera identidad y por eso se hace pasar por peluquera.</desc>
     <credits>
@@ -1596,7 +1851,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210903133000 +0200" stop="20210903133719 +0200" channel="Somos">
+  <programme start="20210903132957 +0200" stop="20210903134457 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Rafaela Aparicio</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Rafaela Aparicio.</desc>
     <credits>
@@ -1611,7 +1866,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210903133719 +0200" stop="20210903151220 +0200" channel="Somos">
+  <programme start="20210903134457 +0200" stop="20210903152203 +0200" channel="Somos">
     <title lang="es">El fascista, doña Pura y el follón de la escultura</title>
     <desc lang="es">El consorcio del pueblo donde transcurre la acción aprueba la propuesta de su alcalde, encargar a Ramón, un escultor arruinado, una estatua ecuestre de Franco.</desc>
     <credits>
@@ -1631,7 +1886,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210903151220 +0200" stop="20210903164000 +0200" channel="Somos">
+  <programme start="20210903152203 +0200" stop="20210903165143 +0200" channel="Somos">
     <title lang="es">Margarita se llama mi amor</title>
     <desc lang="es">Margarita es una joven universitaria de buena familia de la que están enamorados todos los compañeros de clase y por eso es conocida como "la novia de la universidad\.</desc>
     <credits>
@@ -1655,7 +1910,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210903164000 +0200" stop="20210903180403 +0200" channel="Somos">
+  <programme start="20210903165143 +0200" stop="20210903181749 +0200" channel="Somos">
     <title lang="es">Texas Kid</title>
     <desc lang="es">Luke Star es un pistolero que tiene a la comarca atemorizada. El periodista Roy Carlin pretende que Banta declare contra él, pero cuando Luke se entera de su plan los asesina y miente acerca de los hechos.</desc>
     <credits>
@@ -1680,7 +1935,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210903180403 +0200" stop="20210903193659 +0200" channel="Somos">
+  <programme start="20210903181749 +0200" stop="20210903195133 +0200" channel="Somos">
     <title lang="es">Como dos gotas de agua</title>
     <desc lang="es">Un organillero, Chapin, quiere llevar a un colegio de protección de menores a Pili, una huérfana de quince años que tiene a su cargo.</desc>
     <credits>
@@ -1706,7 +1961,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210903193659 +0200" stop="20210903213000 +0200" channel="Somos">
+  <programme start="20210903195133 +0200" stop="20210903213021 +0200" channel="Somos">
     <title lang="es">La querida</title>
     <desc lang="es">Una ambiciosa cantante hace todo lo posible para lograr la gloria y el éxito, aunque tenga que abandonar a su verdadero amor.</desc>
     <credits>
@@ -1729,7 +1984,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210903213000 +0200" stop="20210903225648 +0200" channel="Somos">
+  <programme start="20210903213021 +0200" stop="20210903230411 +0200" channel="Somos">
     <title lang="es">Lo verde empieza en los Pirineos</title>
     <desc lang="es">Tres amigos traspasan la frontera para poder echar una cana al aire y poder ver las películas prohibidas por la censura.</desc>
     <credits>
@@ -1753,7 +2008,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210903225648 +0200" stop="20210903231148 +0200" channel="Somos">
+  <programme start="20210903230411 +0200" stop="20210903231911 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: José Sacristán</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para José Sacristán.</desc>
     <credits>
@@ -1768,7 +2023,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210903231148 +0200" stop="20210904005424 +0200" channel="Somos">
+  <programme start="20210903231911 +0200" stop="20210904010346 +0200" channel="Somos">
     <title lang="es">Perder es cuestión de método</title>
     <desc lang="es">La policía descubre un cuerpo empalado cerca de un lago en Bogotá. Un periodista y una prostituta se adentrarán en el caso descubriendo una complicada trama de corrupción inmobiliaria.</desc>
     <credits>
@@ -1790,7 +2045,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210904005424 +0200" stop="20210904024050 +0200" channel="Somos">
+  <programme start="20210904010346 +0200" stop="20210904024155 +0200" channel="Somos">
     <title lang="es">Niño nadie</title>
     <desc lang="es">Evelio es un profesor auxiliar de provincias inconformista con la sociedad en la que vive. Un día conoce a Dámaso, un anciano en el que encuentra su particular guía espiritual y emprende un viaje con él hasta Madrid.</desc>
     <credits>
@@ -1815,7 +2070,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210904024050 +0200" stop="20210904064500 +0200" channel="Somos">
+  <programme start="20210904024155 +0200" stop="20210904070547 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -1825,7 +2080,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210904064500 +0200" stop="20210904082500 +0200" channel="Somos">
+  <programme start="20210904070547 +0200" stop="20210904084357 +0200" channel="Somos">
     <title lang="es">La trinca del aire</title>
     <desc lang="es">La bella Nati desencadena las tensiones en un grupo de tres amigos, aspirantes a paracaidistas. Uno de ellos, Alberto se enamorará de la mujer poniendo así en peligro la amistad que le une a sus compañeros.</desc>
     <credits>
@@ -1847,7 +2102,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210904082500 +0200" stop="20210904095500 +0200" channel="Somos">
+  <programme start="20210904084357 +0200" stop="20210904101110 +0200" channel="Somos">
     <title lang="es">Cuernos de mujer</title>
     <desc lang="es">Ana y Miguel están casados y su matrimonio está en crisis. Cuando ella descubre que su marido tiene una aventura, se plantea el divorcio, pero el escándalo empieza en su familia.</desc>
     <credits>
@@ -1874,7 +2129,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210904095500 +0200" stop="20210904112000 +0200" channel="Somos">
+  <programme start="20210904101110 +0200" stop="20210904113510 +0200" channel="Somos">
     <title lang="es">Así es Madrid</title>
     <desc lang="es">Antonio es un canalla que llega a una apacible comunidad de vecinos de Madrid donde intentará seducir a una tímida muchacha con la única intención de utilizarla para dar celos a su hermana Luisa, de la que está enamorado realmente.</desc>
     <credits>
@@ -1897,7 +2152,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210904112000 +0200" stop="20210904131500 +0200" channel="Somos">
+  <programme start="20210904113510 +0200" stop="20210904132916 +0200" channel="Somos">
     <title lang="es">¿Dónde vas Alfonso XII?</title>
     <desc lang="es">A pesar de la mala relación entre sus familias, Alfonso de Borbón y Maria de las Mercedes se enamoran y se casan cuando Alfonso se convierte en rey.</desc>
     <credits>
@@ -1918,7 +2173,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210904131500 +0200" stop="20210904145500 +0200" channel="Somos">
+  <programme start="20210904132916 +0200" stop="20210904151022 +0200" channel="Somos">
     <title lang="es">¿Dónde vas, triste de ti?</title>
     <desc lang="es">Recreación de los años posteriores a la muerte de la reina Mercedes, esposa de Alfonso XII. El monarca contrae matrimonio con María Cristina de Habsburgo-Lorena, sin embargo el rey no está enamorado.</desc>
     <credits>
@@ -1944,7 +2199,7 @@
       <value>1958</value>
     </rating>
   </programme>
-  <programme start="20210904145500 +0200" stop="20210904151000 +0200" channel="Somos">
+  <programme start="20210904151022 +0200" stop="20210904152522 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Antonio Garisa</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Antonio Garisa.</desc>
     <credits>
@@ -1959,7 +2214,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210904151000 +0200" stop="20210904164000 +0200" channel="Somos">
+  <programme start="20210904152522 +0200" stop="20210904165142 +0200" channel="Somos">
     <title lang="es">La caza</title>
     <desc lang="es">Tres viejos amigos, Paco, José y Luis, se reúnen para cazar conejos en un antiguo campo de batalla de la guerra civil donde combatieron juntos. Paco le pide dinero a José, que se niega, y la tensión crece hasta que pierden la razón.</desc>
     <credits>
@@ -1982,7 +2237,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210904164000 +0200" stop="20210904181500 +0200" channel="Somos">
+  <programme start="20210904165142 +0200" stop="20210904182103 +0200" channel="Somos">
     <title lang="es">El secreto del capitán O'Hara</title>
     <desc lang="es">Año 1800. Un escuadrón de Caballería del Ejército de la Unión al mando del capitán Richard O'Hara, va en misión de reconocimiento por el desierto de Arizona y recoge a una joven que ha sido atacada por los indios.</desc>
     <credits>
@@ -2008,7 +2263,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210904181500 +0200" stop="20210904194500 +0200" channel="Somos">
+  <programme start="20210904182103 +0200" stop="20210904194744 +0200" channel="Somos">
     <title lang="es">Aquí llega Condemor, el pecador de la pradera</title>
     <desc lang="es">Condemor es nombrado sheriff y cumple con el trabajo que se le va acumulando. Pero su objetivo es volver a su patria, Francia.</desc>
     <credits>
@@ -2035,7 +2290,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210904194500 +0200" stop="20210904213000 +0200" channel="Somos">
+  <programme start="20210904194744 +0200" stop="20210904213036 +0200" channel="Somos">
     <title lang="es">Otros días vendrán</title>
     <desc lang="es">Alicia es una profesora de instituto de cuarenta y pocos años que vive con su hija adolescente y lleva una existencia aparentemente normal y anodina bajo la que esconde un doloroso naufragio sentimental.</desc>
     <credits>
@@ -2057,7 +2312,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210904213000 +0200" stop="20210904230000 +0200" channel="Somos">
+  <programme start="20210904213036 +0200" stop="20210904230112 +0200" channel="Somos">
     <title lang="es">El robobo de la jojoya</title>
     <desc lang="es">Una joya de un valor incalculable es el objetivo de una pareja de hermanos que tiene un plan para hacerse con ella durante una exposición. Sin embargo, las cosas no salen como las habían planeado.</desc>
     <credits>
@@ -2083,7 +2338,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210904230000 +0200" stop="20210905003934 +0200" channel="Somos">
+  <programme start="20210904230112 +0200" stop="20210905004415 +0200" channel="Somos">
     <title lang="es">Los hombres siempre mienten</title>
     <desc lang="es">Gabino Diego encarna a un muchacho con aspiraciones de novelista. Sin embargo, sus resultados no son buenos y decide acudir en busca de su vecino, un escritor consagrado. Todo se complica por un manuscrito.</desc>
     <credits>
@@ -2109,7 +2364,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210905003934 +0200" stop="20210905010000 +0200" channel="Somos">
+  <programme start="20210905004415 +0200" stop="20210905005916 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Tony Leblanc</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Tony Leblanc.</desc>
     <credits>
@@ -2124,7 +2379,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210905010000 +0200" stop="20210905022448 +0200" channel="Somos">
+  <programme start="20210905005916 +0200" stop="20210905022448 +0200" channel="Somos">
     <title lang="es">Lola</title>
     <desc lang="es">Lola llega a Barcelona huyendo de su borracho y violento novio Mario y conoce a Robert, un rico y galante empresario francés que la encandila desde la primera noche. Años después, cuando ya están casados, Mario regresa para recuperar a Lola.</desc>
     <credits>
