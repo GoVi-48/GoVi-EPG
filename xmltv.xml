@@ -1328,23 +1328,8 @@
     </rating>
   </programme>
   <programme start="20210910002605 +0200" stop="20210910011545 +0200" channel="XTRM">
-    <title lang="es">Rocco , T2, Ep. 8</title>
+    <title lang="es">Rocco</title>
     <desc lang="es">Rocco ha localizado a Sebastiano al lado de la frontera italiana. No hay duda de que persigue a Enzo Baiocchi para matarlo y vengar la muerte de Adele.</desc>
-    <credits>
-      <director>Giulio Manfredonia</director>
-      <actor>Marco Giallini</actor>
-      <actor>Claudia Vismara</actor>
-      <actor>Ernesto D''Argenio</actor>
-      <actor>Francesco Acquaroli</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Policíaca</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/385692.jpg" />
-    <country lang="es">Italia</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20210910011545 +0200" stop="20210910024109 +0200" channel="XTRM">
     <title lang="es">Pandemic</title>
