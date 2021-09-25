@@ -1294,7 +1294,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210926225058 +0200" stop="20210927002512 +0200" channel="XTRM">
+  <programme start="20210926225058 +0200" stop="20210927002434 +0200" channel="XTRM">
     <title lang="es">Estambul: Unidad de Homicidios</title>
     <desc lang="es">La muerte de un periodista de investigación lleva a Mehmet Özakin a un pequeño pueblo minero en el Mar Negro, donde no todo es lo que parece, y la tradición y la modernidad chocan.</desc>
     <credits>
@@ -1317,35 +1317,151 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210927002512 +0200" stop="20210927021617 +0200" channel="XTRM">
+  <programme start="20210927002434 +0200" stop="20210927021539 +0200" channel="XTRM">
     <title lang="es">Sobibor: Campo De Exterminio</title>
     <desc lang="es">El 14 de octubre de 1943, más de 400 prisioneros dirigidos por el oficial judío soviético Alexánder Pecherski llevaron a cabo un alzamiento en el campo de exterminio de Sobibor.</desc>
+    <credits>
+      <director>Konstantin Khabenskiy</director>
+      <actor>Konstantin Khabenskiy</actor>
+      <actor>Christopher Lambert</actor>
+      <actor>Mariya Kozhevnikova</actor>
+      <actor>Michalina Olszanska</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Bélico</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3566178.jpg" />
+    <country lang="es">Rusia</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210927021617 +0200" stop="20210927034352 +0200" channel="XTRM">
+  <programme start="20210927021539 +0200" stop="20210927034244 +0200" channel="XTRM">
     <title lang="es">Águila negra</title>
     <desc lang="es">Uno de los aviones tácticos más modernos de la Fuerza Aérea de los EE.UU., un F-100 con un nuevo sistema de guía láser, se estrella en el mar cerca de Malta, una región donde las fuerzas soviéticas también están presentes.</desc>
+    <credits>
+      <director>Eric Karson</director>
+      <actor>Shô Kosugi</actor>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Doran Clark</actor>
+      <actor>Bruce French</actor>
+      <actor>Vladimir Skomarovsky</actor>
+      <actor>William Bassett</actor>
+      <writer>Shimon Arama</writer>
+      <writer>Michael Gonzales</writer>
+      <producer>Shimon Arama</producer>
+      <composer>Terry Plumeri</composer>
+    </credits>
+    <date>1988</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5089033.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>7</value>
+    </rating>
   </programme>
-  <programme start="20210927034352 +0200" stop="20210927051705 +0200" channel="XTRM">
+  <programme start="20210927034244 +0200" stop="20210927051527 +0200" channel="XTRM">
     <title lang="es">Venus &amp; Vegas</title>
     <desc lang="es">Tres amigos de Las Vegas intentan el golpe de su vida pero las cosas no salen según lo previsto y ahora se encuentran perseguidos por unos mafiosos.</desc>
+    <credits>
+      <director>Demian Lichtenstein</director>
+      <actor>Donald Faison</actor>
+      <actor>Eddie Kaye Thomas</actor>
+      <actor>Eddie Guerra</actor>
+      <actor>Abraham Benrubi</actor>
+      <actor>Roselyn Sanchez</actor>
+      <actor>Florence Henderson</actor>
+      <actor>Jon Polito</actor>
+      <actor>Paul Ben-Victor</actor>
+      <writer>Eddie Guerra</writer>
+      <producer>Demian Lichtenstein</producer>
+      <composer>Andrew Gross</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1723662.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210927051705 +0200" stop="20210927064913 +0200" channel="XTRM">
+  <programme start="20210927051527 +0200" stop="20210927063919 +0200" channel="XTRM">
     <title lang="es">Megatiburón contra crocosaurio</title>
     <desc lang="es">Un barco de la marina es atacado por un megatiburón. Al mismo tiempo, un cazador observa cómo un crocosaurio gigante trata de comérselo. Pero lo terrorífico llegará cuando estos dos se enfrenten.</desc>
+    <credits>
+      <director>Christopher Ray</director>
+      <actor>Gary Stretch</actor>
+      <actor>Jaleel White</actor>
+      <actor>Robert Picardo</actor>
+      <actor>Sarah Lieving</actor>
+      <actor>Gerald Webb</actor>
+      <actor>Hannah Cowley</actor>
+      <writer>Micho Rutare</writer>
+      <writer>Naomi L. Selfman</writer>
+      <producer>Paul Bales</producer>
+      <producer>Mary E. Brown</producer>
+      <composer>Chris Ridenhour</composer>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Terror</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6566.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>2009</value>
+    </rating>
   </programme>
-  <programme start="20210927064913 +0200" stop="20210927071300 +0200" channel="XTRM">
+  <programme start="20210927063919 +0200" stop="20210927070306 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">A las órdenes de Franco Foda, Austria ha sido uno de los equipos más regulares de Europa en las últimas temporadas, ascendiendo de la división C a la A en la UEFA Nations League.</desc>
+    <date>2021</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210927071300 +0200" stop="20210927073818 +0200" channel="XTRM">
+  <programme start="20210927070306 +0200" stop="20210927072829 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Finlandia se embarca en su primera Eurocopa, mientras que Escocia regresa tras un largo paréntesis. Harry Kane está listo para liderar desde el frente, y Xherdan Shaqiri va a por los goles.</desc>
+    <date>2021</date>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
+    <country lang="es">Reino Unido</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20210927073818 +0200" stop="20210927090743 +0200" channel="XTRM">
+  <programme start="20210927072829 +0200" stop="20210927085759 +0200" channel="XTRM">
     <title lang="es">Ataque a los Titanes</title>
     <desc lang="es">Tras vivir entre muros que la protegían de los Titanes, la humanidad debe enfrentarse de nuevo a ellos cuando un Titán colosal destruye la barrera.</desc>
+    <credits>
+      <director>Shinji Higuchi</director>
+      <actor>Haruma Miura</actor>
+      <actor>Kiko Mizuhara</actor>
+      <actor>Kanata Hongô</actor>
+      <actor>Satomi Ishihara</actor>
+      <actor>Nanami Sakuraba</actor>
+      <actor>Takahiro Miura</actor>
+      <actor>Hiroki Hasegawa</actor>
+      <actor>Ayame Misaki</actor>
+      <writer>Hajime Isayama</writer>
+      <writer>Yûsuke Watanabe</writer>
+      <producer>Yûji Ishida</producer>
+      <producer>Genki Kawamura</producer>
+      <composer>Shiro Sagisu</composer>
+      <composer>Shiro Washizu</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1291998.jpg" />
+    <country lang="es">Japón</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20210927090743 +0200" stop="20210927095125 +0200" channel="XTRM">
+  <programme start="20210927085759 +0200" stop="20210927094221 +0200" channel="XTRM">
     <title lang="es">19-2</title>
     <desc lang="es">Amélie le da una oportunidad a Ben, mientras Nick e Isabelle descubren algo impactante sobre Theo.</desc>
     <credits>
@@ -1374,15 +1490,63 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210927095125 +0200" stop="20210927103103 +0200" channel="XTRM">
+  <programme start="20210927094221 +0200" stop="20210927102158 +0200" channel="XTRM">
     <title lang="es">Sucesor designado</title>
     <desc lang="es">Al borde de un acuerdo de paz histórico, una bomba sucia introducida en el país amenaza con provocar una guerra. Wells se enfrenta a una desconcertante traición.</desc>
+    <credits>
+      <director>Joe Lazarov</director>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Adan Canto</actor>
+      <actor>Italia Ricci</actor>
+      <actor>Kal Penn</actor>
+      <actor>Maggie Q</actor>
+      <actor>LaMonica Garrett</actor>
+      <actor>Natascha McElhone</actor>
+      <actor>Paulo Constanzo</actor>
+      <writer>David Guggenheim</writer>
+      <producer>Suzan Bymel</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Sean Callery</composer>
+      <composer>Robert Lydecker</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2689222.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210927103103 +0200" stop="20210927111258 +0200" channel="XTRM">
+  <programme start="20210927102158 +0200" stop="20210927110505 +0200" channel="XTRM">
     <title lang="es">Sucesor designado</title>
     <desc lang="es">Tras la explosión de la bomba en el metro, el presidente Kirkman declara la guerra a Kunami. Cuando el emir de ese país envía a su embajador a negociar, Wells se entera de que el emir esconde algo.</desc>
+    <credits>
+      <director>Thomas Jeff T.</director>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Adan Canto</actor>
+      <actor>Italia Ricci</actor>
+      <actor>Kal Penn</actor>
+      <actor>Maggie Q</actor>
+      <actor>LaMonica Garrett</actor>
+      <actor>Natascha McElhone</actor>
+      <actor>Ricci Italia</actor>
+      <writer>David Guggenheim</writer>
+      <producer>Suzan Bymel</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Sean Callery</composer>
+      <composer>Robert Lydecker</composer>
+    </credits>
+    <date>2017</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2689222.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210927111258 +0200" stop="20210927125814 +0200" channel="XTRM">
+  <programme start="20210927110505 +0200" stop="20210927125152 +0200" channel="XTRM">
     <title lang="es">Atrapa a un ladrón</title>
     <desc lang="es">El detective Bennie Chan lleva 10 años tras la pista del mafioso Victor Wong. Cuando su ahijada se mete en líos, Bennie debe encontrar al causante.</desc>
     <credits>
@@ -1409,29 +1573,154 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210927125814 +0200" stop="20210927142534 +0200" channel="XTRM">
+  <programme start="20210927125152 +0200" stop="20210927141947 +0200" channel="XTRM">
     <title lang="es">Blood Out</title>
     <desc lang="es">Frustrado por la inacción de la policía y dispuesto a hacer justicia, Michael decide infiltrarse en la banda de su hermano para vengar su muerte.</desc>
+    <credits>
+      <director>Jason Hewitt</director>
+      <actor>Luke Goss</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Tamer Hassan</actor>
+      <actor>AnnaLynne McCord</actor>
+      <actor>Ed Quinn</actor>
+      <actor>Curtis '50 Cent' Jackson</actor>
+      <actor>Ryan Donowho</actor>
+      <actor>Stephanie Honoré</actor>
+      <writer>Jason Hewitt</writer>
+      <producer>Michael Arata</producer>
+      <producer>Jason Hewitt</producer>
+      <composer>Jermaine Stegall</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1054707.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210927142534 +0200" stop="20210927160605 +0200" channel="XTRM">
+  <programme start="20210927141947 +0200" stop="20210927160122 +0200" channel="XTRM">
     <title lang="es">Matar o morir</title>
     <desc lang="es">Un grupo de sanguinarios forajidos viaja por Texas en busca de un botín enterrado, pero son perseguidos por algo más peligroso que la ley.</desc>
+    <credits>
+      <director>Duane Graves</director>
+      <director>Justin Meeks</director>
+      <actor>Justin Meeks</actor>
+      <actor>Paul McCarthy-Boyington</actor>
+      <actor>Gregory Kelly</actor>
+      <actor>Deon Lucas</actor>
+      <actor>Larry Grant Harbin</actor>
+      <actor>Arianne Martin</actor>
+      <actor>Clive Owen</actor>
+      <actor>Paul Giamatti</actor>
+      <producer>Jack Meeks</producer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Western</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1723632.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210927160605 +0200" stop="20210927175123 +0200" channel="XTRM">
+  <programme start="20210927160122 +0200" stop="20210927174745 +0200" channel="XTRM">
     <title lang="es">Traidor</title>
     <desc lang="es">El agente de élite del FBI Roy Clayton encabeza la investigación para atajar una conspiración terrorista internacional. Todas las pistas apuntan al antiguo oficial de operaciones especiales del ejército Samir Horn.</desc>
+    <credits>
+      <director>Jeffrey Nachmanoff</director>
+      <actor>Don Cheadle</actor>
+      <actor>Guy Pearce</actor>
+      <actor>Archie Panjabi</actor>
+      <actor>Saïd Taghmaoui</actor>
+      <actor>Neal McDonough</actor>
+      <actor>Alyy Khan</actor>
+      <actor>Raad Rawi</actor>
+      <actor>Hassam Ghancy</actor>
+      <writer>Jeffrey Nachmanoff</writer>
+      <writer>Steve Martin</writer>
+      <producer>Don Cheadle</producer>
+      <producer>David Hoberman</producer>
+      <composer>Mark Kilian</composer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12546.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20210927175123 +0200" stop="20210927193314 +0200" channel="XTRM">
+  <programme start="20210927174745 +0200" stop="20210927193041 +0200" channel="XTRM">
     <title lang="es">Thai Dragón 2: El protector</title>
     <desc lang="es">Kham rechaza vender su elefante a Suchart, un comerciante de Khon que planea revendérselo a uno de los secuaces de un peligroso gánster. Así que cuando Suchart aparece muerto, todos creen que Kham es el culpable.</desc>
+    <credits>
+      <director>Prachya Pinkaew</director>
+      <actor>Tony Jaa</actor>
+      <actor>JeeJa Yanin</actor>
+      <actor>Dan Chupong</actor>
+      <actor>Petchtai Wongkamlao</actor>
+      <actor>Eddie Ruiz</actor>
+      <actor>Marrese Crump</actor>
+      <writer>Prachya Pinkaew</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/931392.jpg" />
+    <country lang="es">Tailandia</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20210927193314 +0200" stop="20210927210349 +0200" channel="XTRM">
+  <programme start="20210927193041 +0200" stop="20210927210341 +0200" channel="XTRM">
     <title lang="es">Red (Debieron decir la verdad...)</title>
     <desc lang="es">Después de que tres chicos maten a su perro, el veterano de la guerra de Corea Avery Ludlow, ayudado por una reportera local, intenta hacer justicia.</desc>
+    <credits>
+      <director>Trygve Allister Diesen</director>
+      <director>Lucky Mckee</director>
+      <actor>Brian Cox</actor>
+      <actor>Noel Fisher</actor>
+      <actor>Kyle Gallner</actor>
+      <actor>Shiloh Fernandez</actor>
+      <actor>Kim Dickens</actor>
+      <actor>Richard Riehle</actor>
+      <actor>Tom Sizemore</actor>
+      <actor>Robert Englund</actor>
+      <writer>Stephen Susco</writer>
+      <producer>Steve Blair</producer>
+      <producer>Trygve Allister Diesen</producer>
+    </credits>
+    <date>2008</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1241.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20210927210349 +0200" stop="20210927225000 +0200" channel="XTRM">
+  <programme start="20210927210341 +0200" stop="20210927225052 +0200" channel="XTRM">
     <title lang="es">Shangai Kid. Del Este al Oeste</title>
     <desc lang="es">1881. En la Ciudad Prohibida de la China imperial, la princesa Pei Pei es secuestrada por un hombre sin escrúpulos y llevada a América a un pueblo del lejano Oeste.</desc>
+    <credits>
+      <director>Tom Dey</director>
+      <actor>Jackie Chan</actor>
+      <actor>Brandon Merrill</actor>
+      <actor>Lucy Liu</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Roger Yuan</actor>
+      <actor>Xander Berkeley</actor>
+      <writer>Miles Millar</writer>
+      <writer>Alfred Gough</writer>
+      <producer>Gary Barber</producer>
+      <producer>Roger Birnbaum</producer>
+      <composer>Randy Edelman</composer>
+    </credits>
+    <date>2000</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/14127.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
   <programme start="20210925004536 +0200" stop="20210925023319 +0200" channel="Somos">
     <title lang="es">Los violadores del amanecer</title>
@@ -2063,7 +2352,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210927011001 +0200" stop="20210927025004 +0200" channel="Somos">
+  <programme start="20210927011001 +0200" stop="20210927024724 +0200" channel="Somos">
     <title lang="es">Yo hice a Roque III</title>
     <desc lang="es">Federico acoge en su casa a su amigo Roque, un vago que está pasando una mala racha y que encima se lleva fatal con la mujer y la suegra de su benefactor.</desc>
     <credits>
@@ -2084,7 +2373,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20210927025004 +0200" stop="20210927064500 +0200" channel="Somos">
+  <programme start="20210927024724 +0200" stop="20210927070410 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -2094,7 +2383,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210927064500 +0200" stop="20210927082500 +0200" channel="Somos">
+  <programme start="20210927070410 +0200" stop="20210927084133 +0200" channel="Somos">
     <title lang="es">Verano 70</title>
     <desc lang="es">Cuatro familias veranean en la ciudad turística de Benidorm. La trama nos trae las aventuras, o desventuras, que se suceden sin respiro en la preparación del viaje vacacional. Los maridos, sin éxito, intentarán ligar a escondidas.</desc>
     <credits>
@@ -2118,7 +2407,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210927082500 +0200" stop="20210927100000 +0200" channel="Somos">
+  <programme start="20210927084133 +0200" stop="20210927101207 +0200" channel="Somos">
     <title lang="es">El triangulito</title>
     <desc lang="es">Dos empleados de un gran almacén de muebles, Lázaro y Sabino, caen enamorados de Laura, una nueva empleada algo ingenua que acepta el amor de ambos.</desc>
     <credits>
@@ -2143,7 +2432,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210927100000 +0200" stop="20210927114000 +0200" channel="Somos">
+  <programme start="20210927101207 +0200" stop="20210927114935 +0200" channel="Somos">
     <title lang="es">Digan lo que digan</title>
     <desc lang="es">Rafael es un cantante famoso que trabaja en un crucero y aprovecha un viaje para ir a Buenos Aires a visitar a su hermano Miguel, que vive allí hace varios años.</desc>
     <credits>
@@ -2166,7 +2455,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210927114000 +0200" stop="20210927131000 +0200" channel="Somos">
+  <programme start="20210927114935 +0200" stop="20210927132041 +0200" channel="Somos">
     <title lang="es">El seductor</title>
     <desc lang="es">Cosme tiene quince años, vive con sus padres en un chalet nuevo adosado, tiene una hermana y una guapa amiga, Vanessa.</desc>
     <credits>
@@ -2184,7 +2473,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20210927131000 +0200" stop="20210927150000 +0200" channel="Somos">
+  <programme start="20210927132041 +0200" stop="20210927151304 +0200" channel="Somos">
     <title lang="es">Muertos de risa</title>
     <desc lang="es">Nino y Bruno son una pareja cómica que triunfa en la España de los años 70. Sin embargo, paradójicamente, su éxito esconde una relación personal mucho más compleja y conflictiva, una historia de envidias y paranoias obsesivas...</desc>
     <credits>
@@ -2208,7 +2497,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20210927150000 +0200" stop="20210927164000 +0200" channel="Somos">
+  <programme start="20210927151304 +0200" stop="20210927164811 +0200" channel="Somos">
     <title lang="es">El síndrome de Svensson</title>
     <desc lang="es">Comedia coral en forma de road movie que sigue la peregrinación autoestopista de Ángel Mari Svensson, un joven con un extraño mal que viaja a Xàtiva para curarse. En el camino se encuentra con los personajes más variopintos.</desc>
     <credits>
@@ -2233,7 +2522,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210927164000 +0200" stop="20210927182000 +0200" channel="Somos">
+  <programme start="20210927164811 +0200" stop="20210927182403 +0200" channel="Somos">
     <title lang="es">Los cinco de la venganza</title>
     <desc lang="es">Las nuevas ideas de fraternidad y libertad que Jim Latimore, un 'yanqui' veterano de la Guerra Civil, difunde entre los peones de Río Grande de la Frontera, provocan el resentimiento de los tres hermanos González.</desc>
     <credits>
@@ -2258,7 +2547,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210927182000 +0200" stop="20210927195000 +0200" channel="Somos">
+  <programme start="20210927182403 +0200" stop="20210927195019 +0200" channel="Somos">
     <title lang="es">Cuentos de las sábanas blancas</title>
     <desc lang="es">En el año 1571, Sacedón del Río es una villa muy importante, con su castillo, su aguacil y su mercadillo de los jueves en la Plaza Mayor. La vida transcurre apaciblemente con sus líos, sus amores y desamores.</desc>
     <credits>
@@ -2281,7 +2570,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20210927195000 +0200" stop="20210927213000 +0200" channel="Somos">
+  <programme start="20210927195019 +0200" stop="20210927213004 +0200" channel="Somos">
     <title lang="es">Pan, amor y Andalucía</title>
     <desc lang="es">La banda de música de Sorrento acude a un certamen internacional en Sevilla. Allí, el director de la banda conoce a Carmen, una exótica cantante y bailarina que va a traerlo de cabeza.</desc>
     <credits>
@@ -2308,7 +2597,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20210927213000 +0200" stop="20210927230126 +0200" channel="Somos">
+  <programme start="20210927213004 +0200" stop="20210927231016 +0200" channel="Somos">
     <title lang="es">Señora doctor</title>
     <desc lang="es">Elvira, una joven recién licenciada, acepta la plaza de médico en un pequeño pueblo de mentalidad machista que no ve con buenos ojos su llegada.</desc>
     <credits>
@@ -2334,7 +2623,7 @@
       <value>Lina Morgan</value>
     </rating>
   </programme>
-  <programme start="20210927230126 +0200" stop="20210927232000 +0200" channel="Somos">
+  <programme start="20210927231016 +0200" stop="20210927232516 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros: Lina Morgan</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Lina Morgan.</desc>
     <credits>
