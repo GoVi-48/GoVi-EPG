@@ -870,7 +870,7 @@
       <value>Lambert Wilson</value>
     </rating>
   </programme>
-  <programme start="20211026225059 +0200" stop="20211027005746 +0200" channel="XTRM">
+  <programme start="20211026225059 +0200" stop="20211027005716 +0200" channel="XTRM">
     <title lang="es">El duodécimo hombre</title>
     <desc lang="es">En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
     <credits>
@@ -896,7 +896,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211027005746 +0200" stop="20211027022755 +0200" channel="XTRM">
+  <programme start="20211027005716 +0200" stop="20211027022625 +0200" channel="XTRM">
     <title lang="es">Estambul: Unidad de Homicidios</title>
     <desc lang="es">Un traslado de prisioneros a Tailandia sale terriblemente mal para los detectives Mehmet Özakin y Mustafa Tombul cuando ambos son secuestrados por una familia criminal de la zona.</desc>
     <credits>
@@ -905,6 +905,10 @@
       <actor>Mustafa Tombul</actor>
       <actor>Idil Üner</actor>
       <actor>Erden Alkan</actor>
+      <actor>Erol Sander</actor>
+      <actor>Oscar Ortega Sánchez</actor>
+      <actor>Nadeshda Brennicke</actor>
+      <actor>Melanie Winiger</actor>
     </credits>
     <date>2019</date>
     <category lang="es">Policíaca</category>
@@ -915,7 +919,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211027022755 +0200" stop="20211027031537 +0200" channel="XTRM">
+  <programme start="20211027022625 +0200" stop="20211027031407 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Seis meses después del atentado contra Ignatiev, Igor se desestabiliza, pero encuentra la fuerza y regresa al departamento. Su primer caso con Vika y Averyanov es la búsqueda de un criminal virtual.</desc>
     <credits>
@@ -942,7 +946,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211027031537 +0200" stop="20211027042912 +0200" channel="XTRM">
+  <programme start="20211027031407 +0200" stop="20211027042622 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Valery, compañero de estudios y ex de Victoria, es el nuevo investigador del departamento. Igor y Valery van al hospital a entrevistar al dueño de una empresa de transporte privada.</desc>
     <credits>
@@ -969,7 +973,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211027042912 +0200" stop="20211027064033 +0200" channel="XTRM">
+  <programme start="20211027042622 +0200" stop="20211027063623 +0200" channel="XTRM">
     <title lang="es">The Immortal Wars: Resurgence</title>
     <desc lang="es">La guerra por la libertad acaba de empezar. Trikalypse une sus fuerzas con el líder rebelde y su equipo. Ahora deben luchar para derribar a Dominion y desenmascararlo ante el mundo.</desc>
     <credits>
@@ -991,7 +995,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211027064033 +0200" stop="20211027073111 +0200" channel="XTRM">
+  <programme start="20211027063623 +0200" stop="20211027072021 +0200" channel="XTRM">
     <title lang="es">Dystopia</title>
     <desc lang="es">En 2017, Nico y Thomas escapan del hospital e irrumpen en la casa de Robert, quien creó el programa de chips de identificación y le obligan a detenerlo.</desc>
     <credits>
@@ -1015,7 +1019,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211027073111 +0200" stop="20211027085246 +0200" channel="XTRM">
+  <programme start="20211027072021 +0200" stop="20211027084228 +0200" channel="XTRM">
     <title lang="es">Oceans Rising</title>
     <desc lang="es">Cuando las autoridades deciden no escuchar sus advertencias de que una inundación de dimensiones gigantescas se avecina, un científico decide construir un arca gigantesca.</desc>
     <credits>
@@ -1040,7 +1044,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211027085246 +0200" stop="20211027094029 +0200" channel="XTRM">
+  <programme start="20211027084228 +0200" stop="20211027093011 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
     <credits>
@@ -1068,7 +1072,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211027094029 +0200" stop="20211027103007 +0200" channel="XTRM">
+  <programme start="20211027093011 +0200" stop="20211027102021 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
     <credits>
@@ -1096,7 +1100,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211027103007 +0200" stop="20211027115650 +0200" channel="XTRM">
+  <programme start="20211027102021 +0200" stop="20211027114811 +0200" channel="XTRM">
     <title lang="es">Conspiración militar</title>
     <desc lang="es">El ejecutivo paramilitar David Wolfe trabaja para los servicios secretos americanos, y su próxima misión es la de matar a un peligroso terrorista en Oriente Medio.</desc>
     <credits>
@@ -1117,7 +1121,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211027115650 +0200" stop="20211027132343 +0200" channel="XTRM">
+  <programme start="20211027114811 +0200" stop="20211027131635 +0200" channel="XTRM">
     <title lang="es">Rescate en Damasco</title>
     <desc lang="es">Años después de escapar de Siria en extrañas circunstancias, Adib Abdel Kareem debe regresar a su país para buscar a su hija, la periodista Muna que ha desaparecido en Damasco durante los disturbios.</desc>
     <credits>
@@ -1143,7 +1147,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211027132343 +0200" stop="20211027144730 +0200" channel="XTRM">
+  <programme start="20211027131635 +0200" stop="20211027144133 +0200" channel="XTRM">
     <title lang="es">Huracán</title>
     <desc lang="es">Cuando un experimento energético queda fuera de control, una serie de huracanes empiezan a atravesar Norteamérica. Un profesor tendrá que salvar a su familia antes de que los huracanes se unan y borren los EE.UU. del mapa.</desc>
     <credits>
@@ -1168,7 +1172,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211027144730 +0200" stop="20211027162135 +0200" channel="XTRM">
+  <programme start="20211027144133 +0200" stop="20211027161610 +0200" channel="XTRM">
     <title lang="es">Decisión extrema</title>
     <desc lang="es">La historia sigue a la ex asesora de seguridad de los EE. UU., Elizabeth 'Libby' Lamm quien se enfrenta a las implicaciones éticas de las decisiones tomadas en el pasado bajo el mandato de Rachel Burk.</desc>
     <credits>
@@ -1183,7 +1187,7 @@
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/3688593.jpg" />
     <country lang="es">EE.UU.</country>
   </programme>
-  <programme start="20211027162135 +0200" stop="20211027174503 +0200" channel="XTRM">
+  <programme start="20211027161610 +0200" stop="20211027174040 +0200" channel="XTRM">
     <title lang="es">La culpa</title>
     <desc lang="es">Asger Holm, policía suspendido, trabaja en el servicio de emergencias. Una noche recibe la llamada de una mujer que parece delirar. Cuando está a punto de colgar, descubre que ha sido secuestrada.</desc>
     <credits>
@@ -1201,7 +1205,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211027174503 +0200" stop="20211027192202 +0200" channel="XTRM">
+  <programme start="20211027174040 +0200" stop="20211027191811 +0200" channel="XTRM">
     <title lang="es">El último guerrero</title>
     <desc lang="es">Lutobor, uno de los últimos descendientes de la tribu de los escitas en las antiguas regiones de Europa del Este, se ve envuelto en el caos de los conflictos y enfrentamientos entre las distintas tribus que controlan la zona.</desc>
     <credits>
@@ -1226,7 +1230,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211027192202 +0200" stop="20211027205311 +0200" channel="XTRM">
+  <programme start="20211027191811 +0200" stop="20211027205141 +0200" channel="XTRM">
     <title lang="es">Dinero sangriento</title>
     <desc lang="es">Un hombre deja su vida de mafioso en busca de un nuevo comienzo pero tendrá que volver a sus viejas costumbres para proteger a su familia.</desc>
     <credits>
@@ -1246,7 +1250,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211027205311 +0200" stop="20211027225000 +0200" channel="XTRM">
+  <programme start="20211027205141 +0200" stop="20211027225010 +0200" channel="XTRM">
     <title lang="es">Teniente corrupto</title>
     <desc lang="es">Terence McDonagh, un teniente de la policía muy poco ejemplar, adicto al juego y a las drogas, investiga el asesinato de cinco inmigrantes senegaleses en Nueva Orleans.</desc>
     <credits>
@@ -1272,7 +1276,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211027225000 +0200" stop="20211028004836 +0200" channel="XTRM">
+  <programme start="20211027225010 +0200" stop="20211028005012 +0200" channel="XTRM">
     <title lang="es">Conexión Estambul</title>
     <desc lang="es">Nick Tschiller, un duro policía de Hamburgo, viaja a través de Turquía y Rusia para recuperar a su hija de manos de un agente secreto turco que está preparando un atentado en Moscú.</desc>
     <credits>
@@ -1298,7 +1302,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028004836 +0200" stop="20211028020419 +0200" channel="XTRM">
+  <programme start="20211028005012 +0200" stop="20211028020657 +0200" channel="XTRM">
     <title lang="es">Whiteblood</title>
     <desc lang="es">Rico emigró ilegalmente con su madre para escapar del peligroso mundo de las drogas, pero cuando su madre contrae cáncer, debe volver a sumergirse en ese mundo para pagar su tratamiento.</desc>
     <credits>
@@ -1316,7 +1320,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028020419 +0200" stop="20211028025235 +0200" channel="XTRM">
+  <programme start="20211028020657 +0200" stop="20211028025512 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Una mujer es atacada en el parque y un niño secuestrado. La víctima es una niñera. La madre del bebé acusa a su ex esposo de un delito: siempre quiso sacar a su hijo del país.</desc>
     <credits>
@@ -1343,7 +1347,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028025235 +0200" stop="20211028034022 +0200" channel="XTRM">
+  <programme start="20211028025512 +0200" stop="20211028034410 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">No muy lejos de una comunidad establecida en una aldea abandonada cuyos habitantes no usan electrodomésticos, cultivan sus alimentos y cosen su ropa, se descubre el cadáver de una mujer.</desc>
     <credits>
@@ -1370,7 +1374,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028034022 +0200" stop="20211028050309 +0200" channel="XTRM">
+  <programme start="20211028034410 +0200" stop="20211028051001 +0200" channel="XTRM">
     <title lang="es">Eclipse total</title>
     <desc lang="es">El científico de la Nasa, John Brighton y su ayudante Ben Freeman llegan a Camp Vanguard para advertir al presidente de los EE.UU y a su personal que un grupo de meteoritos está en trayectoria de colisión.</desc>
     <credits>
@@ -1397,7 +1401,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211028050309 +0200" stop="20211028052652 +0200" channel="XTRM">
+  <programme start="20211028051001 +0200" stop="20211028053344 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">España quiere dejar atrás el caos, Eden Hazard está listo para llevar a Bélgica a la gloria, y Gareth Bale ya tiene ordenadas sus prioridades para llevar a Gales a la Eurocopa.</desc>
     <date>2020</date>
@@ -1409,7 +1413,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211028052652 +0200" stop="20211028055210 +0200" channel="XTRM">
+  <programme start="20211028053344 +0200" stop="20211028060213 +0200" channel="XTRM">
     <title lang="es">Contenders Eurocopa</title>
     <desc lang="es">Inglaterra busca consolidar su brillante campaña en el Mundial 2018, Francia sigue confiando en el genial N'Golo Kanté y el español Sergio Ramos persigue la gloria.</desc>
     <credits>
@@ -1424,7 +1428,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211028055210 +0200" stop="20211028065638 +0200" channel="XTRM">
+  <programme start="20211028060213 +0200" stop="20211028064959 +0200" channel="XTRM">
     <title lang="es">Dystopia</title>
     <desc lang="es">Nico y Thomas siguen estancados en 2017. Hablan con un científico y escritor, un experto en el campo de los viajes en el tiempo, y tratan de descubrir cómo regresar.</desc>
     <credits>
@@ -1448,7 +1452,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028065638 +0200" stop="20211028081732 +0200" channel="XTRM">
+  <programme start="20211028064959 +0200" stop="20211028081124 +0200" channel="XTRM">
     <title lang="es">Tormenta de lava</title>
     <desc lang="es">Lori y John Wilson trabajan en el centro de evacuación de emergencia de un parque natural y cuando empiezan unas tormentas de lava, deberán luchar para evitar esa gran catástrofe natural y salvar a su familia y a toda la humanidad.</desc>
     <credits>
@@ -1470,7 +1474,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20211028081732 +0200" stop="20211028090353 +0200" channel="XTRM">
+  <programme start="20211028081124 +0200" stop="20211028085746 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
     <credits>
@@ -1498,7 +1502,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028090353 +0200" stop="20211028095254 +0200" channel="XTRM">
+  <programme start="20211028085746 +0200" stop="20211028094718 +0200" channel="XTRM">
     <title lang="es">Igor</title>
     <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
     <credits>
@@ -1526,7 +1530,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028095254 +0200" stop="20211028112157 +0200" channel="XTRM">
+  <programme start="20211028094718 +0200" stop="20211028111727 +0200" channel="XTRM">
     <title lang="es">Estambul: Unidad de Homicidios</title>
     <desc lang="es">Un traslado de prisioneros a Tailandia sale terriblemente mal para los detectives Mehmet Özakin y Mustafa Tombul cuando ambos son secuestrados por una familia criminal de la zona.</desc>
     <credits>
@@ -1535,6 +1539,10 @@
       <actor>Mustafa Tombul</actor>
       <actor>Idil Üner</actor>
       <actor>Erden Alkan</actor>
+      <actor>Erol Sander</actor>
+      <actor>Oscar Ortega Sánchez</actor>
+      <actor>Nadeshda Brennicke</actor>
+      <actor>Melanie Winiger</actor>
     </credits>
     <date>2019</date>
     <category lang="es">Policíaca</category>
@@ -1545,7 +1553,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211028112157 +0200" stop="20211028130020 +0200" channel="XTRM">
+  <programme start="20211028111727 +0200" stop="20211028125622 +0200" channel="XTRM">
     <title lang="es">24 horas al límite</title>
     <desc lang="es">La exitosa carrera de Michel Vaillant en el mundo del automovilismo a nivel internacional no será nada fácil cuando, durante las 24 horas de Le Mans, sus enemigos se proponen acabar con su trayectoria.</desc>
     <credits>
@@ -1571,7 +1579,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211028130020 +0200" stop="20211028142147 +0200" channel="XTRM">
+  <programme start="20211028125622 +0200" stop="20211028141819 +0200" channel="XTRM">
     <title lang="es">Falsa identidad</title>
     <desc lang="es">Un padre divorciado deberá descubrir si su hijo, un niño rebelde que suele contar mentiras, dice la verdad sobre su nuevo padrastro al que acusa de haber cometido un asesinato.</desc>
     <credits>
@@ -1598,7 +1606,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028142147 +0200" stop="20211028154932 +0200" channel="XTRM">
+  <programme start="20211028141819 +0200" stop="20211028154635 +0200" channel="XTRM">
     <title lang="es">Doble identidad</title>
     <desc lang="es">Un doctor americano que trabaja en Chechenia ve cómo su vida emprende un peligroso giro cuando ayuda a una misteriosa mujer a escapar de su agresor.</desc>
     <credits>
@@ -1626,7 +1634,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211028154932 +0200" stop="20211028171302 +0200" channel="XTRM">
+  <programme start="20211028154635 +0200" stop="20211028171040 +0200" channel="XTRM">
     <title lang="es">Sharknado 5: Aletamiento global</title>
     <desc lang="es">Fin Shepard y su mujer biónica tienen una nueva misión: rescatar a su hijo que ha quedado atrapado en un 'viajenado' y es transportado por todo el mundo.</desc>
     <credits>
@@ -1654,7 +1662,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211028171302 +0200" stop="20211028184627 +0200" channel="XTRM">
+  <programme start="20211028171040 +0200" stop="20211028184508 +0200" channel="XTRM">
     <title lang="es">Born to Race</title>
     <desc lang="es">Danny Krueger, un piloto de carreras ilegales sufre un accidente. Se traslada al pueblo de su padre donde decide entrar a la Drags NHRA High School.</desc>
     <credits>
@@ -1681,7 +1689,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211028184627 +0200" stop="20211028201022 +0200" channel="XTRM">
+  <programme start="20211028184508 +0200" stop="20211028200952 +0200" channel="XTRM">
     <title lang="es">Una bala en la recámara</title>
     <desc lang="es">Ray Carver es un asesino a sueldo que trabaja a la vez para dos bandas rivales de la mafia rusa. Todo le funciona hasta que un día falla en el intento de asesinar a uno de los jefes.</desc>
     <credits>
@@ -1705,7 +1713,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211028201022 +0200" stop="20211028215022 +0200" channel="XTRM">
+  <programme start="20211028200952 +0200" stop="20211028214803 +0200" channel="XTRM">
     <title lang="es">Reservoir Dogs</title>
     <desc lang="es">Una banda organizada es contratada para atracar una empresa y llevarse unos diamantes. Sin embargo, antes de que suene la alarma, la policía ya está allí.</desc>
     <credits>
@@ -1729,7 +1737,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211028215022 +0200" stop="20211028225000 +0200" channel="XTRM">
+  <programme start="20211028214803 +0200" stop="20211028224832 +0200" channel="XTRM">
     <title lang="es">Narcos</title>
     <desc lang="es">Un incidente en Nueva York deja totalmente expuesto a Chepe. Peña hará un viaje a Curaçao para tratar de arrestar al que podría ser un testigo potencial en el caso. Jorge se verá en peligro.</desc>
     <credits>
@@ -1852,11 +1860,33 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211027004401 +0200" stop="20211027022150 +0200" channel="Somos">
+  <programme start="20211027004401 +0200" stop="20211027022722 +0200" channel="Somos">
     <title lang="es">Las juergas del señorito</title>
     <desc lang="es">Once historias con once mujeres diferentes y un solo conquistador.</desc>
+    <credits>
+      <director>Alfonso Balcázar</director>
+      <director>Balcázar Alfonso</director>
+      <actor>Arturo Fernández</actor>
+      <actor>Teresa Gimpera</actor>
+      <actor>Rafael Alonso</actor>
+      <actor>Diana Lorys</actor>
+      <actor>Fernando Sancho</actor>
+      <actor>Mónica Randall</actor>
+      <actor>Gustavo Re</actor>
+      <actor>Alicia Tomás</actor>
+      <writer>Alfonso Balcázar</writer>
+      <writer>Armando Matías Guiu</writer>
+      <composer>José Espeita</composer>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3853213.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20211027022150 +0200" stop="20211027071710 +0200" channel="Somos">
+  <programme start="20211027022722 +0200" stop="20211027070503 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -1866,51 +1896,268 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211027071710 +0200" stop="20211027090029 +0200" channel="Somos">
+  <programme start="20211027070503 +0200" stop="20211027084824 +0200" channel="Somos">
     <title lang="es">Oscuros sueños de agosto</title>
     <desc lang="es">Madre e hija se reúnen después de muchos años para que la pequeña ayude a su madre a curar una enfermedad mental. La ingresará en un hospital y la persona a quien conoce allí, le cambiará la vida a la hija.</desc>
+    <credits>
+      <director>Miguel Picazo</director>
+      <actor>Viveca Lindfors</actor>
+      <actor>Sonia Bruno</actor>
+      <actor>Francisco Rabal</actor>
+      <actor>Julián Mateos</actor>
+      <actor>José María Prada</actor>
+      <actor>Cándida Losada</actor>
+      <actor>Viveca Lindford</actor>
+      <actor>Julian Mateos</actor>
+      <writer>Manuel López Yubero</writer>
+      <writer>Víctor Erice</writer>
+      <producer>Marciano de la Fuente</producer>
+      <composer>Antonio Pérez Olea</composer>
+    </credits>
+    <date>1967</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/10646.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20211027090029 +0200" stop="20211027102606 +0200" channel="Somos">
+  <programme start="20211027084824 +0200" stop="20211027101440 +0200" channel="Somos">
     <title lang="es">El pescador de coplas</title>
     <desc lang="es">En las marismas de San Fernando un joven marinero da al aire la gracia de su cante cuando, al caer la tarde, las barcas vuelven de la pesca.</desc>
+    <credits>
+      <director>Antonio del Amo</director>
+      <actor>Marujita Díaz</actor>
+      <actor>Manuel Monroy</actor>
+      <actor>Tony Leblanc</actor>
+      <actor>Antonio Molina</actor>
+      <actor>Manuel Arbó</actor>
+      <actor>Francisco Bernal</actor>
+      <actor>Marujita DÃ­az</actor>
+      <writer>Ramón Perelló</writer>
+    </credits>
+    <date>1953</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2706755.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20211027102606 +0200" stop="20211027115129 +0200" channel="Somos">
+  <programme start="20211027101440 +0200" stop="20211027114110 +0200" channel="Somos">
     <title lang="es">Una monja y un don Juan</title>
     <desc lang="es">Sor Cecilia intenta mejorar la economía de su convento vendiendo un antiguo códice en una librería, pero un falso fraile intenta engañarla y ella recurre a un primo suyo, policía, para detener a una banda de estafadores.</desc>
+    <credits>
+      <director>Mariano Ozores</director>
+      <actor>Lina Morgan</actor>
+      <actor>Tina Sáinz</actor>
+      <actor>Tomás Zori</actor>
+      <actor>José Sazatornil</actor>
+      <actor>Luisa Sala</actor>
+      <actor>Pedro Valentín</actor>
+      <actor>Emilio Laguna</actor>
+      <actor>Pilar Gómez Ferrer</actor>
+      <writer>Mariano Ozores</writer>
+      <producer>José Antonio Cascales</producer>
+      <composer>Antón García Abril</composer>
+    </credits>
+    <date>1973</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/8012.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20211027115129 +0200" stop="20211027132245 +0200" channel="Somos">
+  <programme start="20211027114110 +0200" stop="20211027131328 +0200" channel="Somos">
     <title lang="es">La mujer con botas rojas</title>
     <desc lang="es">Perrot colecciona arte pero la simple visión de un cuadro le provoca convulsiones. Cuando una noche conoce a una joven con botas rojas, se siente fascinado por ella.</desc>
+    <credits>
+      <director>Juan Luis Buñuel</director>
+      <director>Luis Buñuel</director>
+      <actor>Catherine Deneuve</actor>
+      <actor>Fernando Rey</actor>
+      <actor>Adalberto Maria Merli</actor>
+      <actor>Jacques Weber</actor>
+      <actor>José Sacristán</actor>
+      <actor>Emma Cohen</actor>
+      <writer>Pierre-Jean Maintigneux</writer>
+      <writer>Jean-Claude Carrière</writer>
+    </credits>
+    <date>1974</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1004028.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
   </programme>
-  <programme start="20211027132245 +0200" stop="20211027144936 +0200" channel="Somos">
+  <programme start="20211027131328 +0200" stop="20211027144126 +0200" channel="Somos">
     <title lang="es">Vacaciones para Ivette</title>
     <desc lang="es">A través de una divertida comedia, Pedro Masó y Vicente Coello, los autores del guión, muestran el contraste entre la España del desarrollo franquista y la Francia democrática y liberal.</desc>
+    <credits>
+      <director>José María Forqué</director>
+      <actor>Catherine Diamant</actor>
+      <actor>José Luis López Vázquez</actor>
+      <actor>Luchy Soto</actor>
+      <actor>Carlos Piñar</actor>
+      <actor>Marie Déa</actor>
+      <actor>Jacques Marin</actor>
+      <writer>Vicente Coello</writer>
+      <writer>Pedro Masó</writer>
+      <producer>Pedro Masó</producer>
+    </credits>
+    <date>1964</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4667.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20211027144936 +0200" stop="20211027163548 +0200" channel="Somos">
+  <programme start="20211027144126 +0200" stop="20211027162916 +0200" channel="Somos">
     <title lang="es">Samba</title>
     <desc lang="es">Un viejo millonario trastornado mata a su amor platónico, una hermosa cantante de cuyo cadáver se encargan unos contrabandistas que, para ocultar su muerte, convencen a la joven Belén, muy parecida, para que se haga pasar por ella.</desc>
+    <credits>
+      <director>Rafael Gil</director>
+      <actor>Sara Montiel</actor>
+      <actor>Marc Michel</actor>
+      <actor>Fosco Giachetti</actor>
+      <actor>José Prada</actor>
+      <actor>Zeni Pereira</actor>
+      <actor>Leonardo Villar</actor>
+      <actor>José María Prada</actor>
+      <actor>Leonardo Vilar</actor>
+      <writer>Rafael Gil</writer>
+      <writer>Jesús María de Arozamena</writer>
+      <producer>Cesáreo González</producer>
+      <composer>Gregorio García Segura</composer>
+    </credits>
+    <date>1965</date>
+    <category lang="es">Musical</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/14864.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20211027163548 +0200" stop="20211027165049 +0200" channel="Somos">
+  <programme start="20211027162916 +0200" stop="20211027164417 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Rafael Alonso.</desc>
+    <credits>
+      <director>Verdet Ramón</director>
+      <actor>Alonso Rafael</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Documental</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6838247.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20211027165049 +0200" stop="20211027182036 +0200" channel="Somos">
+  <programme start="20211027164417 +0200" stop="20211027181543 +0200" channel="Somos">
     <title lang="es">Oeste Nevada Joe</title>
     <desc lang="es">Joe Dexter, pistolero apodado Nevada Joe, se enfrenta a los dueños del oro de un pueblo minero llamado Golden Hill. John Randolph ostenta el monopolio frente a Julia Brooks, dueña de las minas más importantes de la región.</desc>
+    <credits>
+      <director>Ignacio F. Iquino</director>
+      <actor>George Martin</actor>
+      <actor>Katia Loritz</actor>
+      <actor>John McDouglas</actor>
+      <actor>Adriana Ambesi</actor>
+      <actor>Giuseppe Addobbati</actor>
+      <actor>Ángel Lombarte</actor>
+      <actor>Miguel de la Riva</actor>
+      <actor>Fernando Rubio</actor>
+      <writer>Miguel María Astrain Bada</writer>
+      <writer>Alberto Colucci</writer>
+      <composer>Enrique Escobar</composer>
+    </credits>
+    <date>1964</date>
+    <category lang="es">Western</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/373240.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
   </programme>
-  <programme start="20211027182036 +0200" stop="20211027201129 +0200" channel="Somos">
+  <programme start="20211027181543 +0200" stop="20211027200939 +0200" channel="Somos">
     <title lang="es">Asignatura pendiente</title>
     <desc lang="es">José y Elena formaban una bonita pareja. Años más tarde, se reencuentran y se enamoran, pero ambos están casados.</desc>
+    <credits>
+      <director>José Luis Garci</director>
+      <actor>José Sacristán</actor>
+      <actor>María Casanova</actor>
+      <actor>Simón Andreu</actor>
+      <actor>Fiorella Faltoyano</actor>
+      <actor>Héctor Alterio</actor>
+      <actor>Antonio Gamero</actor>
+      <actor>Silvia Tortosa</actor>
+      <actor>Covadonga Cadenas</actor>
+      <writer>José Luis Garci</writer>
+      <producer>José Luis Tafur</producer>
+      <composer>Enrique Molero</composer>
+    </credits>
+    <date>1977</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/340404.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>sobre todo de ciencia ficción</value>
+    </rating>
   </programme>
-  <programme start="20211027201129 +0200" stop="20211027213000 +0200" channel="Somos">
+  <programme start="20211027200939 +0200" stop="20211027213010 +0200" channel="Somos">
     <title lang="es">Una chica para dos</title>
     <desc lang="es">Una joven mexicana viaja a España con la intención de continuar sus estudios y visitar el pueblo de origen de su madre: Ronda. Debido a una confusión conoce a Manolo, de quien no tardará en enamorarse.</desc>
+    <credits>
+      <director>León Klimovsky</director>
+      <actor>Ramón Arcusa</actor>
+      <actor>Irán Eory</actor>
+      <actor>Manuel de la Calva</actor>
+      <actor>José Miguel Ariza</actor>
+      <actor>Ana María Alba</actor>
+      <actor>Patricia Vera</actor>
+      <writer>Fernando Lagos</writer>
+      <producer>Cesáreo González</producer>
+      <composer>Juan Carlos Calderón</composer>
+    </credits>
+    <date>1968</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4760.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
   </programme>
-  <programme start="20211027213000 +0200" stop="20211027225414 +0200" channel="Somos">
+  <programme start="20211027213010 +0200" stop="20211027225646 +0200" channel="Somos">
     <title lang="es">Requiebro</title>
     <desc lang="es">Paloma Reyes, una cantaora andaluza, debuta en Argentina dedicando su espectáculo a una vieja actriz del lugar, Isabel Mendoza.</desc>
+    <credits>
+      <director>Carlos Schlieper</director>
+      <director>Schlieper Carlos</director>
+      <actor>Carmen Sevilla</actor>
+      <actor>Ángel Magaña</actor>
+      <actor>Ricardo Castro Ríos</actor>
+      <actor>Luis Dávila</actor>
+      <actor>Amalia Sánchez Ariño</actor>
+      <actor>Manuel Perales</actor>
+      <actor>Irma Roy</actor>
+      <actor>Ariño Carmen Sevilla</actor>
+      <writer>Antonio Quintero</writer>
+      <writer>Manuel Tamayo</writer>
+      <producer>José Huberman</producer>
+      <composer>Ramon Zarzoso</composer>
+    </credits>
+    <date>1955</date>
+    <category lang="es">Musical</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2510805.jpg" />
+    <country lang="es">Argentina</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
   </programme>
-  <programme start="20211027225414 +0200" stop="20211027230914 +0200" channel="Somos">
+  <programme start="20211027225646 +0200" stop="20211027231211 +0200" channel="Somos">
     <title lang="es">Cómicos Nuestros</title>
     <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Lina Morgan.</desc>
     <credits>
@@ -1926,7 +2173,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211027230914 +0200" stop="20211028003534 +0200" channel="Somos">
+  <programme start="20211027231211 +0200" stop="20211028004106 +0200" channel="Somos">
     <title lang="es">Cuernos de mujer</title>
     <desc lang="es">Ana y Miguel están casados y su matrimonio está en crisis. Cuando ella descubre que su marido tiene una aventura, se plantea el divorcio, pero el escándalo empieza en su familia.</desc>
     <credits>
@@ -1953,7 +2200,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211028003534 +0200" stop="20211028023431 +0200" channel="Somos">
+  <programme start="20211028004106 +0200" stop="20211028024003 +0200" channel="Somos">
     <title lang="es">Pareja enloquecida busca madre de alquiler</title>
     <desc lang="es">Manolo y Lola son un matrimonio bien avenido con salud, dinero y amor pero les falta un hijo y deciden buscar una madre de alquiler.</desc>
     <credits>
@@ -1978,7 +2225,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211028023431 +0200" stop="20211028070021 +0200" channel="Somos">
+  <programme start="20211028024003 +0200" stop="20211028070021 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
