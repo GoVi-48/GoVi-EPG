@@ -1334,7 +1334,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211031020006 +0200" stop="20211031032527 +0100" channel="XTRM">
+  <programme start="20211031020006 +0200" stop="20211031022527 +0200" channel="XTRM">
     <title lang="es">Message Man</title>
     <desc lang="es">Cuando su pasado lo alcanza, un asesino a sueldo retirado tiene que dejar atrás la tranquila vida que se había construido para volver a matar.</desc>
     <credits>
@@ -1358,7 +1358,7 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211031032527 +0100" stop="20211031051129 +0100" channel="XTRM">
+  <programme start="20211031022527 +0200" stop="20211031041129 +0100" channel="XTRM">
     <title lang="es">Speed asesino</title>
     <desc lang="es">"Vivir rápido, morir joven" es el lema de un grupo de jóvenes que venden speed. La D.E.A. no consigue dar con ellos.</desc>
     <credits>
@@ -1382,7 +1382,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211031051129 +0100" stop="20211031071835 +0100" channel="XTRM">
+  <programme start="20211031041129 +0100" stop="20211031061835 +0100" channel="XTRM">
     <title lang="es">El duodécimo hombre</title>
     <desc lang="es">En 1943, en la Noruega ocupada por Alemania, un grupo de saboteadores es traicionado y apresado por las tropas nazis. De los 12 integrantes del comando, sólo uno consigue sobrevivir.</desc>
     <credits>
@@ -1408,7 +1408,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211031071835 +0100" stop="20211031072707 +0100" channel="XTRM">
+  <programme start="20211031061835 +0100" stop="20211031070230 +0100" channel="XTRM">
     <title lang="es">Dystopia</title>
     <desc lang="es">Un peligroso virus amenaza a la humanidad en el año 2037. Thomas y Nicholai, dos brillantes científicos construyen una máquina del tiempo para viajar al pasado donde tratarán de evitar por todos los medios su propagación.</desc>
     <credits>
@@ -1430,6 +1430,10 @@
     <rating system="ES">
       <value>16</value>
     </rating>
+  </programme>
+  <programme start="20211031070230 +0100" stop="20211031072707 +0100" channel="XTRM">
+    <title lang="es">Contenders Eurocopa</title>
+    <desc lang="es">Una cantera de talentos puede ayudar a Francia a revalidar su gloria en el Mundial, Trent Alexander-Arnold está listo para brillar con Inglaterra, y Polonia deposita sus esperanzas en Lewandowski.</desc>
   </programme>
   <programme start="20211031072707 +0100" stop="20211031084745 +0100" channel="XTRM">
     <title lang="es">Distorted</title>
@@ -2270,7 +2274,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211030231800 +0200" stop="20211031014423 +0200" channel="Somos">
+  <programme start="20211030231800 +0200" stop="20211031004423 +0200" channel="Somos">
     <title lang="es">Cuentos de las sábanas blancas</title>
     <desc lang="es">En el año 1571, Sacedón del Río es una villa muy importante, con su castillo, su aguacil y su mercadillo de los jueves en la Plaza Mayor. La vida transcurre apaciblemente con sus líos, sus amores y desamores.</desc>
     <credits>
@@ -2293,7 +2297,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211031014423 +0200" stop="20211031022839 +0200" channel="Somos">
+  <programme start="20211031004423 +0200" stop="20211031032839 +0200" channel="Somos">
     <title lang="es">El recomendado</title>
     <desc lang="es">Pablo Munilla es un infeliz que sólo quiere conseguir un empleo. Así que acepta ejercer de investigador en una agencia especial de detectives. Su primera misión será vigilar a una coqueta dama cuyo marido sospecha que le es infiel.</desc>
     <credits>
@@ -2317,7 +2321,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211031022839 +0200" stop="20211031070639 +0200" channel="Somos">
+  <programme start="20211031032839 +0200" stop="20211031080639 +0200" channel="Somos">
     <title lang="es">Cierre de emisión</title>
     <desc lang="es">Cierre de emisión.</desc>
     <category lang="es">Otros</category>
@@ -2327,7 +2331,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211031070639 +0200" stop="20211031085055 +0200" channel="Somos">
+  <programme start="20211031080639 +0200" stop="20211031095055 +0200" channel="Somos">
     <title lang="es">Mis relaciones con Ana</title>
     <desc lang="es">Abandonada por su marido que le confiesa estar enamorado de otra mujer, Ana intenta reorganizar su vida con otro hombre pero sin llegar al matrimonio.</desc>
     <credits>
@@ -2349,7 +2353,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211031085055 +0200" stop="20211031104048 +0200" channel="Somos">
+  <programme start="20211031095055 +0200" stop="20211031114048 +0200" channel="Somos">
     <title lang="es">Eso</title>
     <desc lang="es">Domingo, un joven de dieciocho años, que presume de su experiencia con las mujeres, en realidad vive obsesionado con el hecho de que aún no ha perdido la virginidad. Para conseguirlo se inventa una nueva identidad.</desc>
     <credits>
@@ -2374,7 +2378,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211031104048 +0200" stop="20211031121303 +0200" channel="Somos">
+  <programme start="20211031114048 +0200" stop="20211031131303 +0200" channel="Somos">
     <title lang="es">La descarriada</title>
     <desc lang="es">Nati es una joven que para sacar adelante a sus hermanos trabaja en un club nocturno. Tras conseguir un cliente y pasar la noche con él, decide dejar la vida de descarriada y buscar un trabajo decente.</desc>
     <credits>
@@ -2397,7 +2401,7 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20211031121303 +0200" stop="20211031134057 +0200" channel="Somos">
+  <programme start="20211031131303 +0200" stop="20211031144057 +0200" channel="Somos">
     <title lang="es">Tres suecas para tres Rodríguez</title>
     <desc lang="es">Adela se va de viaje para descanser por recomendación de su médico, dejando sólo en Madrid a su marido Paco. Por suerte no estará solo de Rodríguez, otros dos compañeros de oficina están en su misma situación.</desc>
     <credits>
@@ -2421,7 +2425,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211031134057 +0200" stop="20211031152245 +0200" channel="Somos">
+  <programme start="20211031144057 +0200" stop="20211031162245 +0200" channel="Somos">
     <title lang="es">La chica del trébol</title>
     <desc lang="es">Rocío es una bella joven que trabaja repartiendo a domicilio los vestidos de una casa de modas de Madrid. Un día, se le presenta la oportunidad de sustituir a una modelo, lo que supondrá el comienzo de una exitosa carrera.</desc>
     <credits>
@@ -2444,7 +2448,7 @@
       <value>TP</value>
     </rating>
   </programme>
-  <programme start="20211031152245 +0200" stop="20211031170008 +0200" channel="Somos">
+  <programme start="20211031162245 +0200" stop="20211031180008 +0200" channel="Somos">
     <title lang="es">Frontera sur</title>
     <desc lang="es">Buenos Aires, 1880. Relato de la amistad de dos emigrantes, el español Roque Díaz Ouro, viudo y padre de un niño que viaja con él, Ramón, y Hermann Frisch, un músico alemán que toca el bandoneón al que conocen en el viaje a Argentina.</desc>
     <credits>
@@ -2467,7 +2471,7 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211031170008 +0200" stop="20211031182308 +0200" channel="Somos">
+  <programme start="20211031180008 +0200" stop="20211031192308 +0200" channel="Somos">
     <title lang="es">El Puro se sienta, espera y dispara</title>
     <desc lang="es">La recompensa por encontrar al conocido Joe Bishop, El Puro, es de 10.000 dólares. Un grupo de bandidos inicia la búsqueda sin saber que el mejor pistolero de todos los tiempos pretende olvidar el pasado.</desc>
     <credits>
@@ -2491,7 +2495,7 @@
       <value>Rosalba Neri</value>
     </rating>
   </programme>
-  <programme start="20211031182308 +0200" stop="20211031195720 +0200" channel="Somos">
+  <programme start="20211031192308 +0200" stop="20211031205720 +0200" channel="Somos">
     <title lang="es">El jardín de las delicias</title>
     <desc lang="es">Después de sufrir un aparatoso accidente de circulación, el empresario Antonio Cano es víctima de una parálisis física y padece amnesia.</desc>
     <credits>
@@ -2517,7 +2521,7 @@
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211031195720 +0200" stop="20211031213011 +0200" channel="Somos">
+  <programme start="20211031205720 +0200" stop="20211031223011 +0200" channel="Somos">
     <title lang="es">El sistema Pelegrín</title>
     <desc lang="es">Héctor Pelegrín, un fracasado agente de seguros, logra que le admitan en el Colegio Ferrán como profesor de educación física.</desc>
     <credits>
@@ -2533,32 +2537,6 @@
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20211031213011 +0200" stop="20211031232214 +0200" channel="Somos">
-    <title lang="es">La familia, bien, gracias</title>
-    <desc lang="es">En esta nueva entrega de la saga iniciada con "La gran familia" los dieciséis hijos de Carlos vuelven a reunirse en casa para rendir homenaje a su padre con motivo de su jubilación.</desc>
-    <credits>
-      <director>Pedro Masó</director>
-      <actor>Alberto Closas</actor>
-      <actor>José Luis López Vázquez</actor>
-      <actor>María José Alfonso</actor>
-      <actor>Jaime Blanch</actor>
-      <actor>Mª José Alfonso</actor>
-      <actor>Francisco Benlloch</actor>
-      <actor>Margot Cottens</actor>
-      <actor>Lola Forner</actor>
-      <writer>Rafael Azcona</writer>
-      <writer>Pedro Masó</writer>
-      <producer>Pedro Masó</producer>
-      <composer>Juan Carlos Calderón</composer>
-    </credits>
-    <date>1979</date>
-    <category lang="es">Drama</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4371148.jpg" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>12</value>
     </rating>
   </programme>
 </tv>
