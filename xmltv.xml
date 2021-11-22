@@ -278,417 +278,6 @@
     <display-name lang="es">Eurosport 2</display-name>
     <url>http://www.orange.es.EK</url>
   </channel>
-  <programme start="20211122003246 +0100" stop="20211122021158 +0100" channel="XTRM">
-    <title lang="es">Dragon Blade</title>
-    <desc lang="es">Un decurión de una Legión romana y un antiguo oficial chino condenado a muerte unen fuerzas para combatir a un enemigo aún mayor que amenaza al mundo.</desc>
-    <credits>
-      <director>Daniel Lee</director>
-      <actor>Jackie Chan</actor>
-      <actor>John Cusack</actor>
-      <actor>Adrien Brody</actor>
-      <actor>Choi Si-won</actor>
-      <actor>Wang Taili</actor>
-      <actor>Xiao Yang</actor>
-      <actor>Yang Xiao</actor>
-      <actor>Taili Wang</actor>
-      <writer>Daniel Lee</writer>
-      <producer>Jackie Chan</producer>
-      <producer>Susanna Tsang</producer>
-      <composer>Henry Lai</composer>
-    </credits>
-    <date>2015</date>
-    <category lang="es">Acción</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1031688.jpg" />
-    <country lang="es">China</country>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211122021158 +0100" stop="20211122040258 +0100" channel="XTRM">
-    <title lang="es">Traidor</title>
-    <desc lang="es">El agente de élite del FBI Roy Clayton encabeza la investigación para atajar una conspiración terrorista internacional. Todas las pistas apuntan al antiguo oficial de operaciones especiales del ejército Samir Horn.</desc>
-    <credits>
-      <director>Jeffrey Nachmanoff</director>
-      <actor>Don Cheadle</actor>
-      <actor>Guy Pearce</actor>
-      <actor>Archie Panjabi</actor>
-      <actor>Saïd Taghmaoui</actor>
-      <actor>Neal McDonough</actor>
-      <actor>Alyy Khan</actor>
-      <actor>Raad Rawi</actor>
-      <actor>Hassam Ghancy</actor>
-      <writer>Jeffrey Nachmanoff</writer>
-      <writer>Steve Martin</writer>
-      <producer>Don Cheadle</producer>
-      <producer>David Hoberman</producer>
-      <composer>Mark Kilian</composer>
-    </credits>
-    <date>2008</date>
-    <category lang="es">Thriller</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12546.jpg" />
-    <country lang="es">EE.UU.</country>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211122040258 +0100" stop="20211122055815 +0100" channel="XTRM">
-    <title lang="es">Apocalipsis zombie: El fin del mundo</title>
-    <desc lang="es">Tras un mortífero brote viral, un escuadrón de soldados de élite debe infiltrarse en una zona de cuarentena para rescatar a un científico que posee la única cura para salvar a la humanidad.</desc>
-    <credits>
-      <director>Keong Cheung Chee</director>
-      <director>Chee Keong Cheung</director>
-      <actor>Leigh Waters Katarina</actor>
-      <actor>Mark Strange</actor>
-      <actor>Carlos Gallardo</actor>
-      <actor>Oris Erhuero</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Terror</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/8472093.jpg" />
-    <country lang="es">Reino Unido</country>
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20211122055815 +0100" stop="20211122072542 +0100" channel="XTRM">
-    <title lang="es">Huracán</title>
-    <desc lang="es">Cuando un experimento energético queda fuera de control, una serie de huracanes empiezan a atravesar Norteamérica. Un profesor tendrá que salvar a su familia antes de que los huracanes se unan y borren los EE.UU. del mapa.</desc>
-    <credits>
-      <director>Daniel Lusko</director>
-      <director>Daniel T. Lisko</director>
-      <actor>Casper Van Dien</actor>
-      <actor>Bryan Head</actor>
-      <actor>Michael Beach</actor>
-      <actor>Sarah Lieving</actor>
-      <actor>Keith Meriweather</actor>
-      <actor>Chad Brummett</actor>
-      <actor>Brian Head</actor>
-      <writer>Hank Woon Jr.</writer>
-      <producer>David Michael Latt</producer>
-      <composer>Chris Ridenhour</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Ciencia ficción</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/339811.jpg" />
-    <country lang="es">EE.UU.</country>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211122072542 +0100" stop="20211122075204 +0100" channel="XTRM">
-    <title lang="es">Contenders Eurocopa</title>
-    <desc lang="es">Con Robert Lewandowski en su equipo, Polonia es una fuerza a tener en cuenta. Thiago Alcántara tiene la clase necesaria para controlar los partidos de España.</desc>
-    <date>2021</date>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/6171021.jpg" />
-    <country lang="es">Reino Unido</country>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20211122075204 +0100" stop="20211122084223 +0100" channel="XTRM">
-    <title lang="es">Igor</title>
-    <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
-    <credits>
-      <director>Igor Tverdokhlebov</director>
-      <actor>Pavel Priluchnyy</actor>
-      <actor>Lyubov Aksyonova</actor>
-      <actor>Karina Razumovskaya</actor>
-      <actor>Denis Shvedov</actor>
-      <actor>Dmitry Shevchenko</actor>
-      <actor>Alexander Oblasov</actor>
-      <actor>Anna Tsukanova-Kott</actor>
-      <actor>Igor Chernevich</actor>
-      <writer>Yuri Burnosov</writer>
-      <writer>Tatyana Gluschenko</writer>
-      <producer>Ivan Samokhvalov</producer>
-      <composer>Pavel Esenin</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Thriller</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2680536.jpg" />
-    <country lang="es">Rusia</country>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211122084223 +0100" stop="20211122093045 +0100" channel="XTRM">
-    <title lang="es">Igor</title>
-    <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
-    <credits>
-      <director>Igor Tverdokhlebov</director>
-      <actor>Pavel Priluchnyy</actor>
-      <actor>Lyubov Aksyonova</actor>
-      <actor>Karina Razumovskaya</actor>
-      <actor>Denis Shvedov</actor>
-      <actor>Dmitry Shevchenko</actor>
-      <actor>Alexander Oblasov</actor>
-      <actor>Anna Tsukanova-Kott</actor>
-      <actor>Igor Chernevich</actor>
-      <writer>Yuri Burnosov</writer>
-      <writer>Tatyana Gluschenko</writer>
-      <producer>Ivan Samokhvalov</producer>
-      <composer>Pavel Esenin</composer>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Thriller</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2680536.jpg" />
-    <country lang="es">Rusia</country>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211122093045 +0100" stop="20211122101612 +0100" channel="XTRM">
-    <title lang="es">Rocco</title>
-    <desc lang="es">El cadáver de Ester Baudo, una mujer que apareció colgada de la lámpara de araña de la cocina de su casa, preocupa mucho al subcomisario Rocco Schiavone y a su equipo.</desc>
-    <credits>
-      <director>Michele Soavi</director>
-      <actor>Marco Giallini</actor>
-      <actor>Ernesto D'Argenio</actor>
-      <actor>Francesco Acquaroli</actor>
-      <actor>Isabella Ragonese</actor>
-      <actor>Christian Ginepro</actor>
-      <actor>Massimiliano Caprara</actor>
-      <actor>Filippo Dini</actor>
-      <actor>Ernesto D''Argenio</actor>
-      <writer>Maurizio Careddu</writer>
-      <writer>Antonio Manzini</writer>
-      <producer>Marco Mastrogiacomo</producer>
-      <composer>Corrado Carosio</composer>
-      <composer>Pierangelo Fornaro</composer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policíaca</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5088080.jpg" />
-    <country lang="es">Italia</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211122101612 +0100" stop="20211122110857 +0100" channel="XTRM">
-    <title lang="es">Rocco</title>
-    <desc lang="es">Rocco recibe nueva información del forense. Ester tenía muchas fracturas, víctima de maltratos. Rocco interroga a una amiga suya, Adalgisa, una librera a la que Ester estaba muy unida.</desc>
-    <credits>
-      <director>Michele Soavi</director>
-      <actor>Marco Giallini</actor>
-      <actor>Ernesto D'Argenio</actor>
-      <actor>Francesco Acquaroli</actor>
-      <actor>Isabella Ragonese</actor>
-      <actor>Christian Ginepro</actor>
-      <actor>Massimiliano Caprara</actor>
-      <actor>Filippo Dini</actor>
-      <actor>Ernesto D''Argenio</actor>
-      <writer>Maurizio Careddu</writer>
-      <writer>Antonio Manzini</writer>
-      <producer>Marco Mastrogiacomo</producer>
-      <composer>Corrado Carosio</composer>
-      <composer>Pierangelo Fornaro</composer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Policíaca</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5088080.jpg" />
-    <country lang="es">Italia</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211122110857 +0100" stop="20211122115204 +0100" channel="XTRM">
-    <title lang="es">Sucesor designado</title>
-    <desc lang="es">Las políticas de partido dificultan la aprobación de la ley sobre armas de fuego de Kirkman y Wells investiga a un turbio contratista militar en Dakota del Norte.</desc>
-    <credits>
-      <director>Listo Mike</director>
-      <actor>Kiefer Sutherland</actor>
-      <actor>Adan Canto</actor>
-      <actor>Italia Ricci</actor>
-      <actor>Kal Penn</actor>
-      <actor>Maggie Q</actor>
-      <actor>LaMonica Garrett</actor>
-      <actor>Natascha McElhone</actor>
-      <writer>David Guggenheim</writer>
-      <producer>Suzan Bymel</producer>
-      <producer>Mark Gordon</producer>
-      <composer>Sean Callery</composer>
-      <composer>Robert Lydecker</composer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Thriller</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2360144.jpg" />
-    <country lang="es">EE.UU.</country>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211122115204 +0100" stop="20211122131507 +0100" channel="XTRM">
-    <title lang="es">Más allá de la ley</title>
-    <desc lang="es">Un hombre busca justicia en una ciudad corrupta. Armado, peligroso, y sin nada que perder, debe enfrentarse a la despiadada mafia local para vengar la muerte de su hijo.</desc>
-    <credits>
-      <director>James Cullen Bressack</director>
-      <director>Cullen Bressack James</director>
-      <actor>Johnny Messner</actor>
-      <actor>Steven Seagal</actor>
-      <actor>DMX</actor>
-      <actor>Bill Cobbs</actor>
-      <actor>Zack Ward</actor>
-      <actor>Randy Charach</actor>
-      <writer>Johnny Martin Walters</writer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Acción</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3541080.jpg" />
-    <country lang="es">EE.UU.</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211122131507 +0100" stop="20211122150804 +0100" channel="XTRM">
-    <title lang="es">Sobibor: Campo De Exterminio</title>
-    <desc lang="es">El 14 de octubre de 1943, más de 400 prisioneros dirigidos por el oficial judío soviético Alexánder Pecherski llevaron a cabo un alzamiento en el campo de exterminio de Sobibor.</desc>
-    <credits>
-      <director>Konstantin Khabenskiy</director>
-      <actor>Konstantin Khabenskiy</actor>
-      <actor>Christopher Lambert</actor>
-      <actor>Mariya Kozhevnikova</actor>
-      <actor>Michalina Olszanska</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="es">Bélico</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3566178.jpg" />
-    <country lang="es">Rusia</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211122150804 +0100" stop="20211122163614 +0100" channel="XTRM">
-    <title lang="es">Ninja 2: La sombra de la muerte</title>
-    <desc lang="es">Casey Bowen, maestro de artes marciales, busca venganza y quiere acabar con el responsable del asesinato de su mujer embarazada. Contará con la ayuda de su amigo Nakabara.</desc>
-    <credits>
-      <director>Isaac Florentine</director>
-      <actor>Scott Adkins</actor>
-      <actor>Kane Kosugi</actor>
-      <actor>Vithaya Pansringarm</actor>
-      <actor>Tim Man</actor>
-      <actor>Ron Smoorenburg</actor>
-      <actor>Charlie Ruedpokanon</actor>
-      <writer>David N. White</writer>
-      <writer>Boaz Davidson</writer>
-      <producer>Boaz Davidson</producer>
-      <producer>Frank DeMartini</producer>
-      <composer>Logan Mader</composer>
-      <composer>Gerard K. Marino</composer>
-    </credits>
-    <date>2013</date>
-    <category lang="es">Acción</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1051097.jpg" />
-    <country lang="es">EE.UU.</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211122163614 +0100" stop="20211122181519 +0100" channel="XTRM">
-    <title lang="es">Fuera de control</title>
-    <desc lang="es">Documental que ofrece las últimas novedades en materia de seguridad vial, elementos que pueden salvarnos la vida cuando alguien pierde el control.</desc>
-    <date>2007</date>
-    <category lang="es">Ciencia y tecnología</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/10003.jpg" />
-    <country lang="es">EE.UU.</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20211122181519 +0100" stop="20211122194120 +0100" channel="XTRM">
-    <title lang="es">A ciegas</title>
-    <desc lang="es">Comienza con el descubrimiento de un cadáver. Un solitario policía (Jacques Gamblin) sospecha rápidamente de un hombre ciego (Lambert Wilson), cuya minusvalía le resulta una ventaja.</desc>
-    <credits>
-      <director>Xavier Palud</director>
-      <actor>Jacques Gamblin</actor>
-      <actor>Lambert Wilson</actor>
-      <actor>Raphaëlle Agogué</actor>
-      <actor>Arnaud Cosson</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="es">Thriller</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4003543.jpg" />
-    <country lang="es">Francia</country>
-    <rating system="ES">
-      <value>Lambert Wilson</value>
-    </rating>
-  </programme>
-  <programme start="20211122194120 +0100" stop="20211122213041 +0100" channel="XTRM">
-    <title lang="es">Speed asesino</title>
-    <desc lang="es">"Vivir rápido, morir joven" es el lema de un grupo de jóvenes que venden speed. La D.E.A. no consigue dar con ellos.</desc>
-    <credits>
-      <director>Kim Bass</director>
-      <actor>Andrew Keegan</actor>
-      <actor>Brandon Quinn</actor>
-      <actor>Natalia Cigliuti</actor>
-      <actor>Nick Carter</actor>
-      <actor>Reno Wilson</actor>
-      <actor>Greg Grunberg</actor>
-      <writer>Kim Bass</writer>
-      <producer>Kim Bass</producer>
-      <producer>Kevin Alexander Heard</producer>
-      <composer>Sean Murray</composer>
-    </credits>
-    <date>2010</date>
-    <category lang="es">Acción</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/14318.jpg" />
-    <country lang="es">EE.UU.</country>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211122213041 +0100" stop="20211122225039 +0100" channel="XTRM">
-    <title lang="es">Whiteblood</title>
-    <desc lang="es">Rico emigró ilegalmente con su madre para escapar del peligroso mundo de las drogas, pero cuando su madre contrae cáncer, debe volver a sumergirse en ese mundo para pagar su tratamiento.</desc>
-    <credits>
-      <director>Ben Butler</director>
-      <actor>J. R. Villarreal</actor>
-      <actor>Tim Abell</actor>
-      <actor>Jearnest Corchado</actor>
-      <actor>Ruben Rabasa</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="es">Acción</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/9399659.jpg" />
-    <country lang="es">EE.UU.</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211122225039 +0100" stop="20211123004352 +0100" channel="XTRM">
-    <title lang="es">1942: La Gran Ofensiva</title>
-    <desc lang="es">El ejército ruso despliega su artillería en la ciudad de Rzhev, para romper con el asedio Nazi. El coraje de los soldados rusos hacen que lo que parecía una batalla perdida se alargue durante meses.</desc>
-    <credits>
-      <director>Igor Kopylov</director>
-      <actor>Sergey Zharkov</actor>
-      <actor>Ivan Batarev</actor>
-      <actor>Oleg Gayanov</actor>
-      <actor>Arseniy Semyonov</actor>
-      <actor>Aleksandr Bukharov</actor>
-      <actor>Igor Grabuzov</actor>
-      <actor>Grigori Nekrasov</actor>
-      <actor>Aleksandr Aravushkin</actor>
-      <writer>Igor Kopylov</writer>
-      <writer>Vyacheslav Kondratev</writer>
-      <producer>Sergei Shcheglov</producer>
-      <producer>Inessa Yurchenko</producer>
-      <composer>Maksim Koshevarov</composer>
-      <composer>Aleksandr Maev</composer>
-    </credits>
-    <date>2019</date>
-    <category lang="es">Bélico</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/10395025.jpg" />
-    <country lang="es">Rusia</country>
-    <rating system="ES">
-      <value>16</value>
-    </rating>
-  </programme>
   <programme start="20211123004352 +0100" stop="20211123021216 +0100" channel="XTRM">
     <title lang="es">El hombre del presidente 2 (AKA Justicia infinita)</title>
     <desc lang="es">Un agente especializado en las misiones más arriesgadas que es enviado por el presidente de los Estados Unidos a localizar a un terrorista del que sospechan que va a detonar una bomba nuclear.</desc>
@@ -1253,318 +842,445 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211122002637 +0100" stop="20211122020201 +0100" channel="Somos">
-    <title lang="es">La boutique</title>
-    <desc lang="es">El matrimonio de Carmen y Ricardo pasa por una crisis y la madre de ella le dice a él que su hija está muy enferma para que le preste más atención. Él le monta una boutique, pero las cosas se tuercen y termina planeando un asesinato.</desc>
+  <programme start="20211124225045 +0100" stop="20211125005323 +0100" channel="XTRM">
+    <title lang="es">Bad Investigate</title>
+    <desc lang="es">Romeu, un policía corrupto, contrata a los servicios de Cid y Alex para atrapar a un narcotraficante que se dirige a Galicia desde México para encontrar al asesino de su hermano.</desc>
     <credits>
-      <director>Luis García Berlanga</director>
-      <actor>Sonia Bruno</actor>
-      <actor>Rodolfo Bebán</actor>
-      <actor>Ana María Campoy</actor>
-      <actor>Osvaldo Miranda</actor>
-      <actor>Marilina Ross</actor>
-      <actor>Juan Carlos Altavista</actor>
-      <actor>Rodolfo Beban</actor>
-      <actor>Ana Maria Campoy</actor>
-      <writer>Rafael Azcona</writer>
-      <writer>Luis García Berlanga</writer>
-      <producer>Cesáreo González</producer>
-      <producer>Atilio Mentasti</producer>
-      <composer>Astor Piazzolla</composer>
+      <director>Luis Ismael</director>
+      <actor>Francisco Menezes</actor>
+      <actor>Luis Ismael</actor>
+      <actor>Enrique Arce</actor>
+      <actor>Eric Da Silva</actor>
     </credits>
-    <date>1967</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2769656.jpg" />
-    <country lang="es">España</country>
+    <date>2018</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4523071.jpg" />
+    <country lang="es">Portugal</country>
     <rating system="ES">
-      <value>18</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20211122020201 +0100" stop="20211122070441 +0100" channel="Somos">
-    <title lang="es">Cierre de emisión</title>
-    <desc lang="es">Cierre de emisión.</desc>
-    <category lang="es">Otros</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1366073.jpg" />
-    <country lang="es">España</country>
+  <programme start="20211125005323 +0100" stop="20211125022641 +0100" channel="XTRM">
+    <title lang="es">Soldado de fortuna</title>
+    <desc lang="es">Alain Lefevre ve truncados todos sus planes y se ve obligado a huir y formar parte de una violenta Legión. Cuando su ex jefe descubre su paradero, Alain se da cuenta de que tiene que enfrentarse a él.</desc>
+    <credits>
+      <director>Peter MacDonald</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Adewale Akinnuoye-Agbaje</actor>
+      <actor>Steven Berkoff</actor>
+      <actor>Nicholas Farrell</actor>
+      <actor>Jim Carter</actor>
+      <actor>Ana Sofrenovic</actor>
+      <actor>Daniel Caltagirone</actor>
+      <actor>Joseph Long</actor>
+      <writer>Sheldon Lettich</writer>
+      <writer>Rebecca Morrison</writer>
+      <producer>Peter MacDonald</producer>
+      <producer>Jean-Claude Van Damme</producer>
+      <composer>John Altman</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2495205.jpg" />
+    <country lang="es">EE.UU.</country>
     <rating system="ES">
-      <value>TP</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20211122070441 +0100" stop="20211122084005 +0100" channel="Somos">
-    <title lang="es">Asalto al Banco Central</title>
-    <desc lang="es">Adaptación cinematográfica del asalto al Banco Central de Barcelona, que tuvo lugar el 23 de mayo de 1981, y en el que se vieron involucrados un locutor de TV, el director de un importante periódico y un diputado.</desc>
+  <programme start="20211125022641 +0100" stop="20211125034640 +0100" channel="XTRM">
+    <title lang="es">Collider</title>
+    <desc lang="es">En el año 2033, una joven atrapada en un misterioso orfanato viaja temerariamente en el tiempo para encontrar a sus padres y corregir su pasado.</desc>
     <credits>
-      <director>Santiago Lapeira</director>
-      <actor>José Sacristán</actor>
-      <actor>Isabel Mestres</actor>
-      <actor>Alfred Lucchetti</actor>
-      <actor>Arnau Vilardebó</actor>
-      <actor>Víctor Israel</actor>
-      <actor>Joan Borràs</actor>
-      <writer>Santiago Lapeira</writer>
-      <writer>Alberto Speratti</writer>
+      <director>Justin Lewis</director>
+      <actor>Christine Mascolo</actor>
+      <actor>Jude Moran</actor>
+      <actor>Michael Vasicek</actor>
+      <actor>Conner Greenhalgh</actor>
     </credits>
-    <date>1983</date>
+    <date>2018</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/11071271.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125034640 +0100" stop="20211125051801 +0100" channel="XTRM">
+    <title lang="es">Killer Team</title>
+    <desc lang="es">Un mercenario es enviado a rescatar a un líder rebelde con la ayuda de siete letales mujeres que viajan bajo el disfraz de modelos.</desc>
+    <credits>
+      <director>Niko Mastorakis</director>
+      <director>Peter Rader</director>
+      <actor>Brian Thompson</actor>
+      <actor>Oliver Reed</actor>
+      <actor>George Kennedy</actor>
+      <actor>José Ferrer</actor>
+    </credits>
+    <date>1990</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1845159.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125051801 +0100" stop="20211125064938 +0100" channel="XTRM">
+    <title lang="es">Tierra marciana</title>
+    <desc lang="es">En un futuro lejano, parte de los habitantes de La Tierra se han ido a vivir al planeta rojo, en ciudades custodiadas por una cúpula que permite hacerlas habitables para los humanos.</desc>
+    <credits>
+      <director>Scott Wheeler</director>
+      <actor>Lane Townsend</actor>
+      <actor>Jennifer Dorogi</actor>
+      <actor>Alan Pietruszewski</actor>
+      <actor>Arianna Afsar</actor>
+      <actor>Chloe Farnworth</actor>
+      <actor>Chaim Dunbar</actor>
+      <actor>PROD Colin Wilson</actor>
+      <writer>Jeremy M. Inman</writer>
+      <composer>Chris Cano</composer>
+    </credits>
+    <date>2015</date>
+    <category lang="es">Ciencia ficción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1071011.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125064938 +0100" stop="20211125073721 +0100" channel="XTRM">
+    <title lang="es">Igor</title>
+    <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
+    <credits>
+      <director>Igor Tverdokhlebov</director>
+      <director>Tverdokhlebov Igor</director>
+      <actor>Pavel Priluchnyy</actor>
+      <actor>Lyubov Aksyonova</actor>
+      <actor>Karina Razumovskaya</actor>
+      <actor>Denis Shvedov</actor>
+      <actor>Dmitry Shevchenko</actor>
+      <actor>Alexander Oblasov</actor>
+      <actor>Anna Tsukanova-Kott</actor>
+      <actor>Igor Chernevich</actor>
+      <writer>Yuri Burnosov</writer>
+      <writer>Tatyana Gluschenko</writer>
+      <producer>Ivan Samokhvalov</producer>
+      <composer>Pavel Esenin</composer>
+    </credits>
+    <date>2018</date>
     <category lang="es">Thriller</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/710830.jpg" />
-    <country lang="es">España</country>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2680536.jpg" />
+    <country lang="es">Rusia</country>
+    <episode-num system="onscreen">S3 E13</episode-num>
     <rating system="ES">
-      <value>TP</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20211122084005 +0100" stop="20211122100649 +0100" channel="Somos">
-    <title lang="es">El falso heredero</title>
-    <desc lang="es">Rene es un golfillo callejero que obtiene la oportunidad de cambiar su vida y regenerarse a través de un trato con un heredero rico, el cual le propone suplantarle ante su anciana tía.</desc>
+  <programme start="20211125073721 +0100" stop="20211125082700 +0100" channel="XTRM">
+    <title lang="es">Igor</title>
+    <desc lang="es">Nos acercamos al desenlace de esta serie en la que nuestro protagonista se enfrentará a nuevos retos, que seguro le cambiarán la vida.</desc>
     <credits>
-      <director>Miguel Morayta</director>
-      <director>Morayta Miguel</director>
-      <actor>Joselito</actor>
-      <actor>Blanca Sánchez</actor>
-      <actor>Miguel Ángel Álvarez</actor>
-      <actor>Sara García</actor>
-      <actor>David Reynoso</actor>
-      <actor>Fernando Luján</actor>
-      <actor>Garasa Joselito</actor>
-      <writer>Antonio de Jaén</writer>
-      <writer>Miguel Morayta</writer>
-      <composer>Rubén Fuentes</composer>
-      <composer>Luis Hernández Bretón</composer>
+      <director>Igor Tverdokhlebov</director>
+      <director>Tverdokhlebov Igor</director>
+      <actor>Pavel Priluchnyy</actor>
+      <actor>Lyubov Aksyonova</actor>
+      <actor>Karina Razumovskaya</actor>
+      <actor>Denis Shvedov</actor>
+      <actor>Dmitry Shevchenko</actor>
+      <actor>Alexander Oblasov</actor>
+      <actor>Anna Tsukanova-Kott</actor>
+      <actor>Igor Chernevich</actor>
+      <writer>Yuri Burnosov</writer>
+      <writer>Tatyana Gluschenko</writer>
+      <producer>Ivan Samokhvalov</producer>
+      <composer>Pavel Esenin</composer>
     </credits>
-    <date>1966</date>
-    <category lang="es">Musical</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/7261.jpg" />
-    <country lang="es">España</country>
+    <date>2018</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2680536.jpg" />
+    <country lang="es">Rusia</country>
+    <episode-num system="onscreen">S3 E14</episode-num>
     <rating system="ES">
-      <value>TP</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20211122100649 +0100" stop="20211122115350 +0100" channel="Somos">
-    <title lang="es">Sor intrépida</title>
-    <desc lang="es">Soledad es una famosa cantante que un buen día decide dar un giro a su vida e ingresar en un convento para ayudar a los demás. La prensa y sus familiares están desconcertados.</desc>
+  <programme start="20211125082700 +0100" stop="20211125091808 +0100" channel="XTRM">
+    <title lang="es">Rocco</title>
+    <desc lang="es">El hombre que ordenó el secuestro de Chiara Berguet muere asesinado en prisión antes de poder confesar sus vínculos con el crimen organizado.</desc>
     <credits>
-      <director>Rafael Gil</director>
-      <actor>Dominique Blanchar</actor>
-      <actor>Julia Caba Alba</actor>
-      <actor>María Dulce</actor>
-      <actor>Francisco Rabal</actor>
-      <actor>Margarita Robles</actor>
-      <actor>José Isbert</actor>
-      <writer>Vicente Escrivá</writer>
-      <composer>Juan Quintero</composer>
+      <director>Luca Brignone</director>
+      <actor>Marco Giallini</actor>
+      <actor>Ernesto D''Argenio</actor>
+      <actor>Francesco Acquaroli</actor>
+      <actor>Isabella Ragonese</actor>
+      <actor>Ernesto D'Argenio</actor>
+      <actor>Christian Ginepro</actor>
+      <actor>Massimiliano Caprara</actor>
+      <actor>Filippo Dini</actor>
+      <writer>Maurizio Careddu</writer>
+      <writer>Antonio Manzini</writer>
+      <producer>Marco Mastrogiacomo</producer>
+      <composer>Corrado Carosio</composer>
+      <composer>Pierangelo Fornaro</composer>
     </credits>
-    <date>1952</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12467.jpg" />
-    <country lang="es">España</country>
+    <date>2016</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5088080.jpg" />
+    <country lang="es">Italia</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
     <rating system="ES">
-      <value>TP</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20211122115350 +0100" stop="20211122132920 +0100" channel="Somos">
-    <title lang="es">Alcalde por elección</title>
-    <desc lang="es">Durante uno de sus viajes a Madrid, el futuro alcalde de una pequeña ciudad, es visto por sus conciudadanos en televisión junto a una bella mujer.</desc>
+  <programme start="20211125091808 +0100" stop="20211125100833 +0100" channel="XTRM">
+    <title lang="es">Rocco</title>
+    <desc lang="es">Rocco centra sus sospechas en la funcionaria de prisiones Abela como autora del crimen, pero ¿quién está detrás? Rocco recibe documentos que podrían demostrar la complicidad del banco con los usureros.</desc>
     <credits>
-      <director>Mariano Ozores</director>
-      <actor>Alfredo Landa</actor>
-      <actor>Mirta Miller</actor>
-      <actor>Antonio Ozores</actor>
-      <actor>Florinda Chico</actor>
-      <actor>Rafael Hernández</actor>
-      <actor>Rosa Valenty</actor>
-      <writer>Mariano Ozores</writer>
+      <director>Luca Brignone</director>
+      <actor>Marco Giallini</actor>
+      <actor>Ernesto D''Argenio</actor>
+      <actor>Francesco Acquaroli</actor>
+      <actor>Isabella Ragonese</actor>
+      <actor>Ernesto D'Argenio</actor>
+      <actor>Christian Ginepro</actor>
+      <actor>Massimiliano Caprara</actor>
+      <actor>Filippo Dini</actor>
+      <writer>Maurizio Careddu</writer>
+      <writer>Antonio Manzini</writer>
+      <producer>Marco Mastrogiacomo</producer>
+      <composer>Corrado Carosio</composer>
+      <composer>Pierangelo Fornaro</composer>
     </credits>
-    <date>1976</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/11007.jpg" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20211122132920 +0100" stop="20211122150243 +0100" channel="Somos">
-    <title lang="es">Matías, juez de línea</title>
-    <desc lang="es">Matías es juez de línea, tan honesto que señala un penalti que supone la eliminación de la selección española del mundial de fútbol.</desc>
-    <credits>
-      <director>Santiago Aguilar</director>
-      <director>Luis Guridi</director>
-      <actor>Carlos de Gabriel</actor>
-      <actor>Ramón Barea</actor>
-      <actor>Alicia Sánchez</actor>
-      <actor>Francisco Algora</actor>
-      <actor>Manuel Manquiña</actor>
-      <actor>Álex Angulo</actor>
-      <actor>Alicia Sanchez</actor>
-      <actor>Paco Algora</actor>
-      <writer>Santiago Aguilar</writer>
-      <writer>Luis Guridi</writer>
-      <producer>Andrés Vicente Gómez</producer>
-      <producer>Antonio Saura</producer>
-      <composer>Jose Carlos Mac</composer>
-    </credits>
-    <date>1996</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4563.jpg" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>TP</value>
-    </rating>
-  </programme>
-  <programme start="20211122150243 +0100" stop="20211122151743 +0100" channel="Somos">
-    <title lang="es">Cómicos Nuestros</title>
-    <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Tony Leblanc.</desc>
-    <credits>
-      <director>Verdet Ramón</director>
-      <actor>Leblanc Toni</actor>
-    </credits>
-    <date>2021</date>
-    <category lang="es">Documental</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5897038.jpg" />
-    <country lang="es">España</country>
+    <date>2016</date>
+    <category lang="es">Policíaca</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5088080.jpg" />
+    <country lang="es">Italia</country>
     <episode-num system="onscreen">S1 E10</episode-num>
     <rating system="ES">
-      <value>TP</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20211122151743 +0100" stop="20211122164556 +0100" channel="Somos">
-    <title lang="es">El fascista, la beata y su hija desvirgada</title>
-    <desc lang="es">Juan, ante los problemas económicos surgidos a raíz de la llegada de la democracia a España, decide irse a Venezuela, con Jaime, su cuñado, quien ha hecho fortuna en ese país.</desc>
+  <programme start="20211125100833 +0100" stop="20211125104944 +0100" channel="XTRM">
+    <title lang="es">Sucesor designado</title>
+    <desc lang="es">Atwood indaga sobre un político importante. Ritter busca a Wells. Aumenta la polémica de la investigación ética. Hookstraten y Kirkman defienden la educación artística.</desc>
     <credits>
-      <director>Joaquín Coll Espona</director>
-      <actor>José Luis López Vázquez</actor>
-      <actor>Amparo Soler Leal</actor>
-      <actor>Patricia Rivera</actor>
-      <actor>Orlando Urdaneta</actor>
-      <actor>María Luisa Ponte</actor>
-      <actor>Linda Lay</actor>
-      <actor>Linda Day</actor>
-      <writer>Joaquín Coll Espona</writer>
-      <writer>Gustavo Hernández</writer>
-      <producer>Gustavo Blyde</producer>
+      <director>Barba Norberto</director>
+      <actor>Kiefer Sutherland</actor>
+      <actor>Adan Canto</actor>
+      <actor>Italia Ricci</actor>
+      <actor>Kal Penn</actor>
+      <actor>Maggie Q</actor>
+      <actor>LaMonica Garrett</actor>
+      <actor>Natascha McElhone</actor>
+      <writer>David Guggenheim</writer>
+      <producer>Suzan Bymel</producer>
+      <producer>Mark Gordon</producer>
+      <composer>Sean Callery</composer>
+      <composer>Robert Lydecker</composer>
     </credits>
-    <date>1978</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/356563.jpg" />
-    <country lang="es">España</country>
+    <date>2016</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2360144.jpg" />
+    <country lang="es">EE.UU.</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125104944 +0100" stop="20211125122352 +0100" channel="XTRM">
+    <title lang="es">Soldado de fortuna</title>
+    <desc lang="es">Alain Lefevre ve truncados todos sus planes y se ve obligado a huir y formar parte de una violenta Legión. Cuando su ex jefe descubre su paradero, Alain se da cuenta de que tiene que enfrentarse a él.</desc>
+    <credits>
+      <director>Peter MacDonald</director>
+      <actor>Jean-Claude Van Damme</actor>
+      <actor>Adewale Akinnuoye-Agbaje</actor>
+      <actor>Steven Berkoff</actor>
+      <actor>Nicholas Farrell</actor>
+      <actor>Jim Carter</actor>
+      <actor>Ana Sofrenovic</actor>
+      <actor>Daniel Caltagirone</actor>
+      <actor>Joseph Long</actor>
+      <writer>Sheldon Lettich</writer>
+      <writer>Rebecca Morrison</writer>
+      <producer>Peter MacDonald</producer>
+      <producer>Jean-Claude Van Damme</producer>
+      <composer>John Altman</composer>
+    </credits>
+    <date>1998</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2495205.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125122352 +0100" stop="20211125135050 +0100" channel="XTRM">
+    <title lang="es">Beast of Burden</title>
+    <desc lang="es">Sean Haggerty solo tiene una hora para entregar su carga ilegal y convencer a un cártel, a un sicario y a la DEA de que todo está bien. Y debe hacerlo desde la cabina de mando de su avioneta Cessna.</desc>
+    <credits>
+      <director>Jesper Ganslandt</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Grace Gummer</actor>
+      <actor>Renée Willett</actor>
+      <actor>Joseph Martinez David</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2731666.jpg" />
+    <country lang="es">EE.UU.</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125135050 +0100" stop="20211125152646 +0100" channel="XTRM">
+    <title lang="es">Born to Race</title>
+    <desc lang="es">Danny Krueger, un piloto de carreras ilegales sufre un accidente. Se traslada al pueblo de su padre donde decide entrar a la Drags NHRA High School.</desc>
+    <credits>
+      <director>Alex Ranarivelo</director>
+      <actor>Joseph Cross</actor>
+      <actor>John Pyper-Ferguson</actor>
+      <actor>Brando Eaton</actor>
+      <actor>Nicole Badaan</actor>
+      <actor>Sherry Stringfield</actor>
+      <actor>Spencer Breslin</actor>
+      <actor>Christina Moore</actor>
+      <actor>Erik King</actor>
+      <writer>Steve Sarno</writer>
+      <writer>Alex Ranarivelo</writer>
+      <producer>Ali Afshar</producer>
+      <producer>George Shamieh</producer>
+      <composer>Jamie Christopherson</composer>
+    </credits>
+    <date>2011</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/468725.jpg" />
+    <country lang="es">EE.UU.</country>
     <rating system="ES">
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211122164556 +0100" stop="20211122182358 +0100" channel="Somos">
-    <title lang="es">Antes llega la muerte</title>
-    <desc lang="es">Cliford, esposo de María, es informado por el doctor Warren de que su mujer está gravemente enferma y no tiene salvación. Un tumor cerebral acabará con su vida en un corto período de tiempo.</desc>
+  <programme start="20211125152646 +0100" stop="20211125170348 +0100" channel="XTRM">
+    <title lang="es">El Señor Del Acero (yaroslav)</title>
+    <desc lang="es">El príncipe guerrero Yaroslav trata de unir las tierras rusas mientras lucha contra ladrones y el resto de tribus que se reparten las distintas partes de la región.</desc>
     <credits>
-      <director>Joaquín Luis Romero Marchent</director>
-      <director>Joaquin Luis Romero March</director>
-      <actor>Gloria Milland</actor>
-      <actor>Paul Piaget</actor>
-      <actor>Fernando Sancho</actor>
-      <actor>Francisco Sanz</actor>
-      <actor>Robert Hundar</actor>
-      <actor>Jesús Puente</actor>
-      <actor>Álvaro de Luna</actor>
-      <actor>Sanz Paul Piaget</actor>
-      <writer>Federico de Urrutia</writer>
-      <writer>Joaquín Luis Romero Marchent</writer>
+      <director>Dmitriy Korobkin</director>
+      <actor>Aleksandr Ivashkevich</actor>
+      <actor>Svetlana Chuykina</actor>
+      <actor>Aleksey Kravchenko</actor>
+      <actor>Viktor Verzhbitskiy</actor>
+      <actor>Valeriy Zolotukhin</actor>
+      <actor>Pavel Khrulyov</actor>
+      <actor>Elena Plaksina</actor>
+      <actor>Fyodor Shuvalov</actor>
+      <writer>Koshkina Marina</writer>
+      <producer>Vadim Byrkin</producer>
+      <producer>Anastasiya Pelevina</producer>
+      <composer>Dmitriy Dankov</composer>
     </credits>
-    <date>1964</date>
-    <category lang="es">Western</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3802210.jpg" />
-    <country lang="es">España</country>
+    <date>2010</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2435503.jpg" />
+    <country lang="es">Rusia</country>
     <rating system="ES">
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20211122182358 +0100" stop="20211122195357 +0100" channel="Somos">
-    <title lang="es">¿Por qué pecamos a los cuarenta?</title>
-    <desc lang="es">El doctor Alejandro Quesada, cuarentón con gran éxito entre las mujeres, regresa a España tras su estancia en América. A su llegada, aconseja a dos de sus amigos que tengan relaciones extramaritales.</desc>
+  <programme start="20211125170348 +0100" stop="20211125184018 +0100" channel="XTRM">
+    <title lang="es">Reservoir Dogs</title>
+    <desc lang="es">Una banda organizada es contratada para atracar una empresa y llevarse unos diamantes. Sin embargo, antes de que suene la alarma, la policía ya está allí.</desc>
     <credits>
-      <director>Pedro Lazaga</director>
-      <actor>Fernando Fernán Gómez</actor>
-      <actor>José Luis López Vázquez</actor>
-      <actor>Juanjo Menéndez</actor>
-      <actor>Esperanza Roy</actor>
-      <actor>Rosanna Yanni</actor>
-      <actor>Elsa Baeza</actor>
-      <actor>Rossanna Yanni</actor>
-      <writer>Pedro Masó</writer>
-      <producer>Pedro Masó</producer>
-      <composer>Antón García Abril</composer>
+      <director>Quentin Tarantino</director>
+      <actor>Michael Madsen</actor>
+      <actor>Tim Roth</actor>
+      <actor>Harvey Keitel</actor>
+      <actor>Chris Penn</actor>
+      <actor>Steve Buscemi</actor>
+      <actor>Quentin Tarantino</actor>
+      <actor>Lawrence Tierney</actor>
+      <actor>Eddie Bunker</actor>
+      <writer>Quentin Tarantino</writer>
+      <producer>Lawrence Bender</producer>
     </credits>
-    <date>1969</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/3540030.jpg" />
-    <country lang="es">España</country>
-    <rating system="ES">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211122195357 +0100" stop="20211122213043 +0100" channel="Somos">
-    <title lang="es">Una chica entre un millón</title>
-    <desc lang="es">Un ejecutivo recurre a mil y una estrategias para llamar la atención de una joven que se mueve en un mundo diferente al suyo.</desc>
-    <credits>
-      <director>Álvaro Sáenz de Heredia</director>
-      <actor>Juanjo Puigcorbé</actor>
-      <actor>Esperanza Campuzano</actor>
-      <actor>José Coronado</actor>
-      <actor>Neus Asensi</actor>
-      <actor>Rosana Pastor</actor>
-      <actor>Manuel Bandera</actor>
-      <actor>Marcela Walerstein</actor>
-      <writer>Álvaro Sáenz de Heredia</writer>
-    </credits>
-    <date>1994</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/13416.jpg" />
-    <country lang="es">España</country>
+    <date>1992</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1115.jpg" />
+    <country lang="es">EE.UU.</country>
     <rating system="ES">
       <value>18</value>
     </rating>
   </programme>
-  <programme start="20211122213043 +0100" stop="20211122230824 +0100" channel="Somos">
-    <title lang="es">El calzonazos</title>
-    <desc lang="es">Don Juan Alcántara es un boticario que se ha arruinado tras invertir su dinero en finanzas. Como siempre ha tenido una personalidad débil con poco carácter, no se atreve a confesárselo a su familia. Así que idea un plan.</desc>
+  <programme start="20211125184018 +0100" stop="20211125201525 +0100" channel="XTRM">
+    <title lang="es">Headhunter</title>
+    <desc lang="es">Martin Vinge, un conocido ex periodista y cazatalentos, es contratado por la empresa petrolera más importante de Dinamarca. Una vez dentro de la compañía descubre las luchas de poder interno que existen y pueden afectar a su vida privada.</desc>
     <credits>
-      <director>Mariano Ozores</director>
-      <actor>Paco Martínez Soria</actor>
-      <actor>Florinda Chico</actor>
-      <actor>Mari Carmen Prendes</actor>
-      <actor>María Kosty</actor>
-      <actor>Emilio Gutiérrez Caba</actor>
-      <actor>Luis Varela</actor>
-      <writer>Vicente Coello</writer>
-      <writer>Mariano Ozores Jr.</writer>
-      <composer>Gregorio García Segura</composer>
+      <director>Rumle Hammerich</director>
+      <actor>Lars Mikkelsen</actor>
+      <actor>Nikolaj Coster-Waldau</actor>
+      <actor>Charlotte Munck</actor>
+      <actor>Burkhard Forstreuter</actor>
+      <actor>Søren Spanning</actor>
+      <actor>Charlotte Fich</actor>
+      <actor>Nikolaj Coster</actor>
+      <actor>Waldau</actor>
+      <writer>Rumle Hammerich</writer>
+      <writer>Åke Sandgren</writer>
+      <producer>Åke Sandgren</producer>
+      <composer>Jacob Groth</composer>
     </credits>
-    <date>1974</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2503.jpg" />
-    <country lang="es">España</country>
+    <date>2009</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/874668.jpg" />
+    <country lang="es">Dinamarca</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125201525 +0100" stop="20211125215630 +0100" channel="XTRM">
+    <title lang="es">El buen ladrón</title>
+    <desc lang="es">Bob es, además de jugador, un ladrón en la Riviera francesa arruinado y enganchado a la heroína. En el fondo es un sentimental, como lo demuestra su esfuerzo por apartar a una joven rusa de las malas compañías.</desc>
+    <credits>
+      <director>Neil Jordan</director>
+      <director>Jordan Neil</director>
+      <actor>Nick Nolte</actor>
+      <actor>Tchéky Karyo</actor>
+      <actor>Saïd Taghmaoui</actor>
+      <actor>Nutsa Kukhianidze</actor>
+      <actor>Ouassini Embarek</actor>
+      <actor>Nolte Nick</actor>
+      <actor>Karyo Tcheky</actor>
+      <actor>Taghmaoui Saïd</actor>
+      <writer>Neil Jordan</writer>
+      <producer>John Wells</producer>
+      <producer>Chris Menges</producer>
+    </credits>
+    <date>2002</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2416032.jpg" />
+    <country lang="es">Coproducción</country>
     <rating system="ES">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20211122230824 +0100" stop="20211123003433 +0100" channel="Somos">
-    <title lang="es">El recomendado</title>
-    <desc lang="es">Pablo Munilla es un infeliz que sólo quiere conseguir un empleo. Así que acepta ejercer de investigador en una agencia especial de detectives. Su primera misión será vigilar a una coqueta dama cuyo marido sospecha que le es infiel.</desc>
+  <programme start="20211125215630 +0100" stop="20211125225000 +0100" channel="XTRM">
+    <title lang="es">Narcos</title>
+    <desc lang="es">David y Peña compiten entre sí para encontrar a Pallomari. Peña toma una decisión importante respecto al futuro de su carrera.</desc>
     <credits>
-      <director>Mariano Ozores</director>
-      <director>Ozores Mariano</director>
-      <actor>Antonio Ozores</actor>
-      <actor>Fernando Esteso</actor>
-      <actor>Adriana Vega</actor>
-      <actor>Azucena Hernández</actor>
-      <actor>Rosa Valenty</actor>
-      <actor>Queta Claver</actor>
-      <actor>Claver Fernando Esteso</actor>
-      <writer>Juan Bosch</writer>
-      <composer>Gregorio García Segura</composer>
+      <director>Andrés Baiz</director>
+      <actor>Pedro Pascal</actor>
+      <actor>Damián Alcázar</actor>
+      <actor>Alberto Ammann</actor>
+      <actor>Francisco Denis</actor>
+      <actor>Pêpê Rapazote</actor>
+      <actor>Javier Cámara</actor>
+      <actor>Miguel Ángel Silvestre</actor>
+      <actor>Matias Varela</actor>
     </credits>
-    <date>1985</date>
-    <category lang="es">Comedia</category>
-    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5787775.jpg" />
-    <country lang="es">España</country>
+    <date>2017</date>
+    <category lang="es">Acción</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2637425.jpg" />
+    <country lang="es">Colombia</country>
+    <episode-num system="onscreen">S3 E10</episode-num>
     <rating system="ES">
-      <value>18</value>
+      <value>16</value>
     </rating>
   </programme>
   <programme start="20211123003433 +0100" stop="20211123021059 +0100" channel="Somos">
@@ -2170,6 +1886,375 @@
     <date>1999</date>
     <category lang="es">Comedia</category>
     <icon src="http://programacion-tv.elpais.com/imagenes/programas/458235.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20211124232310 +0100" stop="20211125005851 +0100" channel="Somos">
+    <title lang="es">Pásate a la pasta</title>
+    <desc lang="es">Por culpa de un enredo familiar, Renato, un editor gay y Ginevra, una militante feminista lesbiana descubrirán que entre ellos hay algo más que una sana amistad.</desc>
+    <credits>
+      <director>Leo Antonello de</director>
+      <actor>Cinieri Claudia Gerini</actor>
+      <actor>Pere Ponce</actor>
+      <actor>Ana Risueño</actor>
+      <actor>Armando De Razza</actor>
+    </credits>
+    <date>1999</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/9396971.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211125005851 +0100" stop="20211125011351 +0100" channel="Somos">
+    <title lang="es">Cómicos Nuestros</title>
+    <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Rafaela Aparicio.</desc>
+    <credits>
+      <director>Ramón Verdet</director>
+      <actor>Rafaela Aparicio</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Documental</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4847539.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20211125011351 +0100" stop="20211125024227 +0100" channel="Somos">
+    <title lang="es">La cera virgen</title>
+    <desc lang="es">María, una chica de pueblo, llega a la capital para ganarse la vida, pero regresa al pueblo cuando descubre que el alcalde está acosando sexualmente a sus hermanas. Juntas, idean un plan para vengarse de él.</desc>
+    <credits>
+      <director>José María Forqué</director>
+      <actor>Carmen Sevilla</actor>
+      <actor>José Luis López Vázquez</actor>
+      <actor>Vera Sanders</actor>
+      <actor>Maribel Martín</actor>
+      <actor>Eva León</actor>
+      <actor>Gogó Rojo</actor>
+      <actor>Julia Caba Alba</actor>
+      <actor>Alfonso del Real</actor>
+      <writer>Rafael Azcona</writer>
+      <writer>José María Forqué</writer>
+      <composer>Adolfo Waitzman</composer>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Musical</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1528565.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211125024227 +0100" stop="20211125072358 +0100" channel="Somos">
+    <title lang="es">Cierre de emisión</title>
+    <desc lang="es">Cierre de emisión.</desc>
+    <category lang="es">Otros</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/1366073.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20211125072358 +0100" stop="20211125085650 +0100" channel="Somos">
+    <title lang="es">Retrato de familia</title>
+    <desc lang="es">Historia de una familia de buena posición económica en tres momentos claves de la vida española: 1918, 1931 y 1936. Los sucesos políticos y sociales del periodo son el telón de fondo y el motor de los conflictos individuales.</desc>
+    <credits>
+      <director>Antonio Giménez Rico</director>
+      <director>Giménez-Rico Antonio</director>
+      <actor>Amparo Soler Leal</actor>
+      <actor>Antonio Ferrandis</actor>
+      <actor>Mónica Randall</actor>
+      <actor>Miguel Bosé</actor>
+      <actor>Carmen Lozano</actor>
+      <actor>Gabriel Llopart</actor>
+      <actor>Encarna Paso</actor>
+      <actor>Mirta Miller</actor>
+      <writer>Miguel Delibes</writer>
+      <writer>Antonio Giménez Rico</writer>
+      <producer>José Sámano</producer>
+      <composer>Carmelo A. Bernaola</composer>
+    </credits>
+    <date>1976</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/603444.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211125085650 +0100" stop="20211125101739 +0100" channel="Somos">
+    <title lang="es">Furtivos</title>
+    <desc lang="es">Un joven cazador furtivo vive aislado en el bosque con su madre violenta y posesiva. Un día, conoce a Milagros, una chica escapada de un convento de monjas. Pero los celos de la madre provocarán una dramática reacción.</desc>
+    <credits>
+      <director>José Luis Borau</director>
+      <director>Jose Luis Borau</director>
+      <actor>Alicia Sánchez</actor>
+      <actor>Felipe Solano</actor>
+      <actor>Ismael Merlo</actor>
+      <actor>José Luis Borau</actor>
+      <actor>Lola Gaos</actor>
+      <actor>Ovidi Montllor</actor>
+      <actor>Alicia Sanchez</actor>
+      <actor>Jose Luis Borau</actor>
+      <writer>Manuel Gutiérrez Aragón</writer>
+      <composer>Vainica Doble</composer>
+    </credits>
+    <date>1975</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/648604.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125101739 +0100" stop="20211125114551 +0100" channel="Somos">
+    <title lang="es">¡Cómo sois las mujeres!</title>
+    <desc lang="es">Un ama de casa intercambia sus labores con su marido. Ella sale a la calle en busca de trabajo y él trata de realizar con éxito las tareas del hogar.</desc>
+    <credits>
+      <director>Pedro Lazaga</director>
+      <director>Lazaga Pedro</director>
+      <actor>Arturo Fernández</actor>
+      <actor>Teresa Gimpera</actor>
+      <actor>Juanjo Menéndez</actor>
+      <actor>Liana Orfei</actor>
+      <actor>Barta Barri</actor>
+      <actor>Doris Coll</actor>
+      <actor>Barranco Arturo Fernández</actor>
+      <writer>Pedro Masó</writer>
+      <writer>Rafael J. Salvia</writer>
+      <producer>Pedro Masó</producer>
+      <composer>Antón García Abril</composer>
+    </credits>
+    <date>1968</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2699461.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125114551 +0100" stop="20211125120051 +0100" channel="Somos">
+    <title lang="es">Cómicos Nuestros</title>
+    <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Lina Morgan.</desc>
+    <credits>
+      <director>Ramón Verdet</director>
+      <actor>Lina Morgan</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Documental</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4752970.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20211125120051 +0100" stop="20211125133734 +0100" channel="Somos">
+    <title lang="es">Díselo con flores</title>
+    <desc lang="es">Una familia se ve gravemente trastocada con la llegada de una joven niñera alemana que se  se enamora de Jean Claude, el hijo mayor. Al poco tiempo todos los miembros van muriendo accidentalmente.</desc>
+    <credits>
+      <director>Pierre Grimblat</director>
+      <actor>Rocío Dúrcal</actor>
+      <actor>Delphine Seyrig</actor>
+      <actor>John Moulderbrown</actor>
+      <actor>Fernando Rey</actor>
+      <actor>Francis Blanche</actor>
+      <actor>Julien Guiomar</actor>
+      <actor>John Moulder Brown</actor>
+      <writer>Roberto Bodegas</writer>
+      <writer>Christian Charrière</writer>
+      <producer>Pierre Grimblat</producer>
+      <composer>Claude Bolling</composer>
+    </credits>
+    <date>1974</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2343.jpg" />
+    <country lang="es">Francia</country>
+    <rating system="ES">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20211125133734 +0100" stop="20211125151502 +0100" channel="Somos">
+    <title lang="es">Digan lo que digan</title>
+    <desc lang="es">Rafael es un cantante famoso que trabaja en un crucero y aprovecha un viaje para ir a Buenos Aires a visitar a su hermano Miguel, que vive allí hace varios años.</desc>
+    <credits>
+      <director>Mario Camus</director>
+      <actor>Raphael</actor>
+      <actor>Serena Vergano</actor>
+      <actor>Ignacio Quirós</actor>
+      <actor>Susana Campos</actor>
+      <actor>Darío Vittori</actor>
+      <actor>Hernán Guido</actor>
+      <writer>Antonio Gala</writer>
+      <writer>Miguel Rubio</writer>
+      <composer>Antón García Abril</composer>
+    </credits>
+    <date>1968</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/7017742.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20211125151502 +0100" stop="20211125153002 +0100" channel="Somos">
+    <title lang="es">Cómicos Nuestros</title>
+    <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para Antonio Garisa.</desc>
+    <credits>
+      <director>Verdet Ramón</director>
+      <actor>Garisa Antonio</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Documental</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/5907898.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20211125153002 +0100" stop="20211125165705 +0100" channel="Somos">
+    <title lang="es">Morirás en Chafarinas</title>
+    <desc lang="es">En el cuartel de regulares de Melilla se están produciendo misteriosas muertes. El capitán Contreras inicia una investigación.</desc>
+    <credits>
+      <director>Pedro Olea</director>
+      <director>Olea Pedro</director>
+      <actor>María Barranco</actor>
+      <actor>Jorge Sanz</actor>
+      <actor>Óscar Ladoire</actor>
+      <actor>Javier Albalá</actor>
+      <actor>Esperanza Campuzano</actor>
+      <actor>Ramón Langa</actor>
+      <actor>Dechent Jorge Sanz</actor>
+      <writer>Pedro Olea</writer>
+      <writer>Fernando Lalana</writer>
+      <producer>José Luis Escolar</producer>
+      <composer>Bernardo Bonezzi</composer>
+    </credits>
+    <date>1995</date>
+    <category lang="es">Thriller</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/2418.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125165705 +0100" stop="20211125182256 +0100" channel="Somos">
+    <title lang="es">Siete pistolas para Timothy</title>
+    <desc lang="es">Rodrigo Rodríguez y sus hombres atacan a los trabajadores de una mina, dejando superviviente a Corky, para que transmita a su patrón que si en un plazo de 15 días no entrega el contrato de cesión, está dispuesto a todo.</desc>
+    <credits>
+      <director>Romolo Guerrieri</director>
+      <director>Romolo Girolami</director>
+      <actor>Sean Flynn</actor>
+      <actor>Daniel Martín</actor>
+      <actor>Ida Galli</actor>
+      <actor>Fernando Sancho</actor>
+      <actor>Frank Oliveras</actor>
+      <actor>Poldo Bendandi</actor>
+      <actor>Tito García</actor>
+      <actor>Dani Martín</actor>
+      <writer>Alfonso Balcázar</writer>
+      <writer>José Antonio de la Loma</writer>
+      <composer>Gino Peguri</composer>
+    </credits>
+    <date>1966</date>
+    <category lang="es">Western</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/11843.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>Poldo Bendandi</value>
+    </rating>
+  </programme>
+  <programme start="20211125182256 +0100" stop="20211125195020 +0100" channel="Somos">
+    <title lang="es">Cuatro mujeres y un lío</title>
+    <desc lang="es">Federico es un fabricante de lencería que necesita financiación y va a recibir la visita de un tío suyo millonario que lo puede ayudar. El problema es que su mujer lo abandonó por lo que hace pasar a la criada por su esposa.</desc>
+    <credits>
+      <director>Mariano Ozores</director>
+      <actor>Fernando Esteso</actor>
+      <actor>Antonio Ozores</actor>
+      <actor>Arévalo</actor>
+      <actor>Adriana Vega</actor>
+      <actor>Loreta Tovar</actor>
+      <actor>Marta Valverde</actor>
+      <actor>Francisco Camoiras</actor>
+      <writer>Mariano Ozores</writer>
+      <composer>Gregorio García Segura</composer>
+    </credits>
+    <date>1985</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/4136703.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211125195020 +0100" stop="20211125211459 +0100" channel="Somos">
+    <title lang="es">Mi querida señorita</title>
+    <desc lang="es">Adela Castro es una mujer soltera de cuarenta años que vive en una ciudad de provincias. Nunca ha mantenido relaciones ni con un hombre ni con una mujer. Un día decide ir al médico, ya que no se considera una mujer normal.</desc>
+    <credits>
+      <director>Jaime de Armiñán</director>
+      <actor>José Luis López Vázquez</actor>
+      <actor>Julieta Serrano</actor>
+      <actor>Antonio Ferrandis</actor>
+      <actor>Enrique Ávila</actor>
+      <actor>Lola Gaos</actor>
+      <actor>Chus Lampreave</actor>
+      <actor>Mónica Randall</actor>
+      <writer>Jaime de Armiñán</writer>
+      <writer>José Luis Borau</writer>
+      <producer>Luis Megino</producer>
+      <composer>Rafael Ferro</composer>
+    </credits>
+    <date>1971</date>
+    <category lang="es">Drama</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/320806.jpg" />
+    <country lang="es">España</country>
+    <rating system="ES">
+      <value>Julieta Serrano</value>
+    </rating>
+  </programme>
+  <programme start="20211125211459 +0100" stop="20211125213000 +0100" channel="Somos">
+    <title lang="es">Cómicos Nuestros</title>
+    <desc lang="es">En SOMOS, somos fans de esos actores y actrices que nos han hecho reír toda la vida, nuestros cómicos favoritos, a los que tanto cariño y respeto tenemos. Este mes el homenaje es para José Sacristán.</desc>
+    <credits>
+      <director>Verdet Ramón</director>
+      <actor>Sacristán José</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="es">Documental</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/8473948.jpg" />
+    <country lang="es">España</country>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="ES">
+      <value>TP</value>
+    </rating>
+  </programme>
+  <programme start="20211125213000 +0100" stop="20211125230304 +0100" channel="Somos">
+    <title lang="es">¡No firmes más letras, cielo!</title>
+    <desc lang="es">Sabino Gurupe es un hombre feliz. Trabaja en una importante compañía francesa de seguros y los domingos se va a la Sierra a pescar. Pero un buen día conoce a Elisa, una chica muy guapa.</desc>
+    <credits>
+      <director>Pedro Lazaga</director>
+      <director>Lazaga Pedro</director>
+      <actor>Alfredo Landa</actor>
+      <actor>Mari Carmen Prendes</actor>
+      <actor>Mirta Miller</actor>
+      <actor>Rafaela Aparicio</actor>
+      <actor>Manuel Summers</actor>
+      <actor>José Luis López Vázquez</actor>
+      <actor>Mary Carmen Prendes</actor>
+      <actor>María José Román</actor>
+      <writer>Vicente Coello</writer>
+      <writer>Vicente Escrivá</writer>
+      <producer>Vicente Escrivá</producer>
+    </credits>
+    <date>1972</date>
+    <category lang="es">Comedia</category>
+    <icon src="http://programacion-tv.elpais.com/imagenes/programas/12590.jpg" />
     <country lang="es">España</country>
     <rating system="ES">
       <value>TP</value>
